@@ -1,0 +1,30 @@
+{
+    "name": "TRURO-ALVERTON",
+    "data": {
+        "TRURO-ALVERTON.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-147.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-268.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "TRURO-ALVERTON.csv": [
+            {
+                "start_date": "1842/05",
+                "end_date": "1842/05"
+            },
+            {
+                "start_date": "1851/02",
+                "end_date": "1851/02"
+            }
+        ]
+    },
+    "unused": []
+}

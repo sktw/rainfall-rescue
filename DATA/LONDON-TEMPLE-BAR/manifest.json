@@ -1,0 +1,25 @@
+{
+    "name": "LONDON-TEMPLE-BAR",
+    "data": {
+        "LONDON-TEMPLE-BAR.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-016.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-002.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-018.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-019.csv"
+        }
+    ]
+}

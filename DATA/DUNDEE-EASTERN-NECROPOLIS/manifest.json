@@ -1,0 +1,124 @@
+{
+    "name": "DUNDEE-EASTERN-NECROPOLIS",
+    "data": {
+        "DUNDEE-EASTERN-NECROPOLIS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-187.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-105.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-117.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-265.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-199.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-188.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "DUNDEE-EASTERN-NECROPOLIS.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+                "start_date": "1860/01",
+                "end_date": "1860/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+                "start_date": "1861/01",
+                "end_date": "1862/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+                "start_date": "1863/01",
+                "end_date": "1863/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+                "start_date": "1864/01",
+                "end_date": "1865/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+                "start_date": "1866/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-008.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-186.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-104.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-264.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-200.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUNDEE-EASTERN-NECROPOLIS.csv": [
+            {
+                "start_date": "1919/02",
+                "end_date": "1919/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+            "start_date": "1860/13",
+            "end_date": "1860/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+            "start_date": "1862/13",
+            "end_date": "1862/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+            "start_date": "1863/13",
+            "end_date": "1863/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-157.csv",
+            "start_date": "1865/13",
+            "end_date": "1865/13"
+        }
+    ]
+}

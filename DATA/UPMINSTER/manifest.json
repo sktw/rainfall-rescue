@@ -1,0 +1,118 @@
+{
+    "name": "UPMINSTER",
+    "data": {
+        "UPMINSTER-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-107.csv",
+                "start_date": "1690/01",
+                "end_date": "1699/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+                "start_date": "1700/01",
+                "end_date": "1709/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-111.csv",
+                "start_date": "1710/01",
+                "end_date": "1719/13"
+            }
+        ],
+        "UPMINSTER.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-106.csv",
+                "start_date": "1690/01",
+                "end_date": "1699/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+                "start_date": "1700/01",
+                "end_date": "1709/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-110.csv",
+                "start_date": "1710/01",
+                "end_date": "1719/13"
+            }
+        ]
+    },
+    "idr": {
+        "UPMINSTER-2.csv": [
+            {
+                "start_date": "1704/04",
+                "end_date": "1704/04"
+            },
+            {
+                "start_date": "1712/13",
+                "end_date": "1712/13"
+            }
+        ],
+        "UPMINSTER.csv": [
+            {
+                "start_date": "1697/01",
+                "end_date": "1697/01"
+            },
+            {
+                "start_date": "1697/03",
+                "end_date": "1697/04"
+            },
+            {
+                "start_date": "1697/06",
+                "end_date": "1697/12"
+            },
+            {
+                "start_date": "1698/01",
+                "end_date": "1699/01"
+            },
+            {
+                "start_date": "1699/03",
+                "end_date": "1699/05"
+            },
+            {
+                "start_date": "1699/07",
+                "end_date": "1699/12"
+            },
+            {
+                "start_date": "1700/13",
+                "end_date": "1700/13"
+            },
+            {
+                "start_date": "1708/13",
+                "end_date": "1708/13"
+            },
+            {
+                "start_date": "1710/13",
+                "end_date": "1710/13"
+            },
+            {
+                "start_date": "1711/13",
+                "end_date": "1711/13"
+            },
+            {
+                "start_date": "1713/13",
+                "end_date": "1713/13"
+            },
+            {
+                "start_date": "1715/01",
+                "end_date": "1715/01"
+            },
+            {
+                "start_date": "1715/03",
+                "end_date": "1715/06"
+            },
+            {
+                "start_date": "1715/08",
+                "end_date": "1715/12"
+            },
+            {
+                "start_date": "1716/01",
+                "end_date": "1716/09"
+            },
+            {
+                "start_date": "1716/11",
+                "end_date": "1716/13"
+            }
+        ]
+    },
+    "unused": []
+}

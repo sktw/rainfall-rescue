@@ -1,0 +1,50 @@
+{
+    "name": "QUEENSTOWN",
+    "data": {
+        "QUEENSTOWN-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-003.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "QUEENSTOWN-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-019.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "QUEENSTOWN.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-287.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-004.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-004.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-016.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "QUEENSTOWN.csv": [
+            {
+                "start_date": "1859/07",
+                "end_date": "1859/07"
+            }
+        ]
+    },
+    "unused": []
+}

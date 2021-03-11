@@ -1,0 +1,35 @@
+{
+    "name": "ABERGAVENNY-DYNE-HOUSE",
+    "data": {
+        "ABERGAVENNY-DYNE-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-030.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-103.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "ABERGAVENNY-DYNE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-029.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

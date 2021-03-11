@@ -1,0 +1,46 @@
+{
+    "name": "ST-IVES-EARITH",
+    "data": {
+        "ST-IVES-EARITH.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-091.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-152.csv",
+                "start_date": "1850/01",
+                "end_date": "1856/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-152.csv",
+                "start_date": "1857/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-005.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "ST-IVES-EARITH.csv": [
+            {
+                "start_date": "1851/13",
+                "end_date": "1852/01"
+            },
+            {
+                "start_date": "1857/12",
+                "end_date": "1857/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-152.csv",
+            "start_date": "1856/13",
+            "end_date": "1856/13"
+        }
+    ]
+}

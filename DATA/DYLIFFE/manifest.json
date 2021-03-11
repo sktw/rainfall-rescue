@@ -1,0 +1,74 @@
+{
+    "name": "DYLIFFE",
+    "data": {
+        "DYLIFFE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-163.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-163.csv",
+                "start_date": "1885/03",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-163.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "DYLIFFE.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-059.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-001.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "DYLIFFE-2.csv": [
+            {
+                "start_date": "1888/05",
+                "end_date": "1888/05"
+            },
+            {
+                "start_date": "1888/09",
+                "end_date": "1888/09"
+            }
+        ],
+        "DYLIFFE.csv": [
+            {
+                "start_date": "1870/10",
+                "end_date": "1870/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-163.csv",
+            "start_date": "1885/02",
+            "end_date": "1885/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-163.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
+        }
+    ],
+    "external": {
+        "DYLIFFE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-163.jpg",
+                "start_date": "1890/01",
+                "end_date": "1890/08",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

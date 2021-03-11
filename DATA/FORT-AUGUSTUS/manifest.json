@@ -1,0 +1,89 @@
+{
+    "name": "FORT-AUGUSTUS",
+    "data": {
+        "FORT-AUGUSTUS-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-176.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-176.csv",
+                "start_date": "1956/11",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-176.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FORT-AUGUSTUS.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-008.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_28_pt1-page-313.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-137.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-025.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-025.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-010.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-176.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_28_pt1-page-313.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-025.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_26_pt1-page-007.csv"
+        },
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-176.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

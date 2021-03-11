@@ -1,0 +1,156 @@
+{
+    "name": "LAKE-COWLYD-CAPEL-CURIG",
+    "data": {
+        "LAKE-COWLYD-CAPEL-CURIG-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-004.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1938/02",
+                "end_date": "1938/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1938/11",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1939/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-136.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-136.csv",
+                "start_date": "1947/04",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1953/05",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1954/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1956/04",
+                "end_date": "1956/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LAKE-COWLYD-CAPEL-CURIG.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-161.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-129.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-136.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+            "start_date": "1938/01",
+            "end_date": "1938/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+            "start_date": "1938/10",
+            "end_date": "1938/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1953/04",
+            "end_date": "1953/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1956/12",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1957/10",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-246.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

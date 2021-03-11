@@ -1,0 +1,138 @@
+{
+    "name": "KENDAL-POTTER-FELL",
+    "data": {
+        "KENDAL-POTTER-FELL.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-015.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-263.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_25_pt1-page-181.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-101.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-101.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1943/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1945/03",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1946/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-146.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "KENDAL-POTTER-FELL.csv": [
+            {
+                "start_date": "1920/12",
+                "end_date": "1920/12"
+            },
+            {
+                "start_date": "1943/02",
+                "end_date": "1943/02"
+            },
+            {
+                "start_date": "1943/13",
+                "end_date": "1943/13"
+            },
+            {
+                "start_date": "1948/07",
+                "end_date": "1948/07"
+            },
+            {
+                "start_date": "1957/13",
+                "end_date": "1957/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-077.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-101.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-101.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

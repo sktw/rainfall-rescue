@@ -1,0 +1,31 @@
+{
+    "name": "FORRES-GRANGE-HALL",
+    "data": {
+        "FORRES-GRANGE-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-087.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_15_pt1-page-260.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-190.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "FORRES-GRANGE-HALL.csv": [
+            {
+                "start_date": "1888/07",
+                "end_date": "1888/07"
+            }
+        ]
+    },
+    "unused": []
+}

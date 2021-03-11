@@ -1,0 +1,28 @@
+{
+    "name": "SOUTHCHURCH",
+    "data": {
+        "SOUTHCHURCH.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-142.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-101.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-166.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-067.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

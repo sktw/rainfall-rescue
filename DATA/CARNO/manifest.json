@@ -1,0 +1,25 @@
+{
+    "name": "CARNO",
+    "data": {
+        "CARNO-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-011.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CARNO.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt3-page-065.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

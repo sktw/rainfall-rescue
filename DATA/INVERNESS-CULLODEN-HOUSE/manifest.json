@@ -1,0 +1,50 @@
+{
+    "name": "INVERNESS-CULLODEN-HOUSE",
+    "data": {
+        "INVERNESS-CULLODEN-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-074.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-250.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-050.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-005.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-006.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "INVERNESS-CULLODEN-HOUSE.csv": [
+            {
+                "start_date": "1844/02",
+                "end_date": "1844/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_H_pt1-page-252.csv"
+        }
+    ]
+}

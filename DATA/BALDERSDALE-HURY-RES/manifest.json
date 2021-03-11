@@ -1,0 +1,94 @@
+{
+    "name": "BALDERSDALE-HURY-RES",
+    "data": {
+        "BALDERSDALE-HURY-RES-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-052.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-052.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-080.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-261.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-085.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BALDERSDALE-HURY-RES.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-217.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-040.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-079.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-051.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-051.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-079.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-260.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-084.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BALDERSDALE-HURY-RES.csv": [
+            {
+                "start_date": "1919/08",
+                "end_date": "1919/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_24_pt1-page-052.csv",
+            "start_date": "1927/01",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_24_pt1-page-051.csv",
+            "start_date": "1927/01",
+            "end_date": "1928/13"
+        }
+    ]
+}

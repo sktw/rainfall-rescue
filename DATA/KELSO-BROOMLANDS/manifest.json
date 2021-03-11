@@ -1,0 +1,69 @@
+{
+    "name": "KELSO-BROOMLANDS",
+    "data": {
+        "KELSO-BROOMLANDS-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-129.csv",
+                "start_date": "1946/03",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-129.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_25_pt1-page-183.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KELSO-BROOMLANDS.csv": [
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-069.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-094.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-167.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-114.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-314.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_28_pt1-page-129.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/02"
+            }
+        ]
+    },
+    "idr": {
+        "KELSO-BROOMLANDS-2.csv": [
+            {
+                "start_date": "1954/01",
+                "end_date": "1954/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_28_pt1-page-129.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        }
+    ]
+}

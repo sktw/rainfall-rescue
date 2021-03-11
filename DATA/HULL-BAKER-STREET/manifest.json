@@ -1,0 +1,18 @@
+{
+    "name": "HULL-BAKER-STREET",
+    "data": {
+        "HULL-BAKER-STREET.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-153.csv",
+                "start_date": "1864/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/13"
+            }
+        ]
+    },
+    "unused": []
+}

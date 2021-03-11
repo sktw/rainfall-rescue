@@ -1,0 +1,20 @@
+{
+    "name": "RHYL-GAS-OFFICE",
+    "data": {
+        "RHYL-GAS-OFFICE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-079.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "RHYL-GAS-OFFICE.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-078.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

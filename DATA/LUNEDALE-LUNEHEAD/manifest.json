@@ -1,0 +1,100 @@
+{
+    "name": "LUNEDALE-LUNEHEAD",
+    "data": {
+        "LUNEDALE-LUNEHEAD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_22_pt1-page-157.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-083.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-083.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-264.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-264.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-087.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LUNEDALE-LUNEHEAD.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-079.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt2-page-073.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt2-page-073.csv",
+                "start_date": "1882/10",
+                "end_date": "1882/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt2-page-073.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "LUNEDALE-LUNEHEAD-2.csv": [
+            {
+                "start_date": "1910/02",
+                "end_date": "1910/02"
+            }
+        ],
+        "LUNEDALE-LUNEHEAD.csv": [
+            {
+                "start_date": "1882/11",
+                "end_date": "1882/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_11_pt2-page-073.csv",
+            "start_date": "1882/09",
+            "end_date": "1882/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_11_pt2-page-073.csv",
+            "start_date": "1882/13",
+            "end_date": "1882/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-264.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-264.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

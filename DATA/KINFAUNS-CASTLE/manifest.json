@@ -1,0 +1,77 @@
+{
+    "name": "KINFAUNS-CASTLE",
+    "data": {
+        "KINFAUNS-CASTLE-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-150.csv",
+                "start_date": "1815/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-025.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-072.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-045.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "KINFAUNS-CASTLE-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-081.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "KINFAUNS-CASTLE-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-080.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-090.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "KINFAUNS-CASTLE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-149.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    },
+    "idr": {
+        "KINFAUNS-CASTLE-2.csv": [
+            {
+                "start_date": "1820/07",
+                "end_date": "1820/07"
+            },
+            {
+                "start_date": "1835/11",
+                "end_date": "1835/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-150.csv",
+            "start_date": "1811/01",
+            "end_date": "1814/13"
+        }
+    ]
+}

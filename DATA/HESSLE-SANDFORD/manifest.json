@@ -1,0 +1,35 @@
+{
+    "name": "HESSLE-SANDFORD",
+    "data": {
+        "HESSLE-SANDFORD-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-103.csv",
+                "start_date": "1944/01",
+                "end_date": "1947/13"
+            }
+        ],
+        "HESSLE-SANDFORD.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-248.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-103.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-103.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-184.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,28 @@
+{
+    "name": "BARNSLEY-CAWTHORNE",
+    "data": {
+        "BARNSLEY-CAWTHORNE.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-090.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-092.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-163.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": []
+}

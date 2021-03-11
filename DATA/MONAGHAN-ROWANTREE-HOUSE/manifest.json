@@ -1,0 +1,52 @@
+{
+    "name": "MONAGHAN-ROWANTREE-HOUSE",
+    "data": {
+        "MONAGHAN-ROWANTREE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-060.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-060.csv",
+                "start_date": "1890/06",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-060.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-132.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-106.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-103.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_28_pt1-page-060.csv",
+            "start_date": "1890/05",
+            "end_date": "1890/05"
+        },
+        {
+            "filename": "TYRain_1890-1899_28_pt1-page-060.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-189.csv"
+        }
+    ]
+}

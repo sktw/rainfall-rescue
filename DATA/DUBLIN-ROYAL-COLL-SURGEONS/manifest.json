@@ -1,0 +1,26 @@
+{
+    "name": "DUBLIN-ROYAL-COLL-SURGEONS",
+    "data": {
+        "DUBLIN-ROYAL-COLL-SURGEONS.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-108.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-096.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUBLIN-ROYAL-COLL-SURGEONS.csv": [
+            {
+                "start_date": "1840/12",
+                "end_date": "1840/12"
+            }
+        ]
+    },
+    "unused": []
+}

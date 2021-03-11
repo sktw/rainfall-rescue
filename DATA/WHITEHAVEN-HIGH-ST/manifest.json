@@ -1,0 +1,47 @@
+{
+    "name": "WHITEHAVEN-HIGH-ST",
+    "data": {
+        "WHITEHAVEN-HIGH-ST.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-091.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-140.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-270.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "WHITEHAVEN-HIGH-ST.csv": [
+            {
+                "start_date": "1836/04",
+                "end_date": "1836/04"
+            },
+            {
+                "start_date": "1838/06",
+                "end_date": "1838/06"
+            },
+            {
+                "start_date": "1841/08",
+                "end_date": "1841/08"
+            },
+            {
+                "start_date": "1841/10",
+                "end_date": "1841/10"
+            },
+            {
+                "start_date": "1846/09",
+                "end_date": "1846/09"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,42 @@
+{
+    "name": "GREAT-MARLOW",
+    "data": {
+        "GREAT-MARLOW-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt2-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_03_pt4-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-098.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "GREAT-MARLOW.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-081.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "GREAT-MARLOW-2.csv": [
+            {
+                "start_date": "1885/08",
+                "end_date": "1885/09"
+            },
+            {
+                "start_date": "1886/08",
+                "end_date": "1886/08"
+            }
+        ]
+    },
+    "unused": []
+}

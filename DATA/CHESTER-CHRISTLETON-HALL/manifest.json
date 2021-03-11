@@ -1,0 +1,39 @@
+{
+    "name": "CHESTER-CHRISTLETON-HALL",
+    "data": {
+        "CHESTER-CHRISTLETON-HALL.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-076.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-076.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-238.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-185.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_08_pt4-page-076.csv",
+            "start_date": "1880/13",
+            "end_date": "1881/13"
+        }
+    ]
+}

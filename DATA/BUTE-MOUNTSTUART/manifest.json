@@ -1,0 +1,55 @@
+{
+    "name": "BUTE-MOUNTSTUART",
+    "data": {
+        "BUTE-MOUNTSTUART-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-058.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-144.csv",
+                "start_date": "1810/01",
+                "end_date": "1812/13"
+            }
+        ],
+        "BUTE-MOUNTSTUART-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BUTE-MOUNTSTUART.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-057.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-143.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-014.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "BUTE-MOUNTSTUART.csv": [
+            {
+                "start_date": "1807/02",
+                "end_date": "1807/02"
+            }
+        ]
+    },
+    "unused": []
+}

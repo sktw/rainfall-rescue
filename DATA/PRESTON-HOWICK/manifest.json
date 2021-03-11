@@ -1,0 +1,43 @@
+{
+    "name": "PRESTON-HOWICK",
+    "data": {
+        "PRESTON-HOWICK-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-070.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-129.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "PRESTON-HOWICK.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-059.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-137.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-069.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "PRESTON-HOWICK.csv": [
+            {
+                "start_date": "1858/09",
+                "end_date": "1858/09"
+            }
+        ]
+    },
+    "unused": []
+}

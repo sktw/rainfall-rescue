@@ -1,0 +1,141 @@
+{
+    "name": "SKEGNESS-MARINE-GDNS",
+    "data": {
+        "SKEGNESS-MARINE-GDNS-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-181.csv",
+                "start_date": "1890/11",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-181.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-161.csv",
+                "start_date": "1901/01",
+                "end_date": "1901/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-161.csv",
+                "start_date": "1903/01",
+                "end_date": "1903/13"
+            }
+        ],
+        "SKEGNESS-MARINE-GDNS-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-161.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-081.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-069.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-151.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+                "start_date": "1948/08",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+                "start_date": "1951/12",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SKEGNESS-MARINE-GDNS.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-055.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-181.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/09"
+            }
+        ]
+    },
+    "idr": {
+        "SKEGNESS-MARINE-GDNS-3.csv": [
+            {
+                "start_date": "1939/03",
+                "end_date": "1939/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-181.csv",
+            "start_date": "1890/10",
+            "end_date": "1890/10"
+        },
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-181.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-161.csv",
+            "start_date": "1900/01",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-161.csv",
+            "start_date": "1902/01",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+            "start_date": "1948/06",
+            "end_date": "1948/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+            "start_date": "1951/10",
+            "end_date": "1951/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

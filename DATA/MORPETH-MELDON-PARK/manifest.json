@@ -1,0 +1,52 @@
+{
+    "name": "MORPETH-MELDON-PARK",
+    "data": {
+        "MORPETH-MELDON-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt2-page-042.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt2-page-042.csv",
+                "start_date": "1871/02",
+                "end_date": "1871/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt2-page-042.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-050.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-123.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "MORPETH-MELDON-PARK.csv": [
+            {
+                "start_date": "1873/01",
+                "end_date": "1873/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_09_pt2-page-042.csv",
+            "start_date": "1871/01",
+            "end_date": "1871/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_09_pt2-page-042.csv",
+            "start_date": "1871/13",
+            "end_date": "1871/13"
+        }
+    ]
+}

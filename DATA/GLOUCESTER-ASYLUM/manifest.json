@@ -1,0 +1,43 @@
+{
+    "name": "GLOUCESTER-ASYLUM",
+    "data": {
+        "GLOUCESTER-ASYLUM.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-302.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-017.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-029.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-026.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-174.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-062.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": []
+}

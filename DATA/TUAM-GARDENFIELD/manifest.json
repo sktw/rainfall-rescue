@@ -1,0 +1,256 @@
+{
+    "name": "TUAM-GARDENFIELD",
+    "data": {
+        "TUAM-GARDENFIELD-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt2-page-040.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-168.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-080.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-047.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-047.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "TUAM-GARDENFIELD-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-083.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-049.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1928/01",
+                "end_date": "1929/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1929/03",
+                "end_date": "1929/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1929/07",
+                "end_date": "1929/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1929/09",
+                "end_date": "1929/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1930/02",
+                "end_date": "1930/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1930/09",
+                "end_date": "1930/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+                "start_date": "1930/11",
+                "end_date": "1930/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1933/10",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1934/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1935/03",
+                "end_date": "1935/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1935/07",
+                "end_date": "1935/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1935/10",
+                "end_date": "1935/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "TUAM-GARDENFIELD.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-095.csv",
+                "start_date": "1866/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_13_pt2-page-039.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-167.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-007.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-082.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-048.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "TUAM-GARDENFIELD.csv": [
+            {
+                "start_date": "1873/10",
+                "end_date": "1873/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_30_pt1-page-047.csv",
+            "start_date": "1916/12",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_30_pt1-page-049.csv",
+            "start_date": "1919/08",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1929/02",
+            "end_date": "1929/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1929/05",
+            "end_date": "1929/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1929/08",
+            "end_date": "1929/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1929/12",
+            "end_date": "1930/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1930/07",
+            "end_date": "1930/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1930/10",
+            "end_date": "1930/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_37_pt1-page-038.csv",
+            "start_date": "1930/12",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1933/06",
+            "end_date": "1933/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1935/05",
+            "end_date": "1935/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1935/09",
+            "end_date": "1935/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_28_pt1-page-132.csv",
+            "start_date": "1935/11",
+            "end_date": "1935/13"
+        }
+    ]
+}

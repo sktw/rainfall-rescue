@@ -1,0 +1,46 @@
+{
+    "name": "BODEWRYD",
+    "data": {
+        "BODEWRYD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-116.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-116.csv",
+                "start_date": "1872/03",
+                "end_date": "1872/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-116.csv",
+                "start_date": "1873/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_18_pt1-page-028.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BODEWRYD.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-117.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_10_pt2-page-116.csv",
+            "start_date": "1872/02",
+            "end_date": "1872/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_10_pt2-page-116.csv",
+            "start_date": "1872/13",
+            "end_date": "1872/13"
+        }
+    ]
+}

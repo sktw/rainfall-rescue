@@ -1,0 +1,25 @@
+{
+    "name": "BALLYMONEY",
+    "data": {
+        "BALLYMONEY-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-018.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BALLYMONEY.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-138.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-017.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,44 @@
+{
+    "name": "NIDDERDALE-MIDDLESMOOR",
+    "data": {
+        "NIDDERDALE-MIDDLESMOOR.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-137.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_08_pt1-page-222.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-141.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-160.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "NIDDERDALE-MIDDLESMOOR.csv": [
+            {
+                "start_date": "1870/01",
+                "end_date": "1870/01"
+            },
+            {
+                "start_date": "1885/01",
+                "end_date": "1885/01"
+            },
+            {
+                "start_date": "1887/05",
+                "end_date": "1887/05"
+            }
+        ]
+    },
+    "unused": []
+}

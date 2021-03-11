@@ -1,0 +1,28 @@
+{
+    "name": "FINCHAM-DOWNHAM-MARKET",
+    "data": {
+        "FINCHAM-DOWNHAM-MARKET.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-189.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-146.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-089.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

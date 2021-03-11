@@ -1,0 +1,58 @@
+{
+    "name": "GWYSANEY",
+    "data": {
+        "GWYSANEY-2.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-024.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-074.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "GWYSANEY.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-022.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-075.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "GWYSANEY.csv": [
+            {
+                "start_date": "1854/13",
+                "end_date": "1854/13"
+            },
+            {
+                "start_date": "1855/13",
+                "end_date": "1855/13"
+            },
+            {
+                "start_date": "1856/13",
+                "end_date": "1856/13"
+            },
+            {
+                "start_date": "1857/13",
+                "end_date": "1857/13"
+            },
+            {
+                "start_date": "1858/13",
+                "end_date": "1858/13"
+            },
+            {
+                "start_date": "1859/13",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "unused": []
+}

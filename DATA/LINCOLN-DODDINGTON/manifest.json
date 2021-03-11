@@ -1,0 +1,47 @@
+{
+    "name": "LINCOLN-DODDINGTON",
+    "data": {
+        "LINCOLN-DODDINGTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-072.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-086.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-214.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-126.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-121.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
+        ]
+    },
+    "idr": {
+        "LINCOLN-DODDINGTON.csv": [
+            {
+                "start_date": "1874/06",
+                "end_date": "1874/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_06_pt3-page-072.csv",
+            "start_date": "1870/01",
+            "end_date": "1871/13"
+        }
+    ]
+}

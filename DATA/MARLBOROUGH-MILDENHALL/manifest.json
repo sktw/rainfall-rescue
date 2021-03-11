@@ -1,0 +1,61 @@
+{
+    "name": "MARLBOROUGH-MILDENHALL",
+    "data": {
+        "MARLBOROUGH-MILDENHALL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-043.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "MARLBOROUGH-MILDENHALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-023.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-042.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-070.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-072.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-111.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-247.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-344.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-344.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-344.csv",
+            "start_date": "1924/12",
+            "end_date": "1924/13"
+        }
+    ]
+}

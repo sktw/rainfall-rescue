@@ -1,0 +1,26 @@
+{
+    "name": "WORCESTER-GAS-WORKS",
+    "data": {
+        "WORCESTER-GAS-WORKS.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt3-page-065.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-014.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "WORCESTER-GAS-WORKS.csv": [
+            {
+                "start_date": "1865/13",
+                "end_date": "1865/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,18 @@
+{
+    "name": "GLOUCESTER",
+    "data": {
+        "GLOUCESTER.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-162.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-303.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,117 @@
+{
+    "name": "LIVERPOOL-MONUMENT-PLACE",
+    "data": {
+        "LIVERPOOL-MONUMENT-PLACE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-173.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "LIVERPOOL-MONUMENT-PLACE-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1901/01",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-228.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-123.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LIVERPOOL-MONUMENT-PLACE-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-114.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1901/01",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-114.csv",
+                "start_date": "1901/13",
+                "end_date": "1904/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-113.csv",
+                "start_date": "1904/04",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-114.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-229.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-127.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-021.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_19_pt1-page-112.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-150.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LIVERPOOL-MONUMENT-PLACE.csv": [
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-174.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-112.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "LIVERPOOL-MONUMENT-PLACE-4.csv": [
+            {
+                "start_date": "1948/08",
+                "end_date": "1948/08"
+            }
+        ]
+    },
+    "unused": []
+}

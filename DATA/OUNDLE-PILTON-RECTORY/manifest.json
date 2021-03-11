@@ -1,0 +1,44 @@
+{
+    "name": "OUNDLE-PILTON-RECTORY",
+    "data": {
+        "OUNDLE-PILTON-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt3-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt1-page-039.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/06"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt1-page-039.csv",
+                "start_date": "1880/08",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt1-page-039.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-189.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_04_pt1-page-039.csv",
+            "start_date": "1880/07",
+            "end_date": "1880/07"
+        },
+        {
+            "filename": "TYRain_1880-1889_04_pt1-page-039.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "BURGH-CASTLE-GREAT-YARMOUTH",
+    "data": {
+        "BURGH-CASTLE-GREAT-YARMOUTH.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-174.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-084.csv",
+                "start_date": "1860/01",
+                "end_date": "1861/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-084.csv",
+                "start_date": "1862/01",
+                "end_date": "1862/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-084.csv",
+                "start_date": "1863/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURGH-CASTLE-GREAT-YARMOUTH.csv": [
+            {
+                "start_date": "1859/09",
+                "end_date": "1859/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_02_pt2-page-084.csv",
+            "start_date": "1861/13",
+            "end_date": "1861/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_02_pt2-page-084.csv",
+            "start_date": "1862/13",
+            "end_date": "1862/13"
+        }
+    ]
+}

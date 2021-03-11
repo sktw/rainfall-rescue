@@ -1,0 +1,71 @@
+{
+    "name": "WORTHING-MIX",
+    "data": {
+        "WORTHING-MIX-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-077.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-005.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "WORTHING-MIX-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-078.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-006.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-040.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "WORTHING-MIX-4.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-079.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "WORTHING-MIX-5.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-080.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-007.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "WORTHING-MIX.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-074.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-076.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

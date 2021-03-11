@@ -1,0 +1,56 @@
+{
+    "name": "CHAGFORD-THORNWORTHY-DOWN",
+    "data": {
+        "CHAGFORD-THORNWORTHY-DOWN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+                "start_date": "1960/09",
+                "end_date": "1960/12"
+            }
+        ],
+        "CHAGFORD-THORNWORTHY-DOWN.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-034.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-073.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-148.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+            "start_date": "1956/12",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+            "start_date": "1960/07",
+            "end_date": "1960/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-164.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "AMBLESIDE-LOW-NOOK",
+    "data": {
+        "AMBLESIDE-LOW-NOOK.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-303.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt1-page-096.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt4-page-027.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "AMBLESIDE-LOW-NOOK.csv": [
+            {
+                "start_date": "1866/02",
+                "end_date": "1866/02"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,172 @@
+{
+    "name": "LAKE-VYRNWY-LLWYN-RHIW",
+    "data": {
+        "LAKE-VYRNWY-LLWYN-RHIW.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-205.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-070.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-220.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-074.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-060.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-216.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+                "start_date": "1942/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1952/03",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1953/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1958/04",
+                "end_date": "1958/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1958/08",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAKE-VYRNWY-LLWYN-RHIW.csv": [
+            {
+                "start_date": "1954/13",
+                "end_date": "1954/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1952/02",
+            "end_date": "1952/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1957/12",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1958/07",
+            "end_date": "1958/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-064.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-204.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

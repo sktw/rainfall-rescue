@@ -1,0 +1,35 @@
+{
+    "name": "TROUTBECK-WELLBANK",
+    "data": {
+        "TROUTBECK-WELLBANK.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-251.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-164.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_21_pt1-page-012.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TROUTBECK-WELLBANK.csv": [
+            {
+                "start_date": "1955/08",
+                "end_date": "1955/08"
+            },
+            {
+                "start_date": "1956/13",
+                "end_date": "1956/13"
+            }
+        ]
+    },
+    "unused": []
+}

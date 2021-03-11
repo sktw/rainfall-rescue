@@ -1,0 +1,89 @@
+{
+    "name": "LIVERPOOL-DOBSON",
+    "data": {
+        "LIVERPOOL-DOBSON-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-174.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-178.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-179.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-028.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ],
+        "LIVERPOOL-DOBSON-3.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-104.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-034.csv",
+                "start_date": "1840/01",
+                "end_date": "1843/12"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-032.csv",
+                "start_date": "1843/13",
+                "end_date": "1843/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-034.csv",
+                "start_date": "1844/01",
+                "end_date": "1845/12"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-032.csv",
+                "start_date": "1845/13",
+                "end_date": "1845/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-034.csv",
+                "start_date": "1846/01",
+                "end_date": "1846/12"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-032.csv",
+                "start_date": "1846/13",
+                "end_date": "1846/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-034.csv",
+                "start_date": "1847/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "LIVERPOOL-DOBSON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-173.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-177.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-176.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-175.csv"
+        }
+    ]
+}

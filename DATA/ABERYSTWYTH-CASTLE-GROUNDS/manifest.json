@@ -1,0 +1,28 @@
+{
+    "name": "ABERYSTWYTH-CASTLE-GROUNDS",
+    "data": {
+        "ABERYSTWYTH-CASTLE-GROUNDS.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-142.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-015.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-150.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-157.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

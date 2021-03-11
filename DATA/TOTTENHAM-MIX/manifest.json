@@ -1,0 +1,86 @@
+{
+    "name": "TOTTENHAM-MIX",
+    "data": {
+        "TOTTENHAM-MIX-2.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-033.csv",
+                "start_date": "1850/04",
+                "end_date": "1850/12"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-033.csv",
+                "start_date": "1851/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-068.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "TOTTENHAM-MIX-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-067.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-080.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TOTTENHAM-MIX-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-043.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-144.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "TOTTENHAM-MIX.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-164.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-021.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-033.csv",
+                "start_date": "1850/01",
+                "end_date": "1850/03"
+            }
+        ]
+    },
+    "idr": {
+        "TOTTENHAM-MIX.csv": [
+            {
+                "start_date": "1842/13",
+                "end_date": "1842/13"
+            },
+            {
+                "start_date": "1843/13",
+                "end_date": "1843/13"
+            },
+            {
+                "start_date": "1844/13",
+                "end_date": "1844/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-033.csv",
+            "start_date": "1850/13",
+            "end_date": "1850/13"
+        }
+    ]
+}

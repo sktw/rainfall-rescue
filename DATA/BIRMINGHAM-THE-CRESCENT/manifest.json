@@ -1,0 +1,58 @@
+{
+    "name": "BIRMINGHAM-THE-CRESCENT",
+    "data": {
+        "BIRMINGHAM-THE-CRESCENT-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-049.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-234.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-110.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BIRMINGHAM-THE-CRESCENT.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt4-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-048.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-159.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "BIRMINGHAM-THE-CRESCENT.csv": [
+            {
+                "start_date": "1887/12",
+                "end_date": "1887/12"
+            }
+        ]
+    },
+    "unused": []
+}

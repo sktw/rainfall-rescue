@@ -1,0 +1,35 @@
+{
+    "name": "POOLE",
+    "data": {
+        "POOLE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-056.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-126.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-055.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-229.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "POOLE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,70 @@
+{
+    "name": "BLACKSTONE-EDGE-WHITE-HOLME-RES",
+    "data": {
+        "BLACKSTONE-EDGE-WHITE-HOLME-RES-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-105.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-079.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "BLACKSTONE-EDGE-WHITE-HOLME-RES.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-073.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-059.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-105.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-105.csv",
+                "start_date": "1839/06",
+                "end_date": "1839/12"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-080.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "BLACKSTONE-EDGE-WHITE-HOLME-RES-2.csv": [
+            {
+                "start_date": "1835/13",
+                "end_date": "1835/13"
+            }
+        ],
+        "BLACKSTONE-EDGE-WHITE-HOLME-RES.csv": [
+            {
+                "start_date": "1835/13",
+                "end_date": "1835/13"
+            },
+            {
+                "start_date": "1840/01",
+                "end_date": "1840/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-195.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-196.csv"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "EXETER-ST-THOMAS",
+    "data": {
+        "EXETER-ST-THOMAS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-064.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-011.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "EXETER-ST-THOMAS.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-106.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-031.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-158.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-130.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-234.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-110.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "EXETER-ST-THOMAS.csv": [
+            {
+                "start_date": "1813/09",
+                "end_date": "1813/09"
+            },
+            {
+                "start_date": "1852/12",
+                "end_date": "1852/12"
+            }
+        ]
+    },
+    "unused": []
+}

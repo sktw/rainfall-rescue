@@ -1,0 +1,69 @@
+{
+    "name": "WAKEFIELD-HEATH",
+    "data": {
+        "WAKEFIELD-HEATH-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-037.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-076.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ],
+        "WAKEFIELD-HEATH.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-036.csv",
+                "start_date": "1800/01",
+                "end_date": "1808/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-036.csv",
+                "start_date": "1809/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-075.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-065.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "WAKEFIELD-HEATH.csv": [
+            {
+                "start_date": "1813/13",
+                "end_date": "1813/13"
+            },
+            {
+                "start_date": "1817/13",
+                "end_date": "1817/13"
+            },
+            {
+                "start_date": "1818/13",
+                "end_date": "1818/13"
+            },
+            {
+                "start_date": "1822/12",
+                "end_date": "1822/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-036.csv",
+            "start_date": "1808/13",
+            "end_date": "1808/13"
+        },
+        {
+            "filename": "TYRain_1820-1829_C_pt2-page-062.csv"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "LYNMOUTH-GLENTHORNE",
+    "data": {
+        "LYNMOUTH-GLENTHORNE.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-004.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-114.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-139.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-139.csv",
+                "start_date": "1890/06",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-139.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-173.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-139.csv",
+            "start_date": "1890/05",
+            "end_date": "1890/05"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-139.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        }
+    ]
+}

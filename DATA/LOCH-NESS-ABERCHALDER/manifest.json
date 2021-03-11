@@ -1,0 +1,96 @@
+{
+    "name": "LOCH-NESS-ABERCHALDER",
+    "data": {
+        "LOCH-NESS-ABERCHALDER-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-142.csv",
+                "start_date": "1922/11",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-142.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-031.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-018.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-182.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-182.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-182.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-NESS-ABERCHALDER-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-183.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-NESS-ABERCHALDER.csv": [
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-011.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-010.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-317.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-142.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/10"
+            }
+        ]
+    },
+    "idr": {
+        "LOCH-NESS-ABERCHALDER-2.csv": [
+            {
+                "start_date": "1955/10",
+                "end_date": "1955/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-182.csv",
+            "start_date": "1958/02",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-182.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-142.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

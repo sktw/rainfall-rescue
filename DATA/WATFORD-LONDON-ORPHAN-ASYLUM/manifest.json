@@ -1,0 +1,82 @@
+{
+    "name": "WATFORD-LONDON-ORPHAN-ASYLUM",
+    "data": {
+        "WATFORD-LONDON-ORPHAN-ASYLUM.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-012.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-194.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_06_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+                "start_date": "1924/05",
+                "end_date": "1924/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+                "start_date": "1924/08",
+                "end_date": "1924/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+                "start_date": "1924/11",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "WATFORD-LONDON-ORPHAN-ASYLUM.csv": [
+            {
+                "start_date": "1918/05",
+                "end_date": "1918/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+            "start_date": "1924/04",
+            "end_date": "1924/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+            "start_date": "1924/07",
+            "end_date": "1924/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+            "start_date": "1924/09",
+            "end_date": "1924/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-249.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

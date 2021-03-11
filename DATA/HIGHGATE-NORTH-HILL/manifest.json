@@ -1,0 +1,54 @@
+{
+    "name": "HIGHGATE-NORTH-HILL",
+    "data": {
+        "HIGHGATE-NORTH-HILL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-118.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-148.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-165.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "HIGHGATE-NORTH-HILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-121.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-149.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-154.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-042.csv"
+        }
+    ]
+}

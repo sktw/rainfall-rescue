@@ -1,0 +1,139 @@
+{
+    "name": "EDMONTON",
+    "data": {
+        "EDMONTON-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-089.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-014.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-165.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ],
+        "EDMONTON-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-166.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-022.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "EDMONTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-068.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "idr": {
+        "EDMONTON-2.csv": [
+            {
+                "start_date": "1820/03",
+                "end_date": "1820/03"
+            },
+            {
+                "start_date": "1820/08",
+                "end_date": "1820/08"
+            },
+            {
+                "start_date": "1824/03",
+                "end_date": "1824/04"
+            },
+            {
+                "start_date": "1824/09",
+                "end_date": "1824/09"
+            },
+            {
+                "start_date": "1824/13",
+                "end_date": "1824/13"
+            },
+            {
+                "start_date": "1828/04",
+                "end_date": "1828/04"
+            },
+            {
+                "start_date": "1828/07",
+                "end_date": "1828/07"
+            },
+            {
+                "start_date": "1829/04",
+                "end_date": "1829/04"
+            },
+            {
+                "start_date": "1829/13",
+                "end_date": "1829/13"
+            },
+            {
+                "start_date": "1830/04",
+                "end_date": "1830/04"
+            },
+            {
+                "start_date": "1830/11",
+                "end_date": "1830/11"
+            },
+            {
+                "start_date": "1831/09",
+                "end_date": "1831/09"
+            },
+            {
+                "start_date": "1833/02",
+                "end_date": "1833/02"
+            },
+            {
+                "start_date": "1834/05",
+                "end_date": "1834/05"
+            },
+            {
+                "start_date": "1835/04",
+                "end_date": "1835/04"
+            },
+            {
+                "start_date": "1835/06",
+                "end_date": "1835/06"
+            },
+            {
+                "start_date": "1835/10",
+                "end_date": "1835/12"
+            },
+            {
+                "start_date": "1836/01",
+                "end_date": "1836/13"
+            },
+            {
+                "start_date": "1837/11",
+                "end_date": "1837/11"
+            }
+        ],
+        "EDMONTON-3.csv": [
+            {
+                "start_date": "1838/02",
+                "end_date": "1838/02"
+            },
+            {
+                "start_date": "1838/09",
+                "end_date": "1838/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-069.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-075.csv"
+        }
+    ]
+}

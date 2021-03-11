@@ -1,0 +1,119 @@
+{
+    "name": "KNOCKADERRY",
+    "data": {
+        "KNOCKADERRY-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-052.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-068.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-068.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-075.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+                "start_date": "1938/05",
+                "end_date": "1938/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+                "start_date": "1938/07",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "KNOCKADERRY.csv": [
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-042.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-040.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-051.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-067.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-067.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-073.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-276.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "KNOCKADERRY-2.csv": [
+            {
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+            "start_date": "1938/03",
+            "end_date": "1938/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+            "start_date": "1938/06",
+            "end_date": "1938/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-277.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_29_pt1-page-067.csv",
+            "start_date": "1918/11",
+            "end_date": "1918/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_29_pt1-page-068.csv",
+            "start_date": "1918/11",
+            "end_date": "1918/13"
+        }
+    ]
+}

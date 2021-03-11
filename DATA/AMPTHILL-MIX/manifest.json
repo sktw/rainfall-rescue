@@ -1,0 +1,60 @@
+{
+    "name": "AMPTHILL-MIX",
+    "data": {
+        "AMPTHILL-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-089.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "AMPTHILL-MIX.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-016.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-016.csv",
+                "start_date": "1865/03",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-061.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "AMPTHILL-MIX-2.csv": [
+            {
+                "start_date": "1887/10",
+                "end_date": "1887/10"
+            }
+        ],
+        "AMPTHILL-MIX.csv": [
+            {
+                "start_date": "1869/10",
+                "end_date": "1869/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_02_pt2-page-016.csv",
+            "start_date": "1865/02",
+            "end_date": "1865/02"
+        }
+    ]
+}

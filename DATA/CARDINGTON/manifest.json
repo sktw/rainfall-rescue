@@ -1,0 +1,153 @@
+{
+    "name": "CARDINGTON",
+    "data": {
+        "CARDINGTON-2.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-094.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-158.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-020.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-072.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt2-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-093.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-167.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-049.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-032.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CARDINGTON-3.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-093.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-157.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-018.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt3-page-070.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt2-page-004.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-095.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CARDINGTON.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-095.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-159.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-019.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-071.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt2-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-094.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "CARDINGTON-3.csv": [
+            {
+                "start_date": "1851/03",
+                "end_date": "1851/03"
+            },
+            {
+                "start_date": "1852/10",
+                "end_date": "1852/10"
+            },
+            {
+                "start_date": "1853/01",
+                "end_date": "1853/01"
+            },
+            {
+                "start_date": "1857/07",
+                "end_date": "1857/07"
+            },
+            {
+                "start_date": "1858/09",
+                "end_date": "1858/09"
+            },
+            {
+                "start_date": "1859/02",
+                "end_date": "1859/02"
+            },
+            {
+                "start_date": "1859/08",
+                "end_date": "1859/08"
+            },
+            {
+                "start_date": "1870/05",
+                "end_date": "1870/05"
+            }
+        ]
+    },
+    "unused": []
+}

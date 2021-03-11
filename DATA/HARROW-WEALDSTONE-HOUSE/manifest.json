@@ -1,0 +1,118 @@
+{
+    "name": "HARROW-WEALDSTONE-HOUSE",
+    "data": {
+        "HARROW-WEALDSTONE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-123.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_06_pt1-page-125.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_06_pt1-page-125.csv",
+                "start_date": "1907/02",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_06_pt1-page-125.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_06_pt1-page-160.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+                "start_date": "1926/07",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+                "start_date": "1927/01",
+                "end_date": "1928/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+                "start_date": "1928/11",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-176.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HARROW-WEALDSTONE-HOUSE.csv": [
+            {
+                "start_date": "1900/10",
+                "end_date": "1900/10"
+            },
+            {
+                "start_date": "1902/09",
+                "end_date": "1902/09"
+            },
+            {
+                "start_date": "1904/10",
+                "end_date": "1904/10"
+            },
+            {
+                "start_date": "1906/09",
+                "end_date": "1906/09"
+            },
+            {
+                "start_date": "1921/11",
+                "end_date": "1921/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_06_pt1-page-125.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_06_pt1-page-125.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+            "start_date": "1926/01",
+            "end_date": "1926/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+            "start_date": "1928/09",
+            "end_date": "1928/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_06_pt1-page-176.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

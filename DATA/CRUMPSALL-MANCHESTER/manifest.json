@@ -1,0 +1,17 @@
+{
+    "name": "CRUMPSALL-MANCHESTER",
+    "data": {
+        "CRUMPSALL-MANCHESTER.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-019.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1820-1829_C_pt1-page-056.csv"
+        }
+    ]
+}

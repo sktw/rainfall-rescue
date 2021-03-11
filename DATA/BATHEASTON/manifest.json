@@ -1,0 +1,76 @@
+{
+    "name": "BATHEASTON",
+    "data": {
+        "BATHEASTON-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-032.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-092.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-057.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BATHEASTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-020.csv",
+                "start_date": "1888/05",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-031.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/03"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-031.csv",
+                "start_date": "1892/08",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-031.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-091.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-056.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_06_pt2-page-020.csv",
+            "start_date": "1888/01",
+            "end_date": "1888/04"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-031.csv",
+            "start_date": "1892/04",
+            "end_date": "1892/07"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-031.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
+}

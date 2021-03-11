@@ -1,0 +1,112 @@
+{
+    "name": "LLANBEDR-Y-CENNIN-PLASDULYN",
+    "data": {
+        "LLANBEDR-Y-CENNIN-PLASDULYN.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-165.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-165.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-140.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-197.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-016.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-071.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1944/03",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1945/03",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1946/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-258.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANBEDR-Y-CENNIN-PLASDULYN.csv": [
+            {
+                "start_date": "1919/07",
+                "end_date": "1919/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-165.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+            "start_date": "1944/02",
+            "end_date": "1944/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+            "start_date": "1944/13",
+            "end_date": "1945/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-150.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

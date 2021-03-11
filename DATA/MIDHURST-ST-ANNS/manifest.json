@@ -1,0 +1,23 @@
+{
+    "name": "MIDHURST-ST-ANNS",
+    "data": {
+        "MIDHURST-ST-ANNS.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-029.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-040.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-039.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,47 @@
+{
+    "name": "GLEN-GAIRN-CORNDAVON",
+    "data": {
+        "GLEN-GAIRN-CORNDAVON-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-251.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "GLEN-GAIRN-CORNDAVON.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-035.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_26_pt1-page-250.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-147.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-036.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLEN-GAIRN-CORNDAVON.csv": [
+            {
+                "start_date": "1931/10",
+                "end_date": "1931/10"
+            },
+            {
+                "start_date": "1934/01",
+                "end_date": "1934/01"
+            }
+        ]
+    },
+    "unused": []
+}

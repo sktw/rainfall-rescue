@@ -1,0 +1,23 @@
+{
+    "name": "BROMLEY-WEST-WICKHAM",
+    "data": {
+        "BROMLEY-WEST-WICKHAM.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-036.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-064.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-055.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": "COTTINGHAM",
+    "data": {
+        "COTTINGHAM.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-157.csv",
+                "start_date": "1867/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-040.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-131.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-004.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/13"
+            }
+        ]
+    },
+    "unused": []
+}

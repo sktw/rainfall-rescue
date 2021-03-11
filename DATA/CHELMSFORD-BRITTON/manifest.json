@@ -1,0 +1,43 @@
+{
+    "name": "CHELMSFORD-BRITTON",
+    "data": {
+        "CHELMSFORD-BRITTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-105.csv",
+                "start_date": "1740/01",
+                "end_date": "1749/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHELMSFORD-BRITTON.csv": [
+            {
+                "start_date": "1740/02",
+                "end_date": "1740/07"
+            },
+            {
+                "start_date": "1740/09",
+                "end_date": "1741/11"
+            },
+            {
+                "start_date": "1741/13",
+                "end_date": "1741/13"
+            },
+            {
+                "start_date": "1742/05",
+                "end_date": "1742/05"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "CHELMSFORD-BRITTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-105.csv",
+                "start_date": "1737/01",
+                "end_date": "1739/13",
+                "comment": "Non-standard rainfall sheet"
+            }
+        ]
+    }
+}

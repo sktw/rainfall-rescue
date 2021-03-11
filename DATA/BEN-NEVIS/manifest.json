@@ -1,0 +1,83 @@
+{
+    "name": "BEN-NEVIS",
+    "data": {
+        "BEN-NEVIS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-021.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-023.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS-5.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-025.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS-6.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-024.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS-7.csv": [
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BEN-NEVIS-8.csv": [
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-028.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BEN-NEVIS.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_16_pt1-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_16_pt1-page-020.csv",
+                "start_date": "1881/10",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-028.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_16_pt1-page-020.csv",
+            "start_date": "1881/09",
+            "end_date": "1881/09"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "NORTH-TYNE-VALLEY",
+    "data": {
+        "NORTH-TYNE-VALLEY.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-071.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-038.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-074.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-080.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

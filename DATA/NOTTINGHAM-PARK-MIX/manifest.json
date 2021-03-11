@@ -1,0 +1,104 @@
+{
+    "name": "NOTTINGHAM-PARK-MIX",
+    "data": {
+        "NOTTINGHAM-PARK-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt1-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-024.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt1-page-021.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt2-page-025.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-026.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-5.csv": [
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-028.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-191.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-6.csv": [
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-027.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-192.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-161.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-7.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_14_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-069.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt1-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "NOTTINGHAM-PARK-MIX-3.csv": [
+            {
+                "start_date": "1880/13",
+                "end_date": "1880/13"
+            }
+        ],
+        "NOTTINGHAM-PARK-MIX-5.csv": [
+            {
+                "start_date": "1901/09",
+                "end_date": "1901/09"
+            }
+        ]
+    },
+    "unused": []
+}

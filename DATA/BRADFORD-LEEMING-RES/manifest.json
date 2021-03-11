@@ -1,0 +1,80 @@
+{
+    "name": "BRADFORD-LEEMING-RES",
+    "data": {
+        "BRADFORD-LEEMING-RES.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-129.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-020.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_16_pt1-page-023.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-059.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-304.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-098.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-255.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-037.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRADFORD-LEEMING-RES.csv": [
+            {
+                "start_date": "1889/02",
+                "end_date": "1889/02"
+            },
+            {
+                "start_date": "1910/06",
+                "end_date": "1910/06"
+            },
+            {
+                "start_date": "1950/13",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_10_pt2-page-020.csv",
+            "start_date": "1881/01",
+            "end_date": "1881/13"
+        }
+    ]
+}

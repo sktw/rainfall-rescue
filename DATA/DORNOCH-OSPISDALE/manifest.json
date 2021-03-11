@@ -1,0 +1,30 @@
+{
+    "name": "DORNOCH-OSPISDALE",
+    "data": {
+        "DORNOCH-OSPISDALE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-174.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-197.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-120.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DORNOCH-OSPISDALE.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-077.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

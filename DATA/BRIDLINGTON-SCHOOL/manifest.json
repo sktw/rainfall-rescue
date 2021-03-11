@@ -1,0 +1,41 @@
+{
+    "name": "BRIDLINGTON-SCHOOL",
+    "data": {
+        "BRIDLINGTON-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-032.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-214.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_23_pt1-page-132.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-276.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-133.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRIDLINGTON-SCHOOL.csv": [
+            {
+                "start_date": "1924/09",
+                "end_date": "1924/09"
+            }
+        ]
+    },
+    "unused": []
+}

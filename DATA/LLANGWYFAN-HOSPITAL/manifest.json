@@ -1,0 +1,160 @@
+{
+    "name": "LLANGWYFAN-HOSPITAL",
+    "data": {
+        "LLANGWYFAN-HOSPITAL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-300.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-300.csv",
+                "start_date": "1933/08",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1941/08",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1942/01",
+                "end_date": "1946/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1946/04",
+                "end_date": "1946/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1946/11",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1947/01",
+                "end_date": "1947/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1948/06",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-158.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LLANGWYFAN-HOSPITAL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+                "start_date": "1933/09",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANGWYFAN-HOSPITAL-2.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ],
+        "LLANGWYFAN-HOSPITAL.csv": [
+            {
+                "start_date": "1934/04",
+                "end_date": "1934/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-300.csv",
+            "start_date": "1933/07",
+            "end_date": "1933/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+            "start_date": "1933/08",
+            "end_date": "1933/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-301.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1941/06",
+            "end_date": "1941/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1946/03",
+            "end_date": "1946/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1946/10",
+            "end_date": "1946/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1948/01",
+            "end_date": "1948/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-052.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        }
+    ]
+}

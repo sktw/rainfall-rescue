@@ -1,0 +1,64 @@
+{
+    "name": "CORBRIDGE-HOWDEN-DENE",
+    "data": {
+        "CORBRIDGE-HOWDEN-DENE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+                "start_date": "1891/01",
+                "end_date": "1891/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+                "start_date": "1892/01",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-104.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-167.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-166.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+            "start_date": "1891/13",
+            "end_date": "1891/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_18_pt1-page-100.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
+}

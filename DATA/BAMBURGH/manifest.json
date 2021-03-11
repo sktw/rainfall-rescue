@@ -1,0 +1,64 @@
+{
+    "name": "BAMBURGH",
+    "data": {
+        "BAMBURGH-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-069.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-147.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-229.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-198.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BAMBURGH.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-064.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BAMBURGH-2.csv": [
+            {
+                "start_date": "1910/02",
+                "end_date": "1910/04"
+            },
+            {
+                "start_date": "1910/08",
+                "end_date": "1910/09"
+            },
+            {
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            },
+            {
+                "start_date": "1911/08",
+                "end_date": "1911/10"
+            },
+            {
+                "start_date": "1918/05",
+                "end_date": "1918/05"
+            }
+        ]
+    },
+    "unused": []
+}

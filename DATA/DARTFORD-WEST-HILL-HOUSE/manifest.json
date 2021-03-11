@@ -1,0 +1,62 @@
+{
+    "name": "DARTFORD-WEST-HILL-HOUSE",
+    "data": {
+        "DARTFORD-WEST-HILL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-189.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-033.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_03_pt1-page-259.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-271.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-271.csv",
+                "start_date": "1926/06",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-271.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-019.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "DARTFORD-WEST-HILL-HOUSE.csv": [
+            {
+                "start_date": "1916/12",
+                "end_date": "1916/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-271.csv",
+            "start_date": "1926/01",
+            "end_date": "1926/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-271.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

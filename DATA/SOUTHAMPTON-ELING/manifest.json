@@ -1,0 +1,52 @@
+{
+    "name": "SOUTHAMPTON-ELING",
+    "data": {
+        "SOUTHAMPTON-ELING.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-060.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-103.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-030.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-050.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-050.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTHAMPTON-ELING.csv": [
+            {
+                "start_date": "1851/09",
+                "end_date": "1851/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_03_pt1-page-050.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        }
+    ]
+}

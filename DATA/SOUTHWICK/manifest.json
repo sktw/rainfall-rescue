@@ -1,0 +1,50 @@
+{
+    "name": "SOUTHWICK",
+    "data": {
+        "SOUTHWICK.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-076.csv",
+                "start_date": "1720/01",
+                "end_date": "1725/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-076.csv",
+                "start_date": "1726/01",
+                "end_date": "1729/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-078.csv",
+                "start_date": "1730/01",
+                "end_date": "1739/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTHWICK.csv": [
+            {
+                "start_date": "1725/06",
+                "end_date": "1725/12"
+            },
+            {
+                "start_date": "1729/13",
+                "end_date": "1729/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-076.csv",
+            "start_date": "1725/13",
+            "end_date": "1725/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-080.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-077.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-079.csv"
+        }
+    ]
+}

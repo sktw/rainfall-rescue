@@ -1,0 +1,136 @@
+{
+    "name": "ROTHBURY-BRINCKBURN",
+    "data": {
+        "ROTHBURY-BRINCKBURN.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-076.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-061.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-139.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+                "start_date": "1904/11",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+                "start_date": "1905/02",
+                "end_date": "1905/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-221.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-185.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-212.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+                "start_date": "1931/04",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-212.csv",
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+                "start_date": "1932/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-212.csv",
+                "start_date": "1935/01",
+                "end_date": "1935/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+                "start_date": "1935/06",
+                "end_date": "1935/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-212.csv",
+                "start_date": "1935/07",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+                "start_date": "1935/13",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROTHBURY-BRINCKBURN.csv": [
+            {
+                "start_date": "1893/13",
+                "end_date": "1893/13"
+            },
+            {
+                "start_date": "1906/09",
+                "end_date": "1906/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+            "start_date": "1904/10",
+            "end_date": "1904/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+            "start_date": "1904/13",
+            "end_date": "1905/01"
+        },
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-025.csv",
+            "start_date": "1905/13",
+            "end_date": "1905/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-213.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        }
+    ]
+}

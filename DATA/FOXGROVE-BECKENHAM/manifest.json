@@ -1,0 +1,80 @@
+{
+    "name": "FOXGROVE-BECKENHAM",
+    "data": {
+        "FOXGROVE-BECKENHAM-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-100.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-147.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "FOXGROVE-BECKENHAM-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-176.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "FOXGROVE-BECKENHAM-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-211.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-211.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-211.csv",
+                "start_date": "1953/08",
+                "end_date": "1960/13"
+            }
+        ],
+        "FOXGROVE-BECKENHAM.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-064.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-146.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-174.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-211.csv",
+            "start_date": "1953/01",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-211.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/07"
+        }
+    ]
+}

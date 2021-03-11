@@ -1,0 +1,74 @@
+{
+    "name": "DRUMMUIR-CASTLE",
+    "data": {
+        "DRUMMUIR-CASTLE.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-083.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+                "start_date": "1926/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+                "start_date": "1927/07",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+                "start_date": "1928/04",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-283.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-181.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-080.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+            "start_date": "1925/11",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+            "start_date": "1927/13",
+            "end_date": "1928/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-073.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "ABERDEEN-OBSERVATORY",
+    "data": {
+        "ABERDEEN-OBSERVATORY-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-158.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ABERDEEN-OBSERVATORY-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-054.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ABERDEEN-OBSERVATORY-4.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-027.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-085.csv",
+                "start_date": "1830/01",
+                "end_date": "1830/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-085.csv",
+                "start_date": "1830/04",
+                "end_date": "1830/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-085.csv",
+                "start_date": "1831/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-064.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ABERDEEN-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-228.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-157.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-189.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-053.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-046.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-260.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-157.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDEEN-OBSERVATORY-4.csv": [
+            {
+                "start_date": "1834/05",
+                "end_date": "1834/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1830-1839_D_pt1-page-085.csv",
+            "start_date": "1830/03",
+            "end_date": "1830/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1830-1839_D_pt1-page-085.csv",
+            "start_date": "1830/13",
+            "end_date": "1830/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-045.csv"
+        }
+    ]
+}

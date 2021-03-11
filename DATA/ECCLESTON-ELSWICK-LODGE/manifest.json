@@ -1,0 +1,76 @@
+{
+    "name": "ECCLESTON-ELSWICK-LODGE",
+    "data": {
+        "ECCLESTON-ELSWICK-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-139.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-141.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ECCLESTON-ELSWICK-LODGE-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-138.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-142.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ECCLESTON-ELSWICK-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-141.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-141.csv",
+                "start_date": "1871/01",
+                "end_date": "1871/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-141.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-137.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-140.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "ECCLESTON-ELSWICK-LODGE.csv": [
+            {
+                "start_date": "1872/13",
+                "end_date": "1872/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-141.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-141.csv",
+            "start_date": "1871/13",
+            "end_date": "1871/13"
+        }
+    ]
+}

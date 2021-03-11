@@ -1,0 +1,40 @@
+{
+    "name": "TENBURY-ST-MICHAELS",
+    "data": {
+        "TENBURY-ST-MICHAELS.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt3-page-018.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_12_pt1-page-186.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_16_pt1-page-273.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-101.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "TENBURY-ST-MICHAELS.csv": [
+            {
+                "start_date": "1892/03",
+                "end_date": "1892/03"
+            },
+            {
+                "start_date": "1892/06",
+                "end_date": "1892/06"
+            }
+        ]
+    },
+    "unused": []
+}

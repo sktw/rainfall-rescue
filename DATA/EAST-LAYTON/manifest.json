@@ -1,0 +1,54 @@
+{
+    "name": "EAST-LAYTON",
+    "data": {
+        "EAST-LAYTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-056.csv",
+                "start_date": "1875/08",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-056.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-066.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-211.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-046.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-062.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-056.csv",
+            "start_date": "1875/01",
+            "end_date": "1875/07"
+        },
+        {
+            "filename": "TYRain_1870-1879_08_pt3-page-056.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        }
+    ]
+}

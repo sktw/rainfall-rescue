@@ -1,0 +1,63 @@
+{
+    "name": "ORMSKIRK-AUGHTON-SPRINGS",
+    "data": {
+        "ORMSKIRK-AUGHTON-SPRINGS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-158.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-158.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-125.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-212.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            }
+        ],
+        "ORMSKIRK-AUGHTON-SPRINGS.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-030.csv",
+                "start_date": "1862/10",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-045.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-157.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "ORMSKIRK-AUGHTON-SPRINGS.csv": [
+            {
+                "start_date": "1867/02",
+                "end_date": "1867/02"
+            },
+            {
+                "start_date": "1874/11",
+                "end_date": "1874/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_04_pt3-page-030.csv",
+            "start_date": "1860/01",
+            "end_date": "1862/09"
+        }
+    ]
+}

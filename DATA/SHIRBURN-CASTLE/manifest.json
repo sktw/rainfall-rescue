@@ -1,0 +1,46 @@
+{
+    "name": "SHIRBURN-CASTLE",
+    "data": {
+        "SHIRBURN-CASTLE.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-090.csv",
+                "start_date": "1779/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-091.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-092.csv",
+                "start_date": "1790/01",
+                "end_date": "1795/03"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-092.csv",
+                "start_date": "1795/11",
+                "end_date": "1795/13"
+            }
+        ]
+    },
+    "idr": {
+        "SHIRBURN-CASTLE.csv": [
+            {
+                "start_date": "1780/01",
+                "end_date": "1780/13"
+            },
+            {
+                "start_date": "1790/01",
+                "end_date": "1790/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-092.csv",
+            "start_date": "1795/04",
+            "end_date": "1795/10"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "LOCHWINNOCH-CASTLE-SEMPLE",
+    "data": {
+        "LOCHWINNOCH-CASTLE-SEMPLE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-219.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "LOCHWINNOCH-CASTLE-SEMPLE-3.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-009.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-034.csv",
+                "start_date": "1830/01",
+                "end_date": "1833/13"
+            }
+        ],
+        "LOCHWINNOCH-CASTLE-SEMPLE.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-009.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_14_pt1-page-218.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_14_pt1-page-218.csv",
+                "start_date": "1887/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_24_pt1-page-069.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_24_pt1-page-069.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-051.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-144.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_14_pt1-page-218.csv",
+            "start_date": "1886/13",
+            "end_date": "1886/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_24_pt1-page-069.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "LEADHILLS-LANARK",
+    "data": {
+        "LEADHILLS-LANARK-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-247.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_26_pt1-page-064.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-127.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LEADHILLS-LANARK-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-161.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LEADHILLS-LANARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-134.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-008.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "LEADHILLS-LANARK-2.csv": [
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ],
+        "LEADHILLS-LANARK-3.csv": [
+            {
+                "start_date": "1955/01",
+                "end_date": "1955/01"
+            }
+        ],
+        "LEADHILLS-LANARK.csv": [
+            {
+                "start_date": "1813/05",
+                "end_date": "1813/05"
+            }
+        ]
+    },
+    "unused": []
+}

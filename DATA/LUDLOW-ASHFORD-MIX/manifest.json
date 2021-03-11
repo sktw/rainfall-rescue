@@ -1,0 +1,52 @@
+{
+    "name": "LUDLOW-ASHFORD-MIX",
+    "data": {
+        "LUDLOW-ASHFORD-MIX-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-056.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-004.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-133.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ],
+        "LUDLOW-ASHFORD-MIX-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-134.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LUDLOW-ASHFORD-MIX.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-055.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-003.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

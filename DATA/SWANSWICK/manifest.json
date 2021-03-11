@@ -1,0 +1,40 @@
+{
+    "name": "SWANSWICK",
+    "data": {
+        "SWANSWICK.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-115.csv",
+                "start_date": "1834/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-156.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-283.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-071.csv",
+                "start_date": "1860/01",
+                "end_date": "1867/13"
+            }
+        ]
+    },
+    "idr": {
+        "SWANSWICK.csv": [
+            {
+                "start_date": "1835/01",
+                "end_date": "1836/07"
+            },
+            {
+                "start_date": "1836/10",
+                "end_date": "1836/13"
+            }
+        ]
+    },
+    "unused": []
+}

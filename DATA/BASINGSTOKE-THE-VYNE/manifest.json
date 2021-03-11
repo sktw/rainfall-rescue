@@ -1,0 +1,30 @@
+{
+    "name": "BASINGSTOKE-THE-VYNE",
+    "data": {
+        "BASINGSTOKE-THE-VYNE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-063.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BASINGSTOKE-THE-VYNE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-064.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-087.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

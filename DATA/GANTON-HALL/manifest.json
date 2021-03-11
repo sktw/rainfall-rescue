@@ -1,0 +1,80 @@
+{
+    "name": "GANTON-HALL",
+    "data": {
+        "GANTON-HALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_05_pt1-page-168.csv",
+                "start_date": "1860/01",
+                "end_date": "1867/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-169.csv",
+                "start_date": "1868/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-001.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-112.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-190.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_23_pt1-page-109.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-246.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-099.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-179.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GANTON-HALL.csv": [
+            {
+                "start_date": "1861/13",
+                "end_date": "1861/13"
+            },
+            {
+                "start_date": "1923/02",
+                "end_date": "1923/02"
+            },
+            {
+                "start_date": "1923/12",
+                "end_date": "1923/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_05_pt1-page-168.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/13"
+        }
+    ]
+}

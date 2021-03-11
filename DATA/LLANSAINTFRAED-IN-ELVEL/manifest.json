@@ -1,0 +1,89 @@
+{
+    "name": "LLANSAINTFRAED-IN-ELVEL",
+    "data": {
+        "LLANSAINTFRAED-IN-ELVEL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-147.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+                "start_date": "1950/08",
+                "end_date": "1950/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+                "start_date": "1950/11",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-315.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LLANSAINTFRAED-IN-ELVEL.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-004.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-156.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANSAINTFRAED-IN-ELVEL.csv": [
+            {
+                "start_date": "1907/08",
+                "end_date": "1907/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+            "start_date": "1946/05",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+            "start_date": "1950/07",
+            "end_date": "1950/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+            "start_date": "1950/09",
+            "end_date": "1950/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-111.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

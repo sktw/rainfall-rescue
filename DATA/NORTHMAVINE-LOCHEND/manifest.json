@@ -1,0 +1,18 @@
+{
+    "name": "NORTHMAVINE-LOCHEND",
+    "data": {
+        "NORTHMAVINE-LOCHEND.csv": [
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-157.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-216.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": []
+}

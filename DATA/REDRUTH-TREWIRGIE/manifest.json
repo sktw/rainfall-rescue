@@ -1,0 +1,69 @@
+{
+    "name": "REDRUTH-TREWIRGIE",
+    "data": {
+        "REDRUTH-TREWIRGIE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-084.csv",
+                "start_date": "1901/02",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-084.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-172.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-013.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-283.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "REDRUTH-TREWIRGIE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-007.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-092.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "REDRUTH-TREWIRGIE-2.csv": [
+            {
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-084.csv",
+            "start_date": "1900/01",
+            "end_date": "1901/01"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-084.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "WATTEN-HRS",
+    "data": {
+        "WATTEN-HRS.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-097.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_16_pt1-page-096.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-097.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-126.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-196.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "WATTEN-HRS.csv": [
+            {
+                "start_date": "1882/01",
+                "end_date": "1882/01"
+            },
+            {
+                "start_date": "1907/13",
+                "end_date": "1907/13"
+            }
+        ]
+    },
+    "unused": []
+}

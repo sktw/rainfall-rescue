@@ -1,0 +1,48 @@
+{
+    "name": "MOY-DERRYGALLY",
+    "data": {
+        "MOY-DERRYGALLY-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-043.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-280.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-133.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "MOY-DERRYGALLY.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-044.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-278.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-132.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "MOY-DERRYGALLY-2.csv": [
+            {
+                "start_date": "1886/13",
+                "end_date": "1886/13"
+            }
+        ]
+    },
+    "unused": []
+}

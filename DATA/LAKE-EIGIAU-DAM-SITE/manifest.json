@@ -1,0 +1,53 @@
+{
+    "name": "LAKE-EIGIAU-DAM-SITE",
+    "data": {
+        "LAKE-EIGIAU-DAM-SITE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-012.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-067.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-144.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-251.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LAKE-EIGIAU-DAM-SITE.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-136.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-192.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-011.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAKE-EIGIAU-DAM-SITE-2.csv": [
+            {
+                "start_date": "1949/01",
+                "end_date": "1949/01"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "BIDEFORD-GAMMATON-WW",
+    "data": {
+        "BIDEFORD-GAMMATON-WW-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-221.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BIDEFORD-GAMMATON-WW.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-137.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-167.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-131.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-146.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-220.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-261.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-044.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-078.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": []
+}

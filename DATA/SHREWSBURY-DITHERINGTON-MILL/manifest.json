@@ -1,0 +1,43 @@
+{
+    "name": "SHREWSBURY-DITHERINGTON-MILL",
+    "data": {
+        "SHREWSBURY-DITHERINGTON-MILL-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-016.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt1-page-032.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "SHREWSBURY-DITHERINGTON-MILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-064.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-033.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "SHREWSBURY-DITHERINGTON-MILL-2.csv": [
+            {
+                "start_date": "1880/13",
+                "end_date": "1880/13"
+            }
+        ]
+    },
+    "unused": []
+}

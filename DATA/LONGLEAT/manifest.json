@@ -1,0 +1,23 @@
+{
+    "name": "LONGLEAT",
+    "data": {
+        "LONGLEAT.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-103.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-104.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-011.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "unused": []
+}

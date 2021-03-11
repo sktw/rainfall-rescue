@@ -1,0 +1,34 @@
+{
+    "name": "ROCHDALE-MOSS-COTTAGE",
+    "data": {
+        "ROCHDALE-MOSS-COTTAGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-052.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ROCHDALE-MOSS-COTTAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-051.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROCHDALE-MOSS-COTTAGE-2.csv": [
+            {
+                "start_date": "1847/13",
+                "end_date": "1847/13"
+            }
+        ],
+        "ROCHDALE-MOSS-COTTAGE.csv": [
+            {
+                "start_date": "1846/07",
+                "end_date": "1846/07"
+            }
+        ]
+    },
+    "unused": []
+}

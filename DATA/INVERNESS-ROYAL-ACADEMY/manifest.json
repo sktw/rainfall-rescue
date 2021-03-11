@@ -1,0 +1,21 @@
+{
+    "name": "INVERNESS-ROYAL-ACADEMY",
+    "data": {
+        "INVERNESS-ROYAL-ACADEMY.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-094.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "idr": {
+        "INVERNESS-ROYAL-ACADEMY.csv": [
+            {
+                "start_date": "1831/10",
+                "end_date": "1831/10"
+            }
+        ]
+    },
+    "unused": []
+}

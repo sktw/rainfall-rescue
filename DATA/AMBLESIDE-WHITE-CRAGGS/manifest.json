@@ -1,0 +1,36 @@
+{
+    "name": "AMBLESIDE-WHITE-CRAGGS",
+    "data": {
+        "AMBLESIDE-WHITE-CRAGGS.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-030.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-230.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-142.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-060.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "AMBLESIDE-WHITE-CRAGGS.csv": [
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/02"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,48 @@
+{
+    "name": "SALISBURY-ALDERBURY",
+    "data": {
+        "SALISBURY-ALDERBURY-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-010.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt2-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-034.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-158.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "SALISBURY-ALDERBURY.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-009.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "SALISBURY-ALDERBURY-2.csv": [
+            {
+                "start_date": "1883/10",
+                "end_date": "1883/10"
+            }
+        ]
+    },
+    "unused": []
+}

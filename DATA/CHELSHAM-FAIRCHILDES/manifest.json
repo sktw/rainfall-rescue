@@ -1,0 +1,138 @@
+{
+    "name": "CHELSHAM-FAIRCHILDES",
+    "data": {
+        "CHELSHAM-FAIRCHILDES-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-012.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_02_pt1-page-004.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-022.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_02_pt1-page-029.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CHELSHAM-FAIRCHILDES.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-011.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_02_pt1-page-005.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-023.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-023.csv",
+                "start_date": "1919/06",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-028.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-028.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+                "start_date": "1934/09",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+                "start_date": "1935/01",
+                "end_date": "1939/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+                "start_date": "1939/08",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-024.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHELSHAM-FAIRCHILDES-2.csv": [
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            },
+            {
+                "start_date": "1926/05",
+                "end_date": "1926/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-023.csv",
+            "start_date": "1919/05",
+            "end_date": "1919/05"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-023.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-028.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+            "start_date": "1934/07",
+            "end_date": "1934/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+            "start_date": "1939/07",
+            "end_date": "1939/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-035.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "FOLKESTONE-THE-LEAS",
+    "data": {
+        "FOLKESTONE-THE-LEAS-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-022.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-020.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FOLKESTONE-THE-LEAS.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-028.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-104.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-023.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-027.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-125.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-022.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/09"
+            }
+        ]
+    },
+    "idr": {
+        "FOLKESTONE-THE-LEAS-2.csv": [
+            {
+                "start_date": "1946/01",
+                "end_date": "1946/09"
+            }
+        ]
+    },
+    "unused": []
+}

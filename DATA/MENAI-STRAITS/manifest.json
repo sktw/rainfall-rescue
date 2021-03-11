@@ -1,0 +1,23 @@
+{
+    "name": "MENAI-STRAITS",
+    "data": {
+        "MENAI-STRAITS.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-022.csv",
+                "start_date": "1848/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "MENAI-STRAITS.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-022.jpg",
+                "start_date": "1850/01",
+                "end_date": "1850/07",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

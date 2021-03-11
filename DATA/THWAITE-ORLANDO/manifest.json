@@ -1,0 +1,54 @@
+{
+    "name": "THWAITE-ORLANDO",
+    "data": {
+        "THWAITE-ORLANDO.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-143.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-105.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-172.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-080.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt2-page-001.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt1-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "THWAITE-ORLANDO.csv": [
+            {
+                "start_date": "1853/08",
+                "end_date": "1853/08"
+            },
+            {
+                "start_date": "1853/10",
+                "end_date": "1853/10"
+            },
+            {
+                "start_date": "1858/12",
+                "end_date": "1858/12"
+            }
+        ]
+    },
+    "unused": []
+}

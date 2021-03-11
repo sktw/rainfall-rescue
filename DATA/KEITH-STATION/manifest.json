@@ -1,0 +1,143 @@
+{
+    "name": "KEITH-STATION",
+    "data": {
+        "KEITH-STATION.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-072.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-212.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-084.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+                "start_date": "1923/06",
+                "end_date": "1923/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+                "start_date": "1923/12",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-286.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-286.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-184.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_12_pt2-page-072.csv",
+            "start_date": "1870/01",
+            "end_date": "1871/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+            "start_date": "1923/05",
+            "end_date": "1923/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+            "start_date": "1923/11",
+            "end_date": "1923/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-074.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_26_pt1-page-286.csv",
+            "start_date": "1933/01",
+            "end_date": "1935/13"
+        }
+    ],
+    "external": {
+        "KEITH-STATION.csv": [
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1880/13",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1881/13",
+                "end_date": "1881/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1882/13",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1883/13",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1884/13",
+                "end_date": "1884/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1886/13",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1887/13",
+                "end_date": "1887/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1888/13",
+                "end_date": "1888/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1880",
+                "start_date": "1889/13",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

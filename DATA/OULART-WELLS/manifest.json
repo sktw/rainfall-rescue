@@ -1,0 +1,64 @@
+{
+    "name": "OULART-WELLS",
+    "data": {
+        "OULART-WELLS.csv": [
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-091.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+                "start_date": "1909/03",
+                "end_date": "1909/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+                "start_date": "1909/07",
+                "end_date": "1909/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+                "start_date": "1909/11",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-157.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_36_pt1-page-010.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+            "start_date": "1909/01",
+            "end_date": "1909/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+            "start_date": "1909/05",
+            "end_date": "1909/06"
+        },
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+            "start_date": "1909/10",
+            "end_date": "1909/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-121.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

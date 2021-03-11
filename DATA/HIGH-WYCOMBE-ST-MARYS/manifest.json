@@ -1,0 +1,48 @@
+{
+    "name": "HIGH-WYCOMBE-ST-MARYS",
+    "data": {
+        "HIGH-WYCOMBE-ST-MARYS.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-097.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-022.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-186.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-082.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "HIGH-WYCOMBE-ST-MARYS.csv": [
+            {
+                "start_date": "1818/13",
+                "end_date": "1818/13"
+            },
+            {
+                "start_date": "1829/01",
+                "end_date": "1829/01"
+            },
+            {
+                "start_date": "1848/13",
+                "end_date": "1848/13"
+            },
+            {
+                "start_date": "1849/13",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "unused": []
+}

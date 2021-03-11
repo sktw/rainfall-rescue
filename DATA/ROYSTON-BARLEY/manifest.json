@@ -1,0 +1,72 @@
+{
+    "name": "ROYSTON-BARLEY",
+    "data": {
+        "ROYSTON-BARLEY.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-064.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-271.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-051.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-048.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-055.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-218.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-218.csv",
+                "start_date": "1945/13",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-218.csv",
+                "start_date": "1946/13",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-230.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROYSTON-BARLEY.csv": [
+            {
+                "start_date": "1958/03",
+                "end_date": "1958/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-218.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/12"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-218.csv",
+            "start_date": "1946/01",
+            "end_date": "1946/12"
+        }
+    ]
+}

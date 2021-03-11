@@ -1,0 +1,36 @@
+{
+    "name": "MARTINHOE-RECTORY",
+    "data": {
+        "MARTINHOE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-136.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-180.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-094.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-162.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARTINHOE-RECTORY.csv": [
+            {
+                "start_date": "1903/11",
+                "end_date": "1903/11"
+            }
+        ]
+    },
+    "unused": []
+}

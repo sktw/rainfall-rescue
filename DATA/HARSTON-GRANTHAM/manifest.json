@@ -1,0 +1,26 @@
+{
+    "name": "HARSTON-GRANTHAM",
+    "data": {
+        "HARSTON-GRANTHAM.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt5-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "HARSTON-GRANTHAM.csv": [
+            {
+                "start_date": "1887/10",
+                "end_date": "1887/10"
+            }
+        ]
+    },
+    "unused": []
+}

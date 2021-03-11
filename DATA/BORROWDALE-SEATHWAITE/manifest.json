@@ -1,0 +1,266 @@
+{
+    "name": "BORROWDALE-SEATHWAITE",
+    "data": {
+        "BORROWDALE-SEATHWAITE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-202.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-175.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-122.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-021.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-205.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-205.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-166.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-123.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-041.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-280.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-4.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-017.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-018.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-5.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-016.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-203.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-176.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-121.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-040.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-277.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-6.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-279.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-193.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_21_pt1-page-035.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-7.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-130.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-262.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt1-page-015.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-204.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-165.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-120.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-039.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+                "start_date": "1940/09",
+                "end_date": "1940/11"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-131.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-263.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "BORROWDALE-SEATHWAITE-3.csv": [
+            {
+                "start_date": "1898/13",
+                "end_date": "1898/13"
+            }
+        ],
+        "BORROWDALE-SEATHWAITE-7.csv": [
+            {
+                "start_date": "1865/07",
+                "end_date": "1865/07"
+            },
+            {
+                "start_date": "1896/13",
+                "end_date": "1896/13"
+            },
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            },
+            {
+                "start_date": "1932/02",
+                "end_date": "1932/02"
+            },
+            {
+                "start_date": "1936/03",
+                "end_date": "1936/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_18_pt1-page-205.csv",
+            "start_date": "1897/13",
+            "end_date": "1897/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+            "start_date": "1940/06",
+            "end_date": "1940/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-278.csv",
+            "start_date": "1940/12",
+            "end_date": "1940/13"
+        }
+    ]
+}

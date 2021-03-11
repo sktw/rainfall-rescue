@@ -1,0 +1,110 @@
+{
+    "name": "RISHWORTH-GREAT-WALDEN-EDGE",
+    "data": {
+        "RISHWORTH-GREAT-WALDEN-EDGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-074.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-121.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "RISHWORTH-GREAT-WALDEN-EDGE-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-071.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-014.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "RISHWORTH-GREAT-WALDEN-EDGE-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-012.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-167.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-176.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "RISHWORTH-GREAT-WALDEN-EDGE-5.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-013.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "RISHWORTH-GREAT-WALDEN-EDGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-125.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-073.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-130.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-219.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-070.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-011.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-166.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-175.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "RISHWORTH-GREAT-WALDEN-EDGE-4.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ],
+        "RISHWORTH-GREAT-WALDEN-EDGE.csv": [
+            {
+                "start_date": "1944/13",
+                "end_date": "1944/13"
+            }
+        ]
+    },
+    "unused": []
+}

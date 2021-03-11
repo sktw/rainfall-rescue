@@ -1,0 +1,23 @@
+{
+    "name": "EGMERE",
+    "data": {
+        "EGMERE.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-184.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-134.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": "PONDERS-END-PUMPING-STATION",
+    "data": {
+        "PONDERS-END-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-203.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-209.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_07_pt1-page-080.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-081.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PONDERS-END-PUMPING-STATION.csv": [
+            {
+                "start_date": "1943/13",
+                "end_date": "1943/13"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "PONDERS-END-PUMPING-STATION.csv": [
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "Symons British Rainfall 1920",
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

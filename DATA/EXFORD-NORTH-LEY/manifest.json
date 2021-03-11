@@ -1,0 +1,69 @@
+{
+    "name": "EXFORD-NORTH-LEY",
+    "data": {
+        "EXFORD-NORTH-LEY-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-026.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-146.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-146.csv",
+                "start_date": "1945/09",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-146.csv",
+                "start_date": "1947/04",
+                "end_date": "1950/13"
+            }
+        ],
+        "EXFORD-NORTH-LEY.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-157.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-234.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-107.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-026.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/08"
+            }
+        ]
+    },
+    "idr": {
+        "EXFORD-NORTH-LEY-2.csv": [
+            {
+                "start_date": "1932/01",
+                "end_date": "1932/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-146.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-146.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/03"
+        }
+    ]
+}

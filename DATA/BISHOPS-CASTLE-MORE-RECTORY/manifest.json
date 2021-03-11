@@ -1,0 +1,85 @@
+{
+    "name": "BISHOPS-CASTLE-MORE-RECTORY",
+    "data": {
+        "BISHOPS-CASTLE-MORE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+                "start_date": "1860/01",
+                "end_date": "1868/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/01"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+                "start_date": "1869/03",
+                "end_date": "1869/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-016.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-023.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_14_pt1-page-263.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_14_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BISHOPS-CASTLE-MORE-RECTORY.csv": [
+            {
+                "start_date": "1902/09",
+                "end_date": "1902/09"
+            },
+            {
+                "start_date": "1908/07",
+                "end_date": "1908/07"
+            },
+            {
+                "start_date": "1913/07",
+                "end_date": "1913/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+            "start_date": "1868/13",
+            "end_date": "1868/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+            "start_date": "1869/02",
+            "end_date": "1869/02"
+        },
+        {
+            "filename": "TYRain_1860-1869_03_pt3-page-011.csv",
+            "start_date": "1869/13",
+            "end_date": "1869/13"
+        }
+    ]
+}

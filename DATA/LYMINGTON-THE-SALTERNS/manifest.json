@@ -1,0 +1,46 @@
+{
+    "name": "LYMINGTON-THE-SALTERNS",
+    "data": {
+        "LYMINGTON-THE-SALTERNS.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_05_pt1-page-033.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-184.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_05_pt1-page-062.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-074.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-060.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-050.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYMINGTON-THE-SALTERNS.csv": [
+            {
+                "start_date": "1916/07",
+                "end_date": "1916/07"
+            }
+        ]
+    },
+    "unused": []
+}

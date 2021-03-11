@@ -1,0 +1,34 @@
+{
+    "name": "CANTERBURY-BURGATE-STREET",
+    "data": {
+        "CANTERBURY-BURGATE-STREET.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt1-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt1-page-041.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-053.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-234.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_02_pt1-page-041.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        }
+    ]
+}

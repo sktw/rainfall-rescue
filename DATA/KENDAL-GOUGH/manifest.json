@@ -1,0 +1,128 @@
+{
+    "name": "KENDAL-GOUGH",
+    "data": {
+        "KENDAL-GOUGH-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-213.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-216.csv",
+                "start_date": "1790/01",
+                "end_date": "1793/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-218.csv",
+                "start_date": "1794/01",
+                "end_date": "1795/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-215.csv",
+                "start_date": "1795/13",
+                "end_date": "1795/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-218.csv",
+                "start_date": "1796/01",
+                "end_date": "1796/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-216.csv",
+                "start_date": "1797/01",
+                "end_date": "1798/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-218.csv",
+                "start_date": "1798/13",
+                "end_date": "1798/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-216.csv",
+                "start_date": "1799/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-044.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ],
+        "KENDAL-GOUGH-3.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-045.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-127.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ],
+        "KENDAL-GOUGH-4.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-060.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-061.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ],
+        "KENDAL-GOUGH-5.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-002.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "KENDAL-GOUGH.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-214.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-215.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "idr": {
+        "KENDAL-GOUGH-2.csv": [
+            {
+                "start_date": "1794/13",
+                "end_date": "1794/13"
+            },
+            {
+                "start_date": "1795/13",
+                "end_date": "1795/13"
+            },
+            {
+                "start_date": "1800/13",
+                "end_date": "1800/13"
+            },
+            {
+                "start_date": "1801/13",
+                "end_date": "1801/13"
+            }
+        ],
+        "KENDAL-GOUGH.csv": [
+            {
+                "start_date": "1795/13",
+                "end_date": "1795/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-218.csv",
+            "start_date": "1795/13",
+            "end_date": "1795/13"
+        }
+    ]
+}

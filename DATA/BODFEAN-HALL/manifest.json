@@ -1,0 +1,108 @@
+{
+    "name": "BODFEAN-HALL",
+    "data": {
+        "BODFEAN-HALL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-237.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-064.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-109.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-182.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "BODFEAN-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-123.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-103.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-103.csv",
+                "start_date": "1876/11",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_18_pt1-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_20_pt1-page-184.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_20_pt1-page-184.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_26_pt1-page-110.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-236.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-063.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-108.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-181.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BODFEAN-HALL.csv": [
+            {
+                "start_date": "1904/02",
+                "end_date": "1904/02"
+            },
+            {
+                "start_date": "1929/08",
+                "end_date": "1929/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_20_pt1-page-184.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_10_pt2-page-103.csv",
+            "start_date": "1876/09",
+            "end_date": "1876/10"
+        }
+    ]
+}

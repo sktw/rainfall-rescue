@@ -1,0 +1,25 @@
+{
+    "name": "BRISTOL-INSTITUTION",
+    "data": {
+        "BRISTOL-INSTITUTION-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-031.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BRISTOL-INSTITUTION.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-119.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": []
+}

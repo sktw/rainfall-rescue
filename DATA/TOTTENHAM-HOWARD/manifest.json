@@ -1,0 +1,61 @@
+{
+    "name": "TOTTENHAM-HOWARD",
+    "data": {
+        "TOTTENHAM-HOWARD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-088.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-012.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ],
+        "TOTTENHAM-HOWARD.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-003.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-004.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-005.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    },
+    "idr": {
+        "TOTTENHAM-HOWARD-2.csv": [
+            {
+                "start_date": "1813/05",
+                "end_date": "1813/05"
+            },
+            {
+                "start_date": "1815/13",
+                "end_date": "1815/13"
+            },
+            {
+                "start_date": "1816/05",
+                "end_date": "1816/05"
+            },
+            {
+                "start_date": "1816/13",
+                "end_date": "1816/13"
+            }
+        ],
+        "TOTTENHAM-HOWARD.csv": [
+            {
+                "start_date": "1810/13",
+                "end_date": "1810/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "BURTON-RANGEMORE",
+    "data": {
+        "BURTON-RANGEMORE.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-051.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_06_pt1-page-111.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-147.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-101.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-053.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-101.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURTON-RANGEMORE.csv": [
+            {
+                "start_date": "1872/10",
+                "end_date": "1872/10"
+            },
+            {
+                "start_date": "1887/07",
+                "end_date": "1887/07"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,39 @@
+{
+    "name": "HUNTINGDON-BRAMPTON",
+    "data": {
+        "HUNTINGDON-BRAMPTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt3-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-006.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-131.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-131.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-131.csv",
+            "start_date": "1912/11",
+            "end_date": "1912/13"
+        }
+    ]
+}

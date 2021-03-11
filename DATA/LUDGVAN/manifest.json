@@ -1,0 +1,93 @@
+{
+    "name": "LUDGVAN",
+    "data": {
+        "LUDGVAN.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-112.csv",
+                "start_date": "1750/01",
+                "end_date": "1759/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+                "start_date": "1760/01",
+                "end_date": "1760/04"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+                "start_date": "1760/06",
+                "end_date": "1763/02"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+                "start_date": "1763/04",
+                "end_date": "1766/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+                "start_date": "1767/02",
+                "end_date": "1767/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+                "start_date": "1768/01",
+                "end_date": "1769/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-110.csv",
+                "start_date": "1770/01",
+                "end_date": "1770/09"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-110.csv",
+                "start_date": "1770/11",
+                "end_date": "1770/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-110.csv",
+                "start_date": "1771/01",
+                "end_date": "1779/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-126.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-127.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-128.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-110.csv",
+            "start_date": "1770/10",
+            "end_date": "1770/10"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-110.csv",
+            "start_date": "1770/13",
+            "end_date": "1770/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+            "start_date": "1760/05",
+            "end_date": "1760/05"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+            "start_date": "1763/03",
+            "end_date": "1763/03"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+            "start_date": "1767/01",
+            "end_date": "1767/01"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-111.csv",
+            "start_date": "1767/13",
+            "end_date": "1767/13"
+        }
+    ]
+}

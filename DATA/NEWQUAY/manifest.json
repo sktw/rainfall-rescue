@@ -1,0 +1,59 @@
+{
+    "name": "NEWQUAY",
+    "data": {
+        "NEWQUAY-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-007.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt1-page-009.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-010.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NEWQUAY-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_13_pt1-page-081.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "NEWQUAY.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-139.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-254.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "NEWQUAY-3.csv": [
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-255.csv"
+        }
+    ]
+}

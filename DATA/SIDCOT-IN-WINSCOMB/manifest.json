@@ -1,0 +1,34 @@
+{
+    "name": "SIDCOT-IN-WINSCOMB",
+    "data": {
+        "SIDCOT-IN-WINSCOMB.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-291.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-080.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "SIDCOT-IN-WINSCOMB.csv": [
+            {
+                "start_date": "1858/13",
+                "end_date": "1858/13"
+            },
+            {
+                "start_date": "1859/04",
+                "end_date": "1859/04"
+            },
+            {
+                "start_date": "1859/12",
+                "end_date": "1859/12"
+            }
+        ]
+    },
+    "unused": []
+}

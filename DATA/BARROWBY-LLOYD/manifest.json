@@ -1,0 +1,30 @@
+{
+    "name": "BARROWBY-LLOYD",
+    "data": {
+        "BARROWBY-LLOYD.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-002.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-003.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            }
+        ]
+    },
+    "idr": {
+        "BARROWBY-LLOYD.csv": [
+            {
+                "start_date": "1773/08",
+                "end_date": "1773/10"
+            },
+            {
+                "start_date": "1773/13",
+                "end_date": "1773/13"
+            }
+        ]
+    },
+    "unused": []
+}

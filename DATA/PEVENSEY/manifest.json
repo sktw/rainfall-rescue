@@ -1,0 +1,526 @@
+{
+    "name": "PEVENSEY",
+    "data": {
+        "PEVENSEY.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-037.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1850/01",
+                "end_date": "1850/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1850/04",
+                "end_date": "1850/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1850/07",
+                "end_date": "1850/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1850/10",
+                "end_date": "1850/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1850/13",
+                "end_date": "1851/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1851/04",
+                "end_date": "1851/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1851/07",
+                "end_date": "1851/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1851/10",
+                "end_date": "1851/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1851/13",
+                "end_date": "1852/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1852/04",
+                "end_date": "1852/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1852/07",
+                "end_date": "1852/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1852/10",
+                "end_date": "1852/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1852/13",
+                "end_date": "1853/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1853/04",
+                "end_date": "1853/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1853/07",
+                "end_date": "1853/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1853/10",
+                "end_date": "1853/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1853/13",
+                "end_date": "1854/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1854/04",
+                "end_date": "1854/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1854/07",
+                "end_date": "1854/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1854/10",
+                "end_date": "1854/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1854/13",
+                "end_date": "1855/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1855/04",
+                "end_date": "1855/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1855/07",
+                "end_date": "1855/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1855/10",
+                "end_date": "1855/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1855/13",
+                "end_date": "1856/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1856/04",
+                "end_date": "1856/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1856/07",
+                "end_date": "1856/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1856/10",
+                "end_date": "1856/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1856/13",
+                "end_date": "1857/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1857/04",
+                "end_date": "1857/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1857/07",
+                "end_date": "1857/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1857/10",
+                "end_date": "1857/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1857/13",
+                "end_date": "1858/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1858/04",
+                "end_date": "1858/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1858/07",
+                "end_date": "1858/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1858/10",
+                "end_date": "1858/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1858/13",
+                "end_date": "1859/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1859/04",
+                "end_date": "1859/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1859/07",
+                "end_date": "1859/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1859/10",
+                "end_date": "1859/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+                "start_date": "1859/13",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1860/01",
+                "end_date": "1860/02"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1860/04",
+                "end_date": "1860/05"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1860/07",
+                "end_date": "1860/08"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1860/10",
+                "end_date": "1860/11"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1860/13",
+                "end_date": "1862/02"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1862/04",
+                "end_date": "1862/05"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1862/07",
+                "end_date": "1862/08"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1862/10",
+                "end_date": "1862/11"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+                "start_date": "1862/13",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt1-page-047.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-098.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "PEVENSEY.csv": [
+            {
+                "start_date": "1855/13",
+                "end_date": "1855/13"
+            },
+            {
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1850/03",
+            "end_date": "1850/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1850/06",
+            "end_date": "1850/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1850/09",
+            "end_date": "1850/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1850/12",
+            "end_date": "1850/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1851/03",
+            "end_date": "1851/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1851/06",
+            "end_date": "1851/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1851/09",
+            "end_date": "1851/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1851/12",
+            "end_date": "1851/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1852/03",
+            "end_date": "1852/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1852/06",
+            "end_date": "1852/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1852/09",
+            "end_date": "1852/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1852/12",
+            "end_date": "1852/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1853/03",
+            "end_date": "1853/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1853/06",
+            "end_date": "1853/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1853/09",
+            "end_date": "1853/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1853/12",
+            "end_date": "1853/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1854/03",
+            "end_date": "1854/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1854/06",
+            "end_date": "1854/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1854/09",
+            "end_date": "1854/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1854/12",
+            "end_date": "1854/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1855/03",
+            "end_date": "1855/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1855/06",
+            "end_date": "1855/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1855/09",
+            "end_date": "1855/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1855/12",
+            "end_date": "1855/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1856/03",
+            "end_date": "1856/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1856/06",
+            "end_date": "1856/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1856/09",
+            "end_date": "1856/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1856/12",
+            "end_date": "1856/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1857/03",
+            "end_date": "1857/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1857/06",
+            "end_date": "1857/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1857/09",
+            "end_date": "1857/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1857/12",
+            "end_date": "1857/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1858/03",
+            "end_date": "1858/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1858/06",
+            "end_date": "1858/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1858/09",
+            "end_date": "1858/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1858/12",
+            "end_date": "1858/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1859/03",
+            "end_date": "1859/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1859/06",
+            "end_date": "1859/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1859/09",
+            "end_date": "1859/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-079.csv",
+            "start_date": "1859/12",
+            "end_date": "1859/12"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1860/03",
+            "end_date": "1860/03"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1860/06",
+            "end_date": "1860/06"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1860/09",
+            "end_date": "1860/09"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1860/12",
+            "end_date": "1860/12"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1862/03",
+            "end_date": "1862/03"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1862/06",
+            "end_date": "1862/06"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1862/09",
+            "end_date": "1862/09"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt2-page-107.csv",
+            "start_date": "1862/12",
+            "end_date": "1862/12"
+        }
+    ]
+}

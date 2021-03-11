@@ -1,0 +1,127 @@
+{
+    "name": "CORRIS-ESGAIRGEILIOG-CAMP",
+    "data": {
+        "CORRIS-ESGAIRGEILIOG-CAMP.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1948/04",
+                "end_date": "1948/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1948/06",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1949/01",
+                "end_date": "1949/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1949/07",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1956/06",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CORRIS-ESGAIRGEILIOG-CAMP.csv": [
+            {
+                "start_date": "1958/08",
+                "end_date": "1958/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+            "start_date": "1948/03",
+            "end_date": "1948/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+            "start_date": "1948/05",
+            "end_date": "1948/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+            "start_date": "1949/05",
+            "end_date": "1949/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-151.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+            "start_date": "1956/03",
+            "end_date": "1956/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-008.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

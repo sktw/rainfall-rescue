@@ -1,0 +1,122 @@
+{
+    "name": "WEARDALE-WW-MILLSTONE-QUARRY",
+    "data": {
+        "WEARDALE-WW-MILLSTONE-QUARRY.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-022.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt1-page-027.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+                "start_date": "1882/01",
+                "end_date": "1883/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+                "start_date": "1883/04",
+                "end_date": "1883/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+                "start_date": "1884/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-019.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-019.csv",
+                "start_date": "1895/04",
+                "end_date": "1895/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-019.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-209.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-209.csv",
+                "start_date": "1904/03",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-209.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-136.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-114.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEARDALE-WW-MILLSTONE-QUARRY.csv": [
+            {
+                "start_date": "1913/02",
+                "end_date": "1913/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+            "start_date": "1883/03",
+            "end_date": "1883/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_11_pt3-page-034.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_18_pt1-page-019.csv",
+            "start_date": "1895/01",
+            "end_date": "1895/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_18_pt1-page-019.csv",
+            "start_date": "1895/13",
+            "end_date": "1895/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_22_pt1-page-209.csv",
+            "start_date": "1904/01",
+            "end_date": "1904/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_22_pt1-page-209.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        }
+    ]
+}

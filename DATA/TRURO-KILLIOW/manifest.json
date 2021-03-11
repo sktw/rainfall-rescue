@@ -1,0 +1,49 @@
+{
+    "name": "TRURO-KILLIOW",
+    "data": {
+        "TRURO-KILLIOW.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-198.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-047.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-236.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-086.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-035.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TRURO-KILLIOW.csv": [
+            {
+                "start_date": "1893/02",
+                "end_date": "1893/02"
+            },
+            {
+                "start_date": "1893/04",
+                "end_date": "1893/04"
+            },
+            {
+                "start_date": "1894/03",
+                "end_date": "1894/04"
+            }
+        ]
+    },
+    "unused": []
+}

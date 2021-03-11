@@ -1,0 +1,51 @@
+{
+    "name": "ARMAGH",
+    "data": {
+        "ARMAGH.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-102.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-316.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-114.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "ARMAGH.csv": [
+            {
+                "start_date": "1842/05",
+                "end_date": "1842/05"
+            },
+            {
+                "start_date": "1842/10",
+                "end_date": "1842/10"
+            },
+            {
+                "start_date": "1845/12",
+                "end_date": "1845/12"
+            },
+            {
+                "start_date": "1847/05",
+                "end_date": "1847/05"
+            },
+            {
+                "start_date": "1849/11",
+                "end_date": "1849/11"
+            },
+            {
+                "start_date": "1850/01",
+                "end_date": "1850/01"
+            }
+        ]
+    },
+    "unused": []
+}

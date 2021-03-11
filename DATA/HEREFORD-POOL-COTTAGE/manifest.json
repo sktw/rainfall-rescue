@@ -1,0 +1,60 @@
+{
+    "name": "HEREFORD-POOL-COTTAGE",
+    "data": {
+        "HEREFORD-POOL-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-115.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-039.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-120.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-164.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "HEREFORD-POOL-COTTAGE.csv": [
+            {
+                "start_date": "1820/10",
+                "end_date": "1820/10"
+            },
+            {
+                "start_date": "1825/02",
+                "end_date": "1825/02"
+            },
+            {
+                "start_date": "1825/11",
+                "end_date": "1825/11"
+            },
+            {
+                "start_date": "1832/03",
+                "end_date": "1832/03"
+            },
+            {
+                "start_date": "1834/09",
+                "end_date": "1834/09"
+            },
+            {
+                "start_date": "1838/05",
+                "end_date": "1838/05"
+            },
+            {
+                "start_date": "1838/12",
+                "end_date": "1838/12"
+            }
+        ]
+    },
+    "unused": []
+}

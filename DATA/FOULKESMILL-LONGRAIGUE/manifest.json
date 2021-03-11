@@ -1,0 +1,91 @@
+{
+    "name": "FOULKESMILL-LONGRAIGUE",
+    "data": {
+        "FOULKESMILL-LONGRAIGUE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt2-page-036.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-067.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-082.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-083.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/01"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+                "start_date": "1909/03",
+                "end_date": "1909/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-147.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_36_pt1-page-003.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-326.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "FOULKESMILL-LONGRAIGUE.csv": [
+            {
+                "start_date": "1869/03",
+                "end_date": "1869/03"
+            },
+            {
+                "start_date": "1869/06",
+                "end_date": "1869/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+            "start_date": "1909/02",
+            "end_date": "1909/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_31_pt1-page-112.csv",
+            "start_date": "1909/08",
+            "end_date": "1909/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_29_pt1-page-147.csv",
+            "start_date": "1910/01",
+            "end_date": "1913/13"
+        }
+    ]
+}

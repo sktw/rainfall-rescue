@@ -1,0 +1,36 @@
+{
+    "name": "HOLYWELL-MAES-Y-DRE",
+    "data": {
+        "HOLYWELL-MAES-Y-DRE.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-021.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-023.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-076.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-038.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "HOLYWELL-MAES-Y-DRE.csv": [
+            {
+                "start_date": "1857/10",
+                "end_date": "1857/10"
+            }
+        ]
+    },
+    "unused": []
+}

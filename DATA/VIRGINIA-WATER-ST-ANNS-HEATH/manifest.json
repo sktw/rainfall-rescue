@@ -1,0 +1,79 @@
+{
+    "name": "VIRGINIA-WATER-ST-ANNS-HEATH",
+    "data": {
+        "VIRGINIA-WATER-ST-ANNS-HEATH.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-211.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-261.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-261.csv",
+                "start_date": "1908/09",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-261.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-083.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-083.csv",
+                "start_date": "1918/09",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-083.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-339.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-085.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-286.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-261.csv",
+            "start_date": "1908/08",
+            "end_date": "1908/08"
+        },
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-261.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-083.csv",
+            "start_date": "1918/08",
+            "end_date": "1918/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_2B_pt2-page-083.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

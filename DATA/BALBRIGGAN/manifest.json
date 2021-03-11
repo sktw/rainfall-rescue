@@ -1,0 +1,145 @@
+{
+    "name": "BALBRIGGAN",
+    "data": {
+        "BALBRIGGAN-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-084.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_13_pt2-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+                "start_date": "1884/07",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+                "start_date": "1885/01",
+                "end_date": "1885/01"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+                "start_date": "1885/07",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "BALBRIGGAN-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-145.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-033.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-287.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_36_pt1-page-128.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BALBRIGGAN-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-144.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-032.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-286.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_36_pt1-page-127.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-088.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BALBRIGGAN.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt2-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-142.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "BALBRIGGAN-2.csv": [
+            {
+                "start_date": "1870/10",
+                "end_date": "1870/10"
+            }
+        ],
+        "BALBRIGGAN-3.csv": [
+            {
+                "start_date": "1923/04",
+                "end_date": "1923/04"
+            }
+        ],
+        "BALBRIGGAN-4.csv": [
+            {
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+            "start_date": "1884/01",
+            "end_date": "1884/06"
+        },
+        {
+            "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+            "start_date": "1885/02",
+            "end_date": "1885/06"
+        },
+        {
+            "filename": "TYRain_1880-1889_17_pt1-page-141.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "name": "PEWSEY-WILCOT",
+    "data": {
+        "PEWSEY-WILCOT-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-042.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-042.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-042.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-196.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-196.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "PEWSEY-WILCOT-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-043.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-197.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "PEWSEY-WILCOT.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-050.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-055.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-122.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-122.csv",
+                "start_date": "1900/06",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-122.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-234.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "PEWSEY-WILCOT.csv": [
+            {
+                "start_date": "1898/02",
+                "end_date": "1898/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_10_pt1-page-122.csv",
+            "start_date": "1900/05",
+            "end_date": "1900/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_10_pt1-page-122.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-042.csv",
+            "start_date": "1933/03",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-042.csv",
+            "start_date": "1933/08",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-196.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/13"
+        }
+    ]
+}

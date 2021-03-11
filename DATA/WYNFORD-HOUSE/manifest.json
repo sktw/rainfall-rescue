@@ -1,0 +1,38 @@
+{
+    "name": "WYNFORD-HOUSE",
+    "data": {
+        "WYNFORD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-091.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-091.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-161.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-012.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": []
+}

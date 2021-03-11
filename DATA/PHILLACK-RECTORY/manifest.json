@@ -1,0 +1,51 @@
+{
+    "name": "PHILLACK-RECTORY",
+    "data": {
+        "PHILLACK-RECTORY.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-003.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt1-page-004.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-170.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-093.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-166.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-004.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "PHILLACK-RECTORY.csv": [
+            {
+                "start_date": "1913/02",
+                "end_date": "1913/02"
+            }
+        ]
+    },
+    "unused": []
+}

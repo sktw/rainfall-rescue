@@ -1,0 +1,80 @@
+{
+    "name": "LANCASTER-WRAY",
+    "data": {
+        "LANCASTER-WRAY.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+                "start_date": "1876/01",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+                "start_date": "1877/01",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_09_pt1-page-127.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-132.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-264.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LANCASTER-WRAY.csv": [
+            {
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "start_date": "1888/13",
+                "end_date": "1888/13"
+            },
+            {
+                "start_date": "1889/13",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+            "start_date": "1876/13",
+            "end_date": "1876/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-150.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        }
+    ]
+}

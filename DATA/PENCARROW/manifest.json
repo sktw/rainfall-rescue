@@ -1,0 +1,37 @@
+{
+    "name": "PENCARROW",
+    "data": {
+        "PENCARROW-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-014.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "PENCARROW-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-180.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-078.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-191.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "PENCARROW.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-140.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "unused": []
+}

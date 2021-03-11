@@ -1,0 +1,36 @@
+{
+    "name": "LANCASTER-SOUTH-ROAD",
+    "data": {
+        "LANCASTER-SOUTH-ROAD.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-097.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-155.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-130.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-131.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "LANCASTER-SOUTH-ROAD.csv": [
+            {
+                "start_date": "1871/05",
+                "end_date": "1871/05"
+            }
+        ]
+    },
+    "unused": []
+}

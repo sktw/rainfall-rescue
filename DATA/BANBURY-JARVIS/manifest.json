@@ -1,0 +1,33 @@
+{
+    "name": "BANBURY-JARVIS",
+    "data": {
+        "BANBURY-JARVIS.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-147.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-049.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-095.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "BANBURY-JARVIS.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-147.jpg",
+                "start_date": "1848/01",
+                "end_date": "1849/13",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

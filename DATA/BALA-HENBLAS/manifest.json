@@ -1,0 +1,79 @@
+{
+    "name": "BALA-HENBLAS",
+    "data": {
+        "BALA-HENBLAS.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-090.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/05"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-090.csv",
+                "start_date": "1869/07",
+                "end_date": "1869/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-073.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/05"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+                "start_date": "1887/01",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+                "start_date": "1888/01",
+                "end_date": "1888/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-162.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-090.csv",
+            "start_date": "1869/06",
+            "end_date": "1869/06"
+        },
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-090.csv",
+            "start_date": "1869/13",
+            "end_date": "1869/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+            "start_date": "1886/06",
+            "end_date": "1886/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+            "start_date": "1888/13",
+            "end_date": "1888/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-275.csv",
+            "start_date": "1889/13",
+            "end_date": "1889/13"
+        }
+    ]
+}

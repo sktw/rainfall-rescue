@@ -1,0 +1,144 @@
+{
+    "name": "MAIDEN-BRADLEY",
+    "data": {
+        "MAIDEN-BRADLEY-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-219.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_09_pt1-page-320.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-027.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-185.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_09_pt1-page-148.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MAIDEN-BRADLEY-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-321.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+                "start_date": "1936/02",
+                "end_date": "1936/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+                "start_date": "1936/04",
+                "end_date": "1936/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+                "start_date": "1936/07",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MAIDEN-BRADLEY-4.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-260.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MAIDEN-BRADLEY.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-039.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-044.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-144.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-220.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "MAIDEN-BRADLEY-2.csv": [
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "start_date": "1944/01",
+                "end_date": "1944/01"
+            },
+            {
+                "start_date": "1944/04",
+                "end_date": "1944/05"
+            },
+            {
+                "start_date": "1944/11",
+                "end_date": "1944/11"
+            },
+            {
+                "start_date": "1956/12",
+                "end_date": "1956/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+            "start_date": "1936/03",
+            "end_date": "1936/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+            "start_date": "1936/05",
+            "end_date": "1936/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-028.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

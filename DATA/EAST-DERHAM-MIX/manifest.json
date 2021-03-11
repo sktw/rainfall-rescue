@@ -1,0 +1,62 @@
+{
+    "name": "EAST-DERHAM-MIX",
+    "data": {
+        "EAST-DERHAM-MIX-UNRELIABLE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-121.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-012.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-145.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-074.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "EAST-DERHAM-MIX-UNRELIABLE2.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-039.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "EAST-DERHAM-MIX.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-122.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-013.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-040.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-146.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": []
+}

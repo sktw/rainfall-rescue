@@ -1,0 +1,58 @@
+{
+    "name": "STOCKPORT-HEATON-MOOR",
+    "data": {
+        "STOCKPORT-HEATON-MOOR-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-257.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-017.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "STOCKPORT-HEATON-MOOR-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-062.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "STOCKPORT-HEATON-MOOR.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-231.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-232.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-256.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_09_pt1-page-232.csv",
+            "start_date": "1885/01",
+            "end_date": "1885/13"
+        }
+    ]
+}

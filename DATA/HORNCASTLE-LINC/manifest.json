@@ -1,0 +1,18 @@
+{
+    "name": "HORNCASTLE-LINC",
+    "data": {
+        "HORNCASTLE-LINC.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-020.csv",
+                "start_date": "1806/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-117.csv",
+                "start_date": "1810/01",
+                "end_date": "1812/13"
+            }
+        ]
+    },
+    "unused": []
+}

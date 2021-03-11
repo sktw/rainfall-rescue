@@ -1,0 +1,33 @@
+{
+    "name": "FEWSTON-SWINSTY-WEST",
+    "data": {
+        "FEWSTON-SWINSTY-WEST.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-102.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-116.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-216.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-029.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-037.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

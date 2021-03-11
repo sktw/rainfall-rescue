@@ -1,0 +1,155 @@
+{
+    "name": "DALLOW-MOOR-HARPER-HILL",
+    "data": {
+        "DALLOW-MOOR-HARPER-HILL-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-148.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-167.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-168.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-023.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DALLOW-MOOR-HARPER-HILL-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-155.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-022.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DALLOW-MOOR-HARPER-HILL-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-157.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-168.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-090.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-222.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-084.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-084.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+                "start_date": "1951/04",
+                "end_date": "1951/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+                "start_date": "1951/06",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DALLOW-MOOR-HARPER-HILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-149.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-168.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-156.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-024.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-084.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-084.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+            "start_date": "1951/03",
+            "end_date": "1951/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+            "start_date": "1951/05",
+            "end_date": "1951/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-163.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

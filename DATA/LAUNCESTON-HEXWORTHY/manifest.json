@@ -1,0 +1,84 @@
+{
+    "name": "LAUNCESTON-HEXWORTHY",
+    "data": {
+        "LAUNCESTON-HEXWORTHY-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-280.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-075.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-147.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "LAUNCESTON-HEXWORTHY-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-011.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-281.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "LAUNCESTON-HEXWORTHY.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt1-page-047.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt1-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_06_pt1-page-065.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-011.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAUNCESTON-HEXWORTHY-2.csv": [
+            {
+                "start_date": "1936/11",
+                "end_date": "1936/11"
+            }
+        ],
+        "LAUNCESTON-HEXWORTHY.csv": [
+            {
+                "start_date": "1867/08",
+                "end_date": "1867/08"
+            },
+            {
+                "start_date": "1869/08",
+                "end_date": "1869/08"
+            },
+            {
+                "start_date": "1887/08",
+                "end_date": "1887/08"
+            }
+        ]
+    },
+    "unused": []
+}

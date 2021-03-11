@@ -1,0 +1,57 @@
+{
+    "name": "GREENOCK-MIX",
+    "data": {
+        "GREENOCK-MIX.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-039.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-116.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-151.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-022.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "GREENOCK-MIX.csv": [
+            {
+                "start_date": "1834/13",
+                "end_date": "1834/13"
+            },
+            {
+                "start_date": "1835/13",
+                "end_date": "1835/13"
+            },
+            {
+                "start_date": "1836/13",
+                "end_date": "1836/13"
+            },
+            {
+                "start_date": "1849/03",
+                "end_date": "1849/03"
+            },
+            {
+                "start_date": "1856/05",
+                "end_date": "1856/05"
+            }
+        ]
+    },
+    "unused": []
+}

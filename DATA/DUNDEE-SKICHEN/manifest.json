@@ -1,0 +1,71 @@
+{
+    "name": "DUNDEE-SKICHEN",
+    "data": {
+        "DUNDEE-SKICHEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-079.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+                "start_date": "1840/01",
+                "end_date": "1846/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+                "start_date": "1846/03",
+                "end_date": "1846/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+                "start_date": "1846/07",
+                "end_date": "1846/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+                "start_date": "1847/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-225.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-164.csv",
+                "start_date": "1860/01",
+                "end_date": "1866/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUNDEE-SKICHEN.csv": [
+            {
+                "start_date": "1838/08",
+                "end_date": "1838/08"
+            },
+            {
+                "start_date": "1840/13",
+                "end_date": "1840/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+            "start_date": "1846/02",
+            "end_date": "1846/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+            "start_date": "1846/05",
+            "end_date": "1846/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt3-page-052.csv",
+            "start_date": "1846/13",
+            "end_date": "1846/13"
+        }
+    ]
+}

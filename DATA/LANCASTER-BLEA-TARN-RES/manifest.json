@@ -1,0 +1,79 @@
+{
+    "name": "LANCASTER-BLEA-TARN-RES",
+    "data": {
+        "LANCASTER-BLEA-TARN-RES.csv": [
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-038.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-257.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-026.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-059.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+                "start_date": "1944/08",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+                "start_date": "1945/01",
+                "end_date": "1945/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+                "start_date": "1945/09",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+            "start_date": "1944/05",
+            "end_date": "1944/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+            "start_date": "1945/06",
+            "end_date": "1945/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-168.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

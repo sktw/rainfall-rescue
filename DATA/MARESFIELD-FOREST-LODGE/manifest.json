@@ -1,0 +1,38 @@
+{
+    "name": "MARESFIELD-FOREST-LODGE",
+    "data": {
+        "MARESFIELD-FOREST-LODGE.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-092.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-142.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-067.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-096.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

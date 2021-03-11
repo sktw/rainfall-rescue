@@ -1,0 +1,18 @@
+{
+    "name": "CHICKENS-ROCK",
+    "data": {
+        "CHICKENS-ROCK.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt3-page-002.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_18_pt1-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

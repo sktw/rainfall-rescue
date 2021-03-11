@@ -1,0 +1,54 @@
+{
+    "name": "PONTEFRACT-FERN-HILL",
+    "data": {
+        "PONTEFRACT-FERN-HILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-083.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+                "start_date": "1887/02",
+                "end_date": "1887/08"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+                "start_date": "1887/10",
+                "end_date": "1887/10"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+                "start_date": "1887/12",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-003.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+            "start_date": "1887/09",
+            "end_date": "1887/09"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt2-page-002.csv",
+            "start_date": "1887/11",
+            "end_date": "1887/11"
+        }
+    ]
+}

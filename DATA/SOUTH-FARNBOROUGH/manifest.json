@@ -1,0 +1,44 @@
+{
+    "name": "SOUTH-FARNBOROUGH",
+    "data": {
+        "SOUTH-FARNBOROUGH.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-270.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-270.csv",
+                "start_date": "1914/03",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-309.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-257.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-200.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-139.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-270.csv",
+            "start_date": "1913/01",
+            "end_date": "1914/02"
+        }
+    ]
+}

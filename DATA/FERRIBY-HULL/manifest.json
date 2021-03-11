@@ -1,0 +1,95 @@
+{
+    "name": "FERRIBY-HULL",
+    "data": {
+        "FERRIBY-HULL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-003.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-116.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/13"
+            }
+        ],
+        "FERRIBY-HULL.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-021.csv",
+                "start_date": "1798/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-153.csv",
+                "start_date": "1800/01",
+                "end_date": "1801/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-040.csv",
+                "start_date": "1801/13",
+                "end_date": "1802/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-153.csv",
+                "start_date": "1803/01",
+                "end_date": "1803/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-040.csv",
+                "start_date": "1803/13",
+                "end_date": "1803/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-153.csv",
+                "start_date": "1804/01",
+                "end_date": "1804/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-040.csv",
+                "start_date": "1804/13",
+                "end_date": "1804/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-153.csv",
+                "start_date": "1805/01",
+                "end_date": "1805/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-040.csv",
+                "start_date": "1805/13",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-077.csv",
+                "start_date": "1810/01",
+                "end_date": "1812/13"
+            }
+        ]
+    },
+    "idr": {
+        "FERRIBY-HULL.csv": [
+            {
+                "start_date": "1801/13",
+                "end_date": "1801/13"
+            },
+            {
+                "start_date": "1803/13",
+                "end_date": "1803/13"
+            },
+            {
+                "start_date": "1805/13",
+                "end_date": "1805/13"
+            },
+            {
+                "start_date": "1812/13",
+                "end_date": "1812/13"
+            }
+        ]
+    },
+    "unused": []
+}

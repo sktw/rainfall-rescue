@@ -1,0 +1,33 @@
+{
+    "name": "CARLISLE-SHADDONGATE",
+    "data": {
+        "CARLISLE-SHADDONGATE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-046.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-126.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-071.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-049.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-050.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-051.csv"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "name": "NESTON",
+    "data": {
+        "NESTON-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt3-page-061.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-087.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-246.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-153.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "NESTON-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-088.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-247.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-193.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "NESTON-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-085.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NESTON-5.csv": [
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-192.csv",
+                "start_date": "1910/09",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-192.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-094.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-284.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-284.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_19_pt1-page-088.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "NESTON-6.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt2-page-040.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "NESTON-7.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt2-page-047.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt3-page-059.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "NESTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt2-page-048.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt3-page-060.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-086.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-245.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-152.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "NESTON-5.csv": [
+            {
+                "start_date": "1932/04",
+                "end_date": "1932/04"
+            },
+            {
+                "start_date": "1943/13",
+                "end_date": "1943/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-284.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-284.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-192.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-192.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "BRIDGWATER-NURSERIES",
+    "data": {
+        "BRIDGWATER-NURSERIES.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-078.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-108.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-160.csv",
+                "start_date": "1903/11",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-160.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-196.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-160.csv",
+            "start_date": "1903/09",
+            "end_date": "1903/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-160.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "CHICHESTER-GOODWOOD",
+    "data": {
+        "CHICHESTER-GOODWOOD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-023.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_04_pt1-page-018.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-023.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-029.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_04_pt1-page-063.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-023.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "CHICHESTER-GOODWOOD.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-056.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-005.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHICHESTER-GOODWOOD-2.csv": [
+            {
+                "start_date": "1907/04",
+                "end_date": "1907/04"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,65 @@
+{
+    "name": "BRIDGNORTH-CANTREYN",
+    "data": {
+        "BRIDGNORTH-CANTREYN-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-026.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-268.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-166.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-288.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BRIDGNORTH-CANTREYN-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-025.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-267.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-167.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ],
+        "BRIDGNORTH-CANTREYN.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-073.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-028.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRIDGNORTH-CANTREYN-2.csv": [
+            {
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

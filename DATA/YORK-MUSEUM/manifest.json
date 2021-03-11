@@ -1,0 +1,113 @@
+{
+    "name": "YORK-MUSEUM",
+    "data": {
+        "YORK-MUSEUM-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-095.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-108.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/13"
+            }
+        ],
+        "YORK-MUSEUM-EARLYREADING.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-049.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ],
+        "YORK-MUSEUM.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-187.csv",
+                "start_date": "1873/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-094.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-107.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-228.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-228.csv",
+                "start_date": "1901/01",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-228.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-003.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_23_pt1-page-212.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-333.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-186.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-283.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "YORK-MUSEUM.csv": [
+            {
+                "start_date": "1887/08",
+                "end_date": "1887/08"
+            },
+            {
+                "start_date": "1919/02",
+                "end_date": "1919/02"
+            },
+            {
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "start_date": "1946/05",
+                "end_date": "1946/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-228.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-228.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
+}

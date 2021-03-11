@@ -1,0 +1,39 @@
+{
+    "name": "YORK-BISHOPTHORPE-ROAD",
+    "data": {
+        "YORK-BISHOPTHORPE-ROAD.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-026.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-164.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-030.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-102.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-102.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-102.csv",
+            "start_date": "1958/07",
+            "end_date": "1958/13"
+        }
+    ]
+}

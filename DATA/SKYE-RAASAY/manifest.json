@@ -1,0 +1,46 @@
+{
+    "name": "SKYE-RAASAY",
+    "data": {
+        "SKYE-RAASAY.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-256.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt1-page-070.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-037.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-051.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "SKYE-RAASAY.csv": [
+            {
+                "start_date": "1868/01",
+                "end_date": "1868/01"
+            }
+        ]
+    },
+    "unused": []
+}

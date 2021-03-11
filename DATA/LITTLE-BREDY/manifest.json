@@ -1,0 +1,51 @@
+{
+    "name": "LITTLE-BREDY",
+    "data": {
+        "LITTLE-BREDY-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-033.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-061.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/06"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-061.csv",
+                "start_date": "1909/08",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-049.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "LITTLE-BREDY.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-205.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-039.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_11_pt1-page-061.csv",
+            "start_date": "1909/07",
+            "end_date": "1909/07"
+        },
+        {
+            "filename": "TYRain_1900-1909_11_pt1-page-061.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

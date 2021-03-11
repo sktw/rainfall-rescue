@@ -1,0 +1,49 @@
+{
+    "name": "HAMPSTEAD-THE-PRYORS",
+    "data": {
+        "HAMPSTEAD-THE-PRYORS.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/09"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-050.csv",
+                "start_date": "1878/11",
+                "end_date": "1878/11"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-050.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-051.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-062.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-101.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_01_pt1-page-050.csv",
+            "start_date": "1878/10",
+            "end_date": "1878/10"
+        },
+        {
+            "filename": "TYRain_1870-1879_01_pt1-page-050.csv",
+            "start_date": "1878/12",
+            "end_date": "1878/13"
+        }
+    ]
+}

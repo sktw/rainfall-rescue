@@ -1,0 +1,276 @@
+{
+    "name": "SCARBOROUGH-MIX",
+    "data": {
+        "SCARBOROUGH-MIX-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-182.csv",
+                "start_date": "1865/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-018.csv",
+                "start_date": "1870/01",
+                "end_date": "1873/13"
+            }
+        ],
+        "SCARBOROUGH-MIX-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-019.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-050.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/13"
+            }
+        ],
+        "SCARBOROUGH-MIX-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-051.csv",
+                "start_date": "1887/03",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-051.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/08"
+            }
+        ],
+        "SCARBOROUGH-MIX-5.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+                "start_date": "1892/09",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+                "start_date": "1893/01",
+                "end_date": "1895/11"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "SCARBOROUGH-MIX-6.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_17_pt1-page-198.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/11"
+            }
+        ],
+        "SCARBOROUGH-MIX-7.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-080.csv",
+                "start_date": "1900/02",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-080.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-036.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-017.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-044.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-222.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-222.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-046.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SCARBOROUGH-MIX.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-052.csv",
+                "start_date": "1832/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-104.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+                "start_date": "1850/01",
+                "end_date": "1852/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-219.csv",
+                "start_date": "1853/01",
+                "end_date": "1853/01"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+                "start_date": "1853/02",
+                "end_date": "1853/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-219.csv",
+                "start_date": "1853/04",
+                "end_date": "1853/12"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+                "start_date": "1853/13",
+                "end_date": "1853/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-219.csv",
+                "start_date": "1854/01",
+                "end_date": "1857/11"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+                "start_date": "1857/12",
+                "end_date": "1857/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-219.csv",
+                "start_date": "1858/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-181.csv",
+                "start_date": "1860/01",
+                "end_date": "1864/13"
+            }
+        ]
+    },
+    "idr": {
+        "SCARBOROUGH-MIX.csv": [
+            {
+                "start_date": "1835/04",
+                "end_date": "1835/04"
+            },
+            {
+                "start_date": "1853/05",
+                "end_date": "1853/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_17_pt1-page-198.csv",
+            "start_date": "1899/12",
+            "end_date": "1899/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_21_pt1-page-036.csv",
+            "start_date": "1919/12",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1853/01",
+            "end_date": "1853/01"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1853/04",
+            "end_date": "1853/12"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1854/01",
+            "end_date": "1855/03"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1855/07",
+            "end_date": "1855/12"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1856/01",
+            "end_date": "1856/02"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1856/04",
+            "end_date": "1856/12"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1857/01",
+            "end_date": "1857/11"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-217.csv",
+            "start_date": "1858/01",
+            "end_date": "1859/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-218.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_11_pt2-page-051.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/02"
+        },
+        {
+            "filename": "TYRain_1880-1889_11_pt2-page-051.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_17_pt1-page-197.csv",
+            "start_date": "1895/12",
+            "end_date": "1895/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_22_pt1-page-080.csv",
+            "start_date": "1900/01",
+            "end_date": "1900/01"
+        },
+        {
+            "filename": "TYRain_1900-1909_22_pt1-page-080.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-222.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-222.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

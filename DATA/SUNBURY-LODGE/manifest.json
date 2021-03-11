@@ -1,0 +1,23 @@
+{
+    "name": "SUNBURY-LODGE",
+    "data": {
+        "SUNBURY-LODGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-091.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-085.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-112.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": []
+}

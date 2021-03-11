@@ -1,0 +1,29 @@
+{
+    "name": "CLUNIE-MANSE",
+    "data": {
+        "CLUNIE-MANSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-070.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLUNIE-MANSE.csv": [
+            {
+                "start_date": "1834/01",
+                "end_date": "1834/13"
+            },
+            {
+                "start_date": "1836/09",
+                "end_date": "1836/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1830-1839_D_pt1-page-069.csv"
+        }
+    ]
+}

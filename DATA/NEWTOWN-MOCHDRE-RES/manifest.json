@@ -1,0 +1,84 @@
+{
+    "name": "NEWTOWN-MOCHDRE-RES",
+    "data": {
+        "NEWTOWN-MOCHDRE-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-192.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-162.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-162.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1951/07",
+                "end_date": "1951/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1951/10",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1952/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-162.csv",
+            "start_date": "1947/12",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+            "start_date": "1951/05",
+            "end_date": "1951/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+            "start_date": "1951/09",
+            "end_date": "1951/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-019.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

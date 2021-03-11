@@ -1,0 +1,105 @@
+{
+    "name": "SKYE-PORTREE-MIX",
+    "data": {
+        "SKYE-PORTREE-MIX-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-063.csv",
+                "start_date": "1860/01",
+                "end_date": "1863/11"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-063.csv",
+                "start_date": "1864/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "SKYE-PORTREE-MIX-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_08_pt1-page-064.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "SKYE-PORTREE-MIX-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-028.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-052.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "SKYE-PORTREE-MIX-5.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-272.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-204.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-104.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-101.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-318.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SKYE-PORTREE-MIX.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-065.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-027.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "SKYE-PORTREE-MIX-3.csv": [
+            {
+                "start_date": "1868/05",
+                "end_date": "1868/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_12_pt3-page-028.csv",
+            "start_date": "1879/13",
+            "end_date": "1879/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_08_pt1-page-063.csv",
+            "start_date": "1863/12",
+            "end_date": "1863/13"
+        }
+    ]
+}

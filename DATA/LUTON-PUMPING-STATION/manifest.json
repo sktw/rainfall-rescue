@@ -1,0 +1,126 @@
+{
+    "name": "LUTON-PUMPING-STATION",
+    "data": {
+        "LUTON-PUMPING-STATION-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_08_pt1-page-020.csv",
+                "start_date": "1929/07",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_08_pt1-page-020.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-018.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-021.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            }
+        ],
+        "LUTON-PUMPING-STATION-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-021.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-005.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LUTON-PUMPING-STATION.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+                "start_date": "1881/01",
+                "end_date": "1881/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+                "start_date": "1881/03",
+                "end_date": "1881/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+                "start_date": "1881/09",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-078.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-128.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_08_pt1-page-145.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_08_pt1-page-020.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/06"
+            }
+        ]
+    },
+    "idr": {
+        "LUTON-PUMPING-STATION.csv": [
+            {
+                "start_date": "1916/02",
+                "end_date": "1916/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+            "start_date": "1881/02",
+            "end_date": "1881/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+            "start_date": "1881/08",
+            "end_date": "1881/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_04_pt2-page-002.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_08_pt1-page-020.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_09_pt1-page-021.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/13"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "DEDHAM-LOWER-PARK",
+    "data": {
+        "DEDHAM-LOWER-PARK.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-048.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-084.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-060.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

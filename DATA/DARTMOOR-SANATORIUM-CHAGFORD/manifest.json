@@ -1,0 +1,99 @@
+{
+    "name": "DARTMOOR-SANATORIUM-CHAGFORD",
+    "data": {
+        "DARTMOOR-SANATORIUM-CHAGFORD.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-084.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-294.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-294.csv",
+                "start_date": "1911/11",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-294.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+                "start_date": "1920/04",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+                "start_date": "1921/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+                "start_date": "1927/04",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-294.csv",
+            "start_date": "1911/10",
+            "end_date": "1911/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-294.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+            "start_date": "1920/03",
+            "end_date": "1920/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
+            "start_date": "1931/12",
+            "end_date": "1931/13"
+        }
+    ]
+}

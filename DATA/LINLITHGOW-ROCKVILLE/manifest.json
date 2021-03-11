@@ -1,0 +1,88 @@
+{
+    "name": "LINLITHGOW-ROCKVILLE",
+    "data": {
+        "LINLITHGOW-ROCKVILLE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt1-page-105.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-154.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-168.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-213.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "LINLITHGOW-ROCKVILLE.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-029.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-114.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt1-page-104.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-155.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-169.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "LINLITHGOW-ROCKVILLE-2.csv": [
+            {
+                "start_date": "1863/12",
+                "end_date": "1863/12"
+            },
+            {
+                "start_date": "1869/09",
+                "end_date": "1869/09"
+            },
+            {
+                "start_date": "1869/12",
+                "end_date": "1869/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_11_pt2-page-064.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_14_pt1-page-156.csv"
+        }
+    ]
+}

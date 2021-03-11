@@ -1,0 +1,41 @@
+{
+    "name": "BURY-LANCASHIRE-MIX",
+    "data": {
+        "BURY-LANCASHIRE-MIX.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-199.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-032.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-107.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-048.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-042.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURY-LANCASHIRE-MIX.csv": [
+            {
+                "start_date": "1842/07",
+                "end_date": "1842/07"
+            }
+        ]
+    },
+    "unused": []
+}

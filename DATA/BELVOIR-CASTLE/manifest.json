@@ -1,0 +1,95 @@
+{
+    "name": "BELVOIR-CASTLE",
+    "data": {
+        "BELVOIR-CASTLE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-104.csv",
+                "start_date": "1894/05",
+                "end_date": "1894/11"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-104.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-050.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-312.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-183.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-062.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BELVOIR-CASTLE.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-023.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-087.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-103.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-049.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "BELVOIR-CASTLE-2.csv": [
+            {
+                "start_date": "1894/05",
+                "end_date": "1894/11"
+            },
+            {
+                "start_date": "1917/02",
+                "end_date": "1917/02"
+            },
+            {
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_F_pt1-page-052.csv"
+        },
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-104.csv",
+            "start_date": "1890/01",
+            "end_date": "1894/04"
+        },
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-104.csv",
+            "start_date": "1894/12",
+            "end_date": "1894/13"
+        }
+    ]
+}

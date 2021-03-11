@@ -1,0 +1,28 @@
+{
+    "name": "LIVERPOOL-STARFIELD",
+    "data": {
+        "LIVERPOOL-STARFIELD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-031.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "LIVERPOOL-STARFIELD.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-030.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "LIVERPOOL-STARFIELD-2.csv": [
+            {
+                "start_date": "1842/13",
+                "end_date": "1842/13"
+            }
+        ]
+    },
+    "unused": []
+}

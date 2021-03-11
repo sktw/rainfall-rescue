@@ -1,0 +1,25 @@
+{
+    "name": "PERTH-ROSEBANK",
+    "data": {
+        "PERTH-ROSEBANK-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-159.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-065.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "PERTH-ROSEBANK.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-152.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    },
+    "unused": []
+}

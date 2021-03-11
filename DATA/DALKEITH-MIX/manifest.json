@@ -1,0 +1,35 @@
+{
+    "name": "DALKEITH-MIX",
+    "data": {
+        "DALKEITH-MIX.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-094.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-096.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-132.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-001.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_B_pt1-page-095.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-097.csv"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "CLAPHAM-YORKS-INGLEBOROUGH-HOUSE",
+    "data": {
+        "CLAPHAM-YORKS-INGLEBOROUGH-HOUSE.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-203.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-146.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-223.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

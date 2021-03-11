@@ -1,0 +1,33 @@
+{
+    "name": "CARTMEL-BROUGHTON-HALL",
+    "data": {
+        "CARTMEL-BROUGHTON-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-110.csv",
+                "start_date": "1868/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-186.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-111.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-103.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-072.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

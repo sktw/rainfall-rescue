@@ -1,0 +1,36 @@
+{
+    "name": "CAMBRIDGE-TRINITY-COLLEGE",
+    "data": {
+        "CAMBRIDGE-TRINITY-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-029.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt4-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-051.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-202.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "CAMBRIDGE-TRINITY-COLLEGE.csv": [
+            {
+                "start_date": "1887/06",
+                "end_date": "1887/06"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,46 @@
+{
+    "name": "TODMORDEN-STANSFIELD-HALL",
+    "data": {
+        "TODMORDEN-STANSFIELD-HALL-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-057.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "TODMORDEN-STANSFIELD-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-058.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_08_pt1-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt1-page-136.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "TODMORDEN-STANSFIELD-HALL.csv": [
+            {
+                "start_date": "1871/02",
+                "end_date": "1871/02"
+            },
+            {
+                "start_date": "1871/13",
+                "end_date": "1871/13"
+            },
+            {
+                "start_date": "1882/01",
+                "end_date": "1882/01"
+            }
+        ]
+    },
+    "unused": []
+}

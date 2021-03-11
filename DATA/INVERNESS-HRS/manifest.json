@@ -1,0 +1,39 @@
+{
+    "name": "INVERNESS-HRS",
+    "data": {
+        "INVERNESS-HRS.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-010.csv",
+                "start_date": "1871/01",
+                "end_date": "1871/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-010.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_12_pt3-page-010.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_12_pt3-page-010.csv",
+            "start_date": "1871/13",
+            "end_date": "1871/13"
+        }
+    ]
+}

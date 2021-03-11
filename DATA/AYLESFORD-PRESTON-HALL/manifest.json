@@ -1,0 +1,47 @@
+{
+    "name": "AYLESFORD-PRESTON-HALL",
+    "data": {
+        "AYLESFORD-PRESTON-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-110.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_03_pt1-page-124.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_03_pt1-page-124.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-190.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "AYLESFORD-PRESTON-HALL.csv": [
+            {
+                "start_date": "1893/13",
+                "end_date": "1893/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_03_pt1-page-124.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
+}

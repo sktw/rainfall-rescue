@@ -1,0 +1,94 @@
+{
+    "name": "BROMYARD-ROWDEN-ABBEY",
+    "data": {
+        "BROMYARD-ROWDEN-ABBEY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1902/01",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1903/01",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1904/01",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-049.csv",
+                "start_date": "1905/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-200.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-087.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BROMYARD-ROWDEN-ABBEY.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-036.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-049.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+                "start_date": "1905/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-049.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_15_pt1-page-050.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_14_pt1-page-204.csv"
+        }
+    ]
+}

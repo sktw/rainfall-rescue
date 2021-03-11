@@ -1,0 +1,52 @@
+{
+    "name": "OXFORD-ROSE-HILL",
+    "data": {
+        "OXFORD-ROSE-HILL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-076.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt5-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-146.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "OXFORD-ROSE-HILL.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-084.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-144.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-036.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "OXFORD-ROSE-HILL.csv": [
+            {
+                "start_date": "1857/02",
+                "end_date": "1857/02"
+            },
+            {
+                "start_date": "1859/12",
+                "end_date": "1859/12"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CLIFTON-COLLEGE",
+    "data": {
+        "CLIFTON-COLLEGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-203.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CLIFTON-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-054.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-202.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-225.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-098.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-224.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

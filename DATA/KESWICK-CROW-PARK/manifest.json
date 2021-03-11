@@ -1,0 +1,25 @@
+{
+    "name": "KESWICK-CROW-PARK",
+    "data": {
+        "KESWICK-CROW-PARK-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-028.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "KESWICK-CROW-PARK.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-029.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

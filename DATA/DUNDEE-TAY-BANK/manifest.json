@@ -1,0 +1,18 @@
+{
+    "name": "DUNDEE-TAY-BANK",
+    "data": {
+        "DUNDEE-TAY-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-075.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-048.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "unused": []
+}

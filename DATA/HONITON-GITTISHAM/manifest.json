@@ -1,0 +1,38 @@
+{
+    "name": "HONITON-GITTISHAM",
+    "data": {
+        "HONITON-GITTISHAM-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-245.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HONITON-GITTISHAM.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-140.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-122.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-108.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "HONITON-GITTISHAM-2.csv": [
+            {
+                "start_date": "1942/13",
+                "end_date": "1942/13"
+            }
+        ]
+    },
+    "unused": []
+}

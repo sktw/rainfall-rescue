@@ -1,0 +1,94 @@
+{
+    "name": "ABBEY-LEIX-BLANDSFORT",
+    "data": {
+        "ABBEY-LEIX-BLANDSFORT-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-100.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-114.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-114.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_29_pt1-page-204.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ABBEY-LEIX-BLANDSFORT.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-113.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-114.csv",
+                "start_date": "1883/01",
+                "end_date": "1884/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-113.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-119.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-165.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_29_pt1-page-204.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_29_pt1-page-205.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_36_pt1-page-052.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-027.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABBEY-LEIX-BLANDSFORT.csv": [
+            {
+                "start_date": "1913/07",
+                "end_date": "1913/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_17_pt1-page-113.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
+        }
+    ]
+}

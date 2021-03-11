@@ -1,0 +1,27 @@
+{
+    "name": "PRINCETOWN-DUCHY-HOTEL",
+    "data": {
+        "PRINCETOWN-DUCHY-HOTEL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "PRINCETOWN-DUCHY-HOTEL.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1820-1829_C_pt2-page-156.csv"
+        },
+        {
+            "filename": "TYRain_1840-1849_D_pt2-page-128.csv"
+        }
+    ]
+}

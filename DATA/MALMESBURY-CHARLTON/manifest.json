@@ -1,0 +1,116 @@
+{
+    "name": "MALMESBURY-CHARLTON",
+    "data": {
+        "MALMESBURY-CHARLTON-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-015.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "MALMESBURY-CHARLTON-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-025.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-025.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-191.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-295.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "MALMESBURY-CHARLTON.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-016.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-016.csv",
+                "start_date": "1876/12",
+                "end_date": "1878/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-016.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/01"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+                "start_date": "1880/03",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+                "start_date": "1881/01",
+                "end_date": "1882/11"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "MALMESBURY-CHARLTON.csv": [
+            {
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt1-page-016.csv",
+            "start_date": "1876/11",
+            "end_date": "1876/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt1-page-016.csv",
+            "start_date": "1878/12",
+            "end_date": "1878/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+            "start_date": "1880/02",
+            "end_date": "1880/02"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-022.csv",
+            "start_date": "1882/12",
+            "end_date": "1882/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_09_pt1-page-025.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "name": "REDRUTH-GREEN-LANE-NURSERIES",
+    "data": {
+        "REDRUTH-GREEN-LANE-NURSERIES.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-015.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-015.csv",
+                "start_date": "1922/11",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-015.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-284.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1944/06",
+                "end_date": "1944/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1944/10",
+                "end_date": "1944/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1945/06",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1945/09",
+                "end_date": "1945/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "REDRUTH-GREEN-LANE-NURSERIES.csv": [
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-015.csv",
+            "start_date": "1922/10",
+            "end_date": "1922/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-015.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+            "start_date": "1944/02",
+            "end_date": "1944/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+            "start_date": "1944/07",
+            "end_date": "1944/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+            "start_date": "1944/11",
+            "end_date": "1945/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-064.csv",
+            "start_date": "1945/11",
+            "end_date": "1945/13"
+        }
+    ]
+}

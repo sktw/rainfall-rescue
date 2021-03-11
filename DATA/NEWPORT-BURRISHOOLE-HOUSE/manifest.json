@@ -1,0 +1,28 @@
+{
+    "name": "NEWPORT-BURRISHOOLE-HOUSE",
+    "data": {
+        "NEWPORT-BURRISHOOLE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-022.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-100.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_30_pt1-page-064.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_37_pt1-page-071.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

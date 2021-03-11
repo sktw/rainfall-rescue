@@ -1,0 +1,171 @@
+{
+    "name": "PENTRE-VOELAS-NANT-HEILYN",
+    "data": {
+        "PENTRE-VOELAS-NANT-HEILYN.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-043.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1911/09",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1912/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1913/05",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1914/01",
+                "end_date": "1914/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1914/10",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-126.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-033.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1952/03",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1953/01",
+                "end_date": "1957/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1957/04",
+                "end_date": "1957/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1957/09",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PENTRE-VOELAS-NANT-HEILYN.csv": [
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1911/08",
+            "end_date": "1911/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1913/04",
+            "end_date": "1913/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1914/09",
+            "end_date": "1914/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-130.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+            "start_date": "1952/02",
+            "end_date": "1952/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+            "start_date": "1957/03",
+            "end_date": "1957/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+            "start_date": "1957/07",
+            "end_date": "1957/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-139.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

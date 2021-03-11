@@ -1,0 +1,38 @@
+{
+    "name": "BOWDEN-HALL",
+    "data": {
+        "BOWDEN-HALL.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-161.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-298.csv",
+                "start_date": "1850/01",
+                "end_date": "1857/13"
+            }
+        ]
+    },
+    "idr": {
+        "BOWDEN-HALL.csv": [
+            {
+                "start_date": "1851/13",
+                "end_date": "1851/13"
+            },
+            {
+                "start_date": "1853/13",
+                "end_date": "1853/13"
+            },
+            {
+                "start_date": "1856/13",
+                "end_date": "1856/13"
+            },
+            {
+                "start_date": "1857/13",
+                "end_date": "1857/13"
+            }
+        ]
+    },
+    "unused": []
+}

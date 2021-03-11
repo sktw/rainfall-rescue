@@ -1,0 +1,72 @@
+{
+    "name": "CHAPEL-EN-LE-FRITH",
+    "data": {
+        "CHAPEL-EN-LE-FRITH-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-088.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHAPEL-EN-LE-FRITH.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-005.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-083.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-095.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt2-page-003.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt3-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-069.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-146.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-220.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-004.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHAPEL-EN-LE-FRITH.csv": [
+            {
+                "start_date": "1845/12",
+                "end_date": "1845/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-017.csv"
+        }
+    ]
+}

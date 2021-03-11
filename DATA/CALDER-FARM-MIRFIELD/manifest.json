@@ -1,0 +1,24 @@
+{
+    "name": "CALDER-FARM-MIRFIELD",
+    "data": {
+        "CALDER-FARM-MIRFIELD.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-177.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-062.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_05_pt1-page-062.csv",
+            "start_date": "1869/13",
+            "end_date": "1869/13"
+        }
+    ]
+}

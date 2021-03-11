@@ -1,0 +1,31 @@
+{
+    "name": "WHELDRAKE",
+    "data": {
+        "WHELDRAKE.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-108.csv",
+                "start_date": "1844/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-212.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-161.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/13"
+            }
+        ]
+    },
+    "idr": {
+        "WHELDRAKE.csv": [
+            {
+                "start_date": "1847/07",
+                "end_date": "1847/09"
+            }
+        ]
+    },
+    "unused": []
+}

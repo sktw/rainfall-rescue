@@ -1,0 +1,62 @@
+{
+    "name": "GRASMERE-THE-WRAY",
+    "data": {
+        "GRASMERE-THE-WRAY.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-249.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-078.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-060.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-060.csv",
+                "start_date": "1948/06",
+                "end_date": "1948/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_24_pt1-page-060.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "GRASMERE-THE-WRAY.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-060.csv",
+            "start_date": "1948/01",
+            "end_date": "1948/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_24_pt1-page-060.csv",
+            "start_date": "1948/07",
+            "end_date": "1948/13"
+        }
+    ]
+}

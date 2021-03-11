@@ -1,0 +1,69 @@
+{
+    "name": "DORKING-HOLMWOOD",
+    "data": {
+        "DORKING-HOLMWOOD-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-046.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "DORKING-HOLMWOOD.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-047.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-047.csv",
+                "start_date": "1871/01",
+                "end_date": "1871/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-047.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_02_pt1-page-055.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "DORKING-HOLMWOOD.csv": [
+            {
+                "start_date": "1890/12",
+                "end_date": "1890/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt2-page-047.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt2-page-047.csv",
+            "start_date": "1871/13",
+            "end_date": "1871/13"
+        }
+    ],
+    "external": {
+        "DORKING-HOLMWOOD.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-055.jpg",
+                "start_date": "1900/01",
+                "end_date": "1900/09",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

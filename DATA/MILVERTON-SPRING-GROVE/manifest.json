@@ -1,0 +1,92 @@
+{
+    "name": "MILVERTON-SPRING-GROVE",
+    "data": {
+        "MILVERTON-SPRING-GROVE.csv": [
+            {
+                "filename": "MISFILED_TYRain_1880-1889_06_pt2-page-079.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-136.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/09"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-136.csv",
+                "start_date": "1907/11",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-136.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-181.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-046.csv",
+                "start_date": "1921/02",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-046.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-274.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-047.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-116.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MILVERTON-SPRING-GROVE.csv": [
+            {
+                "start_date": "1898/01",
+                "end_date": "1898/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-136.csv",
+            "start_date": "1907/10",
+            "end_date": "1907/10"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-136.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-181.csv",
+            "start_date": "1919/01",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-046.csv",
+            "start_date": "1920/01",
+            "end_date": "1921/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_13_pt1-page-046.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

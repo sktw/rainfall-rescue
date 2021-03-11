@@ -1,0 +1,119 @@
+{
+    "name": "PEMBROKE-DOCK-COUNTY-SCHOOL",
+    "data": {
+        "PEMBROKE-DOCK-COUNTY-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-135.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-135.csv",
+                "start_date": "1951/13",
+                "end_date": "1960/13"
+            }
+        ],
+        "PEMBROKE-DOCK-COUNTY-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-132.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-136.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-297.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1944/01",
+                "end_date": "1945/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1945/10",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1946/04",
+                "end_date": "1946/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-135.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-135.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-135.csv",
+                "start_date": "1959/13",
+                "end_date": "1959/13"
+            }
+        ]
+    },
+    "idr": {
+        "PEMBROKE-DOCK-COUNTY-SCHOOL.csv": [
+            {
+                "start_date": "1939/06",
+                "end_date": "1939/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+            "start_date": "1943/11",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+            "start_date": "1945/08",
+            "end_date": "1945/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+            "start_date": "1945/13",
+            "end_date": "1946/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+            "start_date": "1946/05",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_25_pt1-page-178.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/13"
+        }
+    ]
+}

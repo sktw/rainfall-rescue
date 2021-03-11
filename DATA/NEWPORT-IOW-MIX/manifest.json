@@ -1,0 +1,106 @@
+{
+    "name": "NEWPORT-IOW-MIX",
+    "data": {
+        "NEWPORT-IOW-MIX-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-005.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NEWPORT-IOW-MIX-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-010.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-013.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/11"
+            }
+        ],
+        "NEWPORT-IOW-MIX-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-013.csv",
+                "start_date": "1894/12",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-013.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-149.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/06"
+            }
+        ],
+        "NEWPORT-IOW-MIX-5.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-149.csv",
+                "start_date": "1901/07",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-149.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-015.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "NEWPORT-IOW-MIX.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-066.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-067.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "NEWPORT-IOW-MIX.csv": [
+            {
+                "start_date": "1849/13",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_D_pt2-page-055.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-095.csv"
+        },
+        {
+            "filename": "TYRain_1890-1899_05_pt1-page-013.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-149.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
+}

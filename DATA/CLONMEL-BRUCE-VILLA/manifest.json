@@ -1,0 +1,46 @@
+{
+    "name": "CLONMEL-BRUCE-VILLA",
+    "data": {
+        "CLONMEL-BRUCE-VILLA.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-023.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-053.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-053.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_31_pt1-page-075.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_29_pt1-page-093.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLONMEL-BRUCE-VILLA.csv": [
+            {
+                "start_date": "1914/01",
+                "end_date": "1914/01"
+            }
+        ]
+    },
+    "unused": []
+}

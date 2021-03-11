@@ -1,0 +1,78 @@
+{
+    "name": "PATELEY-BRIDGE-CASTLESTEAD",
+    "data": {
+        "PATELEY-BRIDGE-CASTLESTEAD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-154.csv",
+                "start_date": "1890/04",
+                "end_date": "1890/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-154.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-177.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-068.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "PATELEY-BRIDGE-CASTLESTEAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_08_pt1-page-217.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-135.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-155.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-155.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "PATELEY-BRIDGE-CASTLESTEAD.csv": [
+            {
+                "start_date": "1871/04",
+                "end_date": "1871/04"
+            },
+            {
+                "start_date": "1882/07",
+                "end_date": "1882/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-154.csv",
+            "start_date": "1890/01",
+            "end_date": "1890/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-154.csv",
+            "start_date": "1890/13",
+            "end_date": "1890/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-155.csv",
+            "start_date": "1891/01",
+            "end_date": "1891/13"
+        }
+    ]
+}

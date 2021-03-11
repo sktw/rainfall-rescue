@@ -1,0 +1,64 @@
+{
+    "name": "ALTON-TRELOAR-ORTHOPAEDIC-HOSPITAL",
+    "data": {
+        "ALTON-TRELOAR-ORTHOPAEDIC-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-227.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-227.csv",
+                "start_date": "1935/02",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-227.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-173.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-108.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-108.csv",
+                "start_date": "1955/03",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-108.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-227.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-227.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-108.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_04_pt1-page-108.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

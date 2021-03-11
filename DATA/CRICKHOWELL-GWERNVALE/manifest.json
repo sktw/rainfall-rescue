@@ -1,0 +1,60 @@
+{
+    "name": "CRICKHOWELL-GWERNVALE",
+    "data": {
+        "CRICKHOWELL-GWERNVALE.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-133.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_13_pt1-page-133.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-195.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-100.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_23_pt1-page-222.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-247.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-091.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "CRICKHOWELL-GWERNVALE.csv": [
+            {
+                "start_date": "1919/07",
+                "end_date": "1919/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_13_pt1-page-133.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-223.csv"
+        }
+    ]
+}

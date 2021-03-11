@@ -1,0 +1,119 @@
+{
+    "name": "LEEDS-ALLERTON-HILL",
+    "data": {
+        "LEEDS-ALLERTON-HILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-103.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-149.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_21_pt1-page-034.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_20_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_20_pt1-page-058.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_22_pt1-page-182.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+                "start_date": "1933/11",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+                "start_date": "1934/01",
+                "end_date": "1934/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+                "start_date": "1934/07",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "LEEDS-ALLERTON-HILL.csv": [
+            {
+                "start_date": "1906/12",
+                "end_date": "1906/12"
+            },
+            {
+                "start_date": "1912/10",
+                "end_date": "1912/10"
+            },
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            },
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_20_pt1-page-058.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+            "start_date": "1933/09",
+            "end_date": "1933/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_19_pt1-page-116.csv",
+            "start_date": "1934/06",
+            "end_date": "1934/06"
+        }
+    ]
+}

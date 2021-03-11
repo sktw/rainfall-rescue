@@ -1,0 +1,23 @@
+{
+    "name": "BRISTOL-STAPLETON-RECTORY",
+    "data": {
+        "BRISTOL-STAPLETON-RECTORY.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-058.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-211.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": []
+}

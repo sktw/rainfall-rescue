@@ -1,0 +1,82 @@
+{
+    "name": "FELIXSTOWE-AIRFIELD",
+    "data": {
+        "FELIXSTOWE-AIRFIELD.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-032.csv",
+                "start_date": "1920/03",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-032.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_09_pt1-page-043.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_09_pt1-page-043.csv",
+                "start_date": "1937/02",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_09_pt1-page-043.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-212.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_10_pt1-page-212.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-124.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "FELIXSTOWE-AIRFIELD.csv": [
+            {
+                "start_date": "1935/05",
+                "end_date": "1935/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_09_pt1-page-043.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_09_pt1-page-043.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_10_pt1-page-212.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-032.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-032.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

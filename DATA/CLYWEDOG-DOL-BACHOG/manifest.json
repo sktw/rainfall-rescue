@@ -1,0 +1,181 @@
+{
+    "name": "CLYWEDOG-DOL-BACHOG",
+    "data": {
+        "CLYWEDOG-DOL-BACHOG.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-168.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1951/05",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1953/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1955/03",
+                "end_date": "1955/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1955/08",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1956/01",
+                "end_date": "1956/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1956/04",
+                "end_date": "1956/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1956/11",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1957/06",
+                "end_date": "1957/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1957/09",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+                "start_date": "1960/06",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "CLYWEDOG-DOL-BACHOG.csv": [
+            {
+                "start_date": "1956/01",
+                "end_date": "1956/02"
+            },
+            {
+                "start_date": "1956/06",
+                "end_date": "1956/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1951/04",
+            "end_date": "1951/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1951/13",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1955/06",
+            "end_date": "1955/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1956/03",
+            "end_date": "1956/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1956/10",
+            "end_date": "1956/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1957/05",
+            "end_date": "1957/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1957/08",
+            "end_date": "1957/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1960/05",
+            "end_date": "1960/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-026.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

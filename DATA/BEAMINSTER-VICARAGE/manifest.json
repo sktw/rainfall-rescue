@@ -1,0 +1,66 @@
+{
+    "name": "BEAMINSTER-VICARAGE",
+    "data": {
+        "BEAMINSTER-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-079.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt1-page-079.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt3-page-039.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-143.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-032.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-099.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-099.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "BEAMINSTER-VICARAGE.csv": [
+            {
+                "start_date": "1873/09",
+                "end_date": "1873/09"
+            },
+            {
+                "start_date": "1887/11",
+                "end_date": "1887/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt1-page-079.csv",
+            "start_date": "1876/13",
+            "end_date": "1876/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-099.csv",
+            "start_date": "1914/12",
+            "end_date": "1914/13"
+        }
+    ]
+}

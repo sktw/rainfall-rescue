@@ -1,0 +1,40 @@
+{
+    "name": "STREET-PORTWAY",
+    "data": {
+        "STREET-PORTWAY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-205.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-170.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-229.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "STREET-PORTWAY.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt3-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-029.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": []
+}

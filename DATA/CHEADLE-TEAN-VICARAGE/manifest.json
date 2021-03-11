@@ -1,0 +1,30 @@
+{
+    "name": "CHEADLE-TEAN-VICARAGE",
+    "data": {
+        "CHEADLE-TEAN-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-155.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CHEADLE-TEAN-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_06_pt1-page-122.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

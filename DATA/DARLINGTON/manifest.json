@@ -1,0 +1,55 @@
+{
+    "name": "DARLINGTON",
+    "data": {
+        "DARLINGTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-053.csv",
+                "start_date": "1730/01",
+                "end_date": "1739/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-094.csv",
+                "start_date": "1740/01",
+                "end_date": "1741/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-094.csv",
+                "start_date": "1742/01",
+                "end_date": "1742/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-094.csv",
+                "start_date": "1743/01",
+                "end_date": "1749/13"
+            }
+        ]
+    },
+    "idr": {
+        "DARLINGTON.csv": [
+            {
+                "start_date": "1736/03",
+                "end_date": "1736/12"
+            },
+            {
+                "start_date": "1737/01",
+                "end_date": "1739/13"
+            },
+            {
+                "start_date": "1740/13",
+                "end_date": "1740/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-094.csv",
+            "start_date": "1741/13",
+            "end_date": "1741/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-094.csv",
+            "start_date": "1742/13",
+            "end_date": "1742/13"
+        }
+    ]
+}

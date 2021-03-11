@@ -1,0 +1,136 @@
+{
+    "name": "HASLEMERE-LYNCHMORE-HOUSE",
+    "data": {
+        "HASLEMERE-LYNCHMORE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_02_pt1-page-132.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_01_pt1-page-140.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_2A_pt1-page-223.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_02_pt1-page-205.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_02_pt1-page-202.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-155.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "HASLEMERE-LYNCHMORE-HOUSE.csv": [
+            {
+                "start_date": "1897/13",
+                "end_date": "1897/13"
+            },
+            {
+                "start_date": "1899/13",
+                "end_date": "1899/13"
+            },
+            {
+                "start_date": "1901/13",
+                "end_date": "1901/13"
+            },
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            },
+            {
+                "start_date": "1904/13",
+                "end_date": "1904/13"
+            },
+            {
+                "start_date": "1906/13",
+                "end_date": "1906/13"
+            },
+            {
+                "start_date": "1907/13",
+                "end_date": "1907/13"
+            },
+            {
+                "start_date": "1909/13",
+                "end_date": "1909/13"
+            },
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "start_date": "1914/13",
+                "end_date": "1914/13"
+            },
+            {
+                "start_date": "1917/13",
+                "end_date": "1917/13"
+            },
+            {
+                "start_date": "1918/13",
+                "end_date": "1918/13"
+            },
+            {
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "start_date": "1927/09",
+                "end_date": "1927/09"
+            },
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            },
+            {
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "start_date": "1942/13",
+                "end_date": "1942/13"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "HASLEMERE-LYNCHMORE-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-155.jpg",
+                "start_date": "1951/01",
+                "end_date": "1951/09",
+                "comment": "Data from column manually inserted in table"
+            }
+        ]
+    }
+}

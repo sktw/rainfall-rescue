@@ -1,0 +1,40 @@
+{
+    "name": "CLIFTON-CECIL-ROAD",
+    "data": {
+        "CLIFTON-CECIL-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-232.csv",
+                "start_date": "1902/08",
+                "end_date": "1909/13"
+            }
+        ],
+        "CLIFTON-CECIL-ROAD.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-052.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-052.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-199.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-232.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-232.csv",
+                "start_date": "1902/13",
+                "end_date": "1902/13"
+            }
+        ]
+    },
+    "unused": []
+}

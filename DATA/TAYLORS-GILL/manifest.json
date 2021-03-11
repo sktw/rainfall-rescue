@@ -1,0 +1,44 @@
+{
+    "name": "TAYLORS-GILL",
+    "data": {
+        "TAYLORS-GILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-012.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt3-page-015.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-045.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-045.csv",
+                "start_date": "1881/01",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-045.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_12_pt1-page-045.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_12_pt1-page-045.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        }
+    ]
+}

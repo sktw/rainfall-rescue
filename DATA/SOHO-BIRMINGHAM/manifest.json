@@ -1,0 +1,13 @@
+{
+    "name": "SOHO-BIRMINGHAM",
+    "data": {
+        "SOHO-BIRMINGHAM.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-018.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "unused": []
+}

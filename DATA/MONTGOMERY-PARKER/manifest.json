@@ -1,0 +1,26 @@
+{
+    "name": "MONTGOMERY-PARKER",
+    "data": {
+        "MONTGOMERY-PARKER.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-007.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-170.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "MONTGOMERY-PARKER.csv": [
+            {
+                "start_date": "1882/08",
+                "end_date": "1882/09"
+            }
+        ]
+    },
+    "unused": []
+}

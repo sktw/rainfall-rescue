@@ -1,0 +1,43 @@
+{
+    "name": "DUBLIN-BLACKROCK",
+    "data": {
+        "DUBLIN-BLACKROCK-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt2-page-007.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "DUBLIN-BLACKROCK.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-094.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-302.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-071.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt2-page-008.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUBLIN-BLACKROCK.csv": [
+            {
+                "start_date": "1846/11",
+                "end_date": "1846/11"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,78 @@
+{
+    "name": "MASHAM-MOOR-SOMERSIDE",
+    "data": {
+        "MASHAM-MOOR-SOMERSIDE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-246.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-143.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-287.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-146.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-237.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MASHAM-MOOR-SOMERSIDE-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-147.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-238.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MASHAM-MOOR-SOMERSIDE.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-004.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-156.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_22_pt1-page-144.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_22_pt1-page-144.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_22_pt1-page-144.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/13"
+        }
+    ]
+}

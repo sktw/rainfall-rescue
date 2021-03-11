@@ -1,0 +1,28 @@
+{
+    "name": "STRATHDON-CASTLE-NEWE",
+    "data": {
+        "STRATHDON-CASTLE-NEWE.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-065.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-244.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-027.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-055.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

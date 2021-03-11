@@ -1,0 +1,48 @@
+{
+    "name": "SOWERBY-BRIDGE",
+    "data": {
+        "SOWERBY-BRIDGE-2.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-089.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "SOWERBY-BRIDGE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-004.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-047.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-088.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOWERBY-BRIDGE.csv": [
+            {
+                "start_date": "1834/03",
+                "end_date": "1834/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt1-page-063.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-005.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-006.csv"
+        }
+    ]
+}

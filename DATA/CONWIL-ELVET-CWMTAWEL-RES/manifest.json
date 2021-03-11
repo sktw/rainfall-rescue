@@ -1,0 +1,31 @@
+{
+    "name": "CONWIL-ELVET-CWMTAWEL-RES",
+    "data": {
+        "CONWIL-ELVET-CWMTAWEL-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-273.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-153.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-108.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CONWIL-ELVET-CWMTAWEL-RES.csv": [
+            {
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            }
+        ]
+    },
+    "unused": []
+}

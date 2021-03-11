@@ -1,0 +1,65 @@
+{
+    "name": "DUBLIN-MIX",
+    "data": {
+        "DUBLIN-MIX-2.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-127.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-128.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ],
+        "DUBLIN-MIX-3.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-106.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-095.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-304.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-073.csv",
+                "start_date": "1860/01",
+                "end_date": "1864/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-074.csv",
+                "start_date": "1865/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "DUBLIN-MIX.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-123.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-124.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUBLIN-MIX.csv": [
+            {
+                "start_date": "1801/08",
+                "end_date": "1801/08"
+            }
+        ]
+    },
+    "unused": []
+}

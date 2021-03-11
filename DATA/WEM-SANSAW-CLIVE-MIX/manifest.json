@@ -1,0 +1,93 @@
+{
+    "name": "WEM-SANSAW-CLIVE-MIX",
+    "data": {
+        "WEM-SANSAW-CLIVE-MIX-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-049.csv",
+                "start_date": "1887/02",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-049.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-102.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-066.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WEM-SANSAW-CLIVE-MIX-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_15_pt1-page-026.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-328.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "WEM-SANSAW-CLIVE-MIX-SINGLEYEAR.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-080.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "WEM-SANSAW-CLIVE-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-079.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/04"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-048.csv",
+                "start_date": "1887/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEM-SANSAW-CLIVE-MIX-3.csv": [
+            {
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-048.csv",
+            "start_date": "1886/05",
+            "end_date": "1886/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-049.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-049.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        }
+    ]
+}

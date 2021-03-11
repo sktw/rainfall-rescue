@@ -1,0 +1,72 @@
+{
+    "name": "INVERNESS-CULDUTHEL-RES",
+    "data": {
+        "INVERNESS-CULDUTHEL-RES.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-143.csv",
+                "start_date": "1922/09",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-143.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-033.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-021.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-185.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-185.csv",
+                "start_date": "1957/08",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-185.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "INVERNESS-CULDUTHEL-RES.csv": [
+            {
+                "start_date": "1944/06",
+                "end_date": "1944/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-185.csv",
+            "start_date": "1957/07",
+            "end_date": "1957/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-185.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-143.csv",
+            "start_date": "1920/01",
+            "end_date": "1922/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-143.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

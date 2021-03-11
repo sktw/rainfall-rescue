@@ -1,0 +1,66 @@
+{
+    "name": "NOTTINGHAM-WEST-BRIDGFORD",
+    "data": {
+        "NOTTINGHAM-WEST-BRIDGFORD.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-157.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-159.csv",
+                "start_date": "1800/01",
+                "end_date": "1800/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-158.csv",
+                "start_date": "1801/01",
+                "end_date": "1802/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-159.csv",
+                "start_date": "1803/01",
+                "end_date": "1807/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-158.csv",
+                "start_date": "1808/01",
+                "end_date": "1809/01"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-159.csv",
+                "start_date": "1809/02",
+                "end_date": "1809/02"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-158.csv",
+                "start_date": "1809/03",
+                "end_date": "1809/04"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-159.csv",
+                "start_date": "1809/05",
+                "end_date": "1809/05"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-158.csv",
+                "start_date": "1809/06",
+                "end_date": "1809/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-159.csv",
+                "start_date": "1809/13",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "NOTTINGHAM-WEST-BRIDGFORD.csv": [
+            {
+                "start_date": "1798/13",
+                "end_date": "1798/13"
+            }
+        ]
+    },
+    "unused": []
+}

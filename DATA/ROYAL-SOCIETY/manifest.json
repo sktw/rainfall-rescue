@@ -1,0 +1,84 @@
+{
+    "name": "ROYAL-SOCIETY",
+    "data": {
+        "ROYAL-SOCIETY.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-007.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-001.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-083.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-003.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-039.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-006.csv",
+                "start_date": "1840/01",
+                "end_date": "1842/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-014.csv",
+                "start_date": "1843/01",
+                "end_date": "1843/06"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-006.csv",
+                "start_date": "1843/07",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROYAL-SOCIETY.csv": [
+            {
+                "start_date": "1800/07",
+                "end_date": "1800/07"
+            },
+            {
+                "start_date": "1807/11",
+                "end_date": "1807/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-009.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-010.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-012.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-014.csv",
+            "start_date": "1840/01",
+            "end_date": "1842/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-008.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-011.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-013.csv"
+        }
+    ]
+}

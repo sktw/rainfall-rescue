@@ -1,0 +1,47 @@
+{
+    "name": "GLASGOW-BELVEDERE-HOSPITAL",
+    "data": {
+        "GLASGOW-BELVEDERE-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-165.csv",
+                "start_date": "1880/02",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-165.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-011.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-232.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-044.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_14_pt1-page-165.csv",
+            "start_date": "1880/01",
+            "end_date": "1880/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_14_pt1-page-165.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_26_pt1-page-046.csv"
+        }
+    ]
+}

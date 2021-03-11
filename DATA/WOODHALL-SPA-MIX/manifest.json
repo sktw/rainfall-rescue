@@ -1,0 +1,52 @@
+{
+    "name": "WOODHALL-SPA-MIX",
+    "data": {
+        "WOODHALL-SPA-MIX-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-105.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-061.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-052.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-133.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            }
+        ],
+        "WOODHALL-SPA-MIX-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-053.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-134.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            }
+        ],
+        "WOODHALL-SPA-MIX.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-160.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-104.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            }
+        ]
+    },
+    "unused": []
+}

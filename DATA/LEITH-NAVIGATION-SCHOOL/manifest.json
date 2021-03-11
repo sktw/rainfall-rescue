@@ -1,0 +1,69 @@
+{
+    "name": "LEITH-NAVIGATION-SCHOOL",
+    "data": {
+        "LEITH-NAVIGATION-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+                "start_date": "1870/01",
+                "end_date": "1873/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+                "start_date": "1874/01",
+                "end_date": "1874/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+                "start_date": "1874/03",
+                "end_date": "1874/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+                "start_date": "1875/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_14_pt1-page-149.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-160.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-191.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-308.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-065.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+            "start_date": "1873/13",
+            "end_date": "1873/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+            "start_date": "1874/02",
+            "end_date": "1874/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_11_pt2-page-059.csv",
+            "start_date": "1874/13",
+            "end_date": "1874/13"
+        }
+    ]
+}

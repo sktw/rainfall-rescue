@@ -1,0 +1,41 @@
+{
+    "name": "OSWESTRY-HENGOED",
+    "data": {
+        "OSWESTRY-HENGOED.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-021.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-029.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_06_pt1-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-052.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-104.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "OSWESTRY-HENGOED.csv": [
+            {
+                "start_date": "1872/08",
+                "end_date": "1872/08"
+            }
+        ]
+    },
+    "unused": []
+}

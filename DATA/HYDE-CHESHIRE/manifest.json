@@ -1,0 +1,33 @@
+{
+    "name": "HYDE-CHESHIRE",
+    "data": {
+        "HYDE-CHESHIRE.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-171.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-172.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "HYDE-CHESHIRE.csv": [
+            {
+                "start_date": "1840/03",
+                "end_date": "1840/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt1-page-020.csv"
+        },
+        {
+            "filename": "TYRain_1820-1829_C_pt2-page-082.csv"
+        }
+    ]
+}

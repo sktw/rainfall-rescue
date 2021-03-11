@@ -1,0 +1,113 @@
+{
+    "name": "ST-BEUNOS-COLLEGE",
+    "data": {
+        "ST-BEUNOS-COLLEGE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-015.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-098.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-087.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-248.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-236.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-236.csv",
+                "start_date": "1949/08",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-236.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-091.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ST-BEUNOS-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-094.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-094.csv",
+                "start_date": "1893/02",
+                "end_date": "1893/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-094.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-014.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-097.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "ST-BEUNOS-COLLEGE-2.csv": [
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            },
+            {
+                "start_date": "1941/01",
+                "end_date": "1941/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_26_pt1-page-236.csv",
+            "start_date": "1949/01",
+            "end_date": "1949/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_26_pt1-page-236.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-094.csv",
+            "start_date": "1893/01",
+            "end_date": "1893/01"
+        },
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-094.csv",
+            "start_date": "1893/13",
+            "end_date": "1893/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-087.csv",
+            "start_date": "1930/01",
+            "end_date": "1930/13"
+        }
+    ]
+}

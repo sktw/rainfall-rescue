@@ -1,0 +1,40 @@
+{
+    "name": "HEADINGLEY",
+    "data": {
+        "HEADINGLEY.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-066.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-065.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-065.csv",
+            "start_date": "1839/13",
+            "end_date": "1839/13"
+        }
+    ],
+    "external": {
+        "HEADINGLEY.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-066.jpg",
+                "start_date": "1819/02",
+                "end_date": "1819/06",
+                "comment": "Data from notes at foot of sheet"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-066.jpg",
+                "start_date": "1819/08",
+                "end_date": "1819/12",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "ABERDEEN-GORDONS-HOSPITAL",
+    "data": {
+        "ABERDEEN-GORDONS-HOSPITAL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-037.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-224.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-155.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ABERDEEN-GORDONS-HOSPITAL.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-084.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-062.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDEEN-GORDONS-HOSPITAL.csv": [
+            {
+                "start_date": "1838/01",
+                "end_date": "1838/13"
+            },
+            {
+                "start_date": "1841/10",
+                "end_date": "1841/10"
+            }
+        ]
+    },
+    "unused": []
+}

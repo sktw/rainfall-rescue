@@ -1,0 +1,28 @@
+{
+    "name": "SLEAFORD-RAUCEBY-HALL",
+    "data": {
+        "SLEAFORD-RAUCEBY-HALL.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-025.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-145.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-085.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-042.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
+        ]
+    },
+    "unused": []
+}

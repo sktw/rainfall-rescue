@@ -1,0 +1,105 @@
+{
+    "name": "LLYN-Y-FAN-FACH-WAEN-SYCHLWCH",
+    "data": {
+        "LLYN-Y-FAN-FACH-WAEN-SYCHLWCH.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+                "start_date": "1922/02",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+                "start_date": "1923/01",
+                "end_date": "1929/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+                "start_date": "1929/11",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-268.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-148.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-103.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-103.csv",
+                "start_date": "1952/06",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-103.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLYN-Y-FAN-FACH-WAEN-SYCHLWCH.csv": [
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "start_date": "1928/06",
+                "end_date": "1928/06"
+            },
+            {
+                "start_date": "1952/09",
+                "end_date": "1952/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+            "start_date": "1922/01",
+            "end_date": "1922/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+            "start_date": "1929/09",
+            "end_date": "1929/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_26_pt1-page-103.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-103.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-103.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

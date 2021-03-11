@@ -1,0 +1,28 @@
+{
+    "name": "WADEBRIDGE-ST-KEW",
+    "data": {
+        "WADEBRIDGE-ST-KEW.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-071.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-193.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-033.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-300.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BRAITHWAITE-KEIGHLEY",
+    "data": {
+        "BRAITHWAITE-KEIGHLEY.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-059.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-087.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-172.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-112.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRAITHWAITE-KEIGHLEY.csv": [
+            {
+                "start_date": "1848/13",
+                "end_date": "1848/13"
+            },
+            {
+                "start_date": "1856/08",
+                "end_date": "1856/08"
+            },
+            {
+                "start_date": "1856/13",
+                "end_date": "1856/13"
+            }
+        ]
+    },
+    "unused": []
+}

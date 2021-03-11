@@ -1,0 +1,113 @@
+{
+    "name": "POOLE-PARKSTONE",
+    "data": {
+        "POOLE-PARKSTONE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-038.csv",
+                "start_date": "1882/04",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-128.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-055.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "POOLE-PARKSTONE-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-129.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-056.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/13"
+            }
+        ],
+        "POOLE-PARKSTONE-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-127.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "POOLE-PARKSTONE-5.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-056.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-059.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "POOLE-PARKSTONE-6.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-056.csv",
+                "start_date": "1901/07",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-056.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "POOLE-PARKSTONE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "POOLE-PARKSTONE-6.csv": [
+            {
+                "start_date": "1901/08",
+                "end_date": "1901/12"
+            },
+            {
+                "start_date": "1902/02",
+                "end_date": "1902/11"
+            },
+            {
+                "start_date": "1902/13",
+                "end_date": "1907/07"
+            },
+            {
+                "start_date": "1907/09",
+                "end_date": "1907/09"
+            },
+            {
+                "start_date": "1907/11",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt3-page-038.csv",
+            "start_date": "1881/01",
+            "end_date": "1882/03"
+        }
+    ]
+}

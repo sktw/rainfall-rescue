@@ -1,0 +1,26 @@
+{
+    "name": "SALCOMBE-PRAWLE-POINT",
+    "data": {
+        "SALCOMBE-PRAWLE-POINT.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt4-page-024.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-037.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "SALCOMBE-PRAWLE-POINT.csv": [
+            {
+                "start_date": "1887/06",
+                "end_date": "1887/06"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,50 @@
+{
+    "name": "EDINBURGH-CANAAN",
+    "data": {
+        "EDINBURGH-CANAAN.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-002.csv",
+                "start_date": "1820/01",
+                "end_date": "1820/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-002.csv",
+                "start_date": "1821/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-024.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt3-page-026.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "EDINBURGH-CANAAN.csv": [
+            {
+                "start_date": "1822/05",
+                "end_date": "1822/05"
+            },
+            {
+                "start_date": "1833/12",
+                "end_date": "1833/12"
+            },
+            {
+                "start_date": "1845/02",
+                "end_date": "1845/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-002.csv",
+            "start_date": "1820/13",
+            "end_date": "1820/13"
+        }
+    ]
+}

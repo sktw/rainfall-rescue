@@ -1,0 +1,35 @@
+{
+    "name": "WANTAGE",
+    "data": {
+        "WANTAGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-208.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-059.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-083.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WANTAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-089.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-127.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

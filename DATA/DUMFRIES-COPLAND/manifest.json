@@ -1,0 +1,43 @@
+{
+    "name": "DUMFRIES-COPLAND",
+    "data": {
+        "DUMFRIES-COPLAND.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-069.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt1-page-070.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt1-page-071.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUMFRIES-COPLAND.csv": [
+            {
+                "start_date": "1781/04",
+                "end_date": "1781/04"
+            },
+            {
+                "start_date": "1782/11",
+                "end_date": "1782/11"
+            },
+            {
+                "start_date": "1790/13",
+                "end_date": "1790/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-068.csv"
+        }
+    ]
+}

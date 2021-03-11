@@ -1,0 +1,26 @@
+{
+    "name": "ST-ASAPH-BRYNBELLA",
+    "data": {
+        "ST-ASAPH-BRYNBELLA.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt3-page-077.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-037.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "ST-ASAPH-BRYNBELLA.csv": [
+            {
+                "start_date": "1869/05",
+                "end_date": "1869/05"
+            }
+        ]
+    },
+    "unused": []
+}

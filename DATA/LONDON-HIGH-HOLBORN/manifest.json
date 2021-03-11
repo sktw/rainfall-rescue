@@ -1,0 +1,18 @@
+{
+    "name": "LONDON-HIGH-HOLBORN",
+    "data": {
+        "LONDON-HIGH-HOLBORN.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-086.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-010.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,178 @@
+{
+    "name": "ULLSWATER-HALLSTEADS",
+    "data": {
+        "ULLSWATER-HALLSTEADS-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-199.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-075.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-006.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-237.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS-3.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-087.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-152.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS-4.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-089.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-154.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS-5.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-083.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-150.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS-6.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-088.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-153.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS-7.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-090.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-155.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "ULLSWATER-HALLSTEADS.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-074.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-084.csv",
+                "start_date": "1830/01",
+                "end_date": "1836/04"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-083.csv",
+                "start_date": "1836/05",
+                "end_date": "1836/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-084.csv",
+                "start_date": "1836/06",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-151.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-277.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-056.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-075.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-016.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-176.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/02"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-176.csv",
+                "start_date": "1894/04",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-176.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "ULLSWATER-HALLSTEADS-6.csv": [
+            {
+                "start_date": "1838/13",
+                "end_date": "1838/13"
+            },
+            {
+                "start_date": "1839/13",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_18_pt1-page-176.csv",
+            "start_date": "1894/03",
+            "end_date": "1894/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_18_pt1-page-176.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

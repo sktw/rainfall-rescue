@@ -1,0 +1,54 @@
+{
+    "name": "ROYSTON",
+    "data": {
+        "ROYSTON.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-076.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-120.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt1-page-022.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-065.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-075.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROYSTON.csv": [
+            {
+                "start_date": "1847/03",
+                "end_date": "1847/03"
+            },
+            {
+                "start_date": "1852/02",
+                "end_date": "1852/02"
+            },
+            {
+                "start_date": "1868/01",
+                "end_date": "1868/01"
+            }
+        ]
+    },
+    "unused": []
+}

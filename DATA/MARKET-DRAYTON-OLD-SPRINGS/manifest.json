@@ -1,0 +1,106 @@
+{
+    "name": "MARKET-DRAYTON-OLD-SPRINGS",
+    "data": {
+        "MARKET-DRAYTON-OLD-SPRINGS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-055.csv",
+                "start_date": "1929/02",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-055.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "MARKET-DRAYTON-OLD-SPRINGS.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+                "start_date": "1884/01",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+                "start_date": "1885/01",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+                "start_date": "1887/04",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-120.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-127.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-013.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-054.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-022.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+            "start_date": "1883/13",
+            "end_date": "1883/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/03"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-014.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_15_pt1-page-055.csv",
+            "start_date": "1929/01",
+            "end_date": "1929/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_15_pt1-page-055.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        }
+    ]
+}

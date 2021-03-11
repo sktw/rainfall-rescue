@@ -1,0 +1,56 @@
+{
+    "name": "CHIPPING-SODBURY-THE-RIDGE",
+    "data": {
+        "CHIPPING-SODBURY-THE-RIDGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-063.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-218.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-215.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-111.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_14_pt1-page-006.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_14_pt1-page-006.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHIPPING-SODBURY-THE-RIDGE.csv": [
+            {
+                "start_date": "1920/10",
+                "end_date": "1920/10"
+            },
+            {
+                "start_date": "1921/02",
+                "end_date": "1921/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_14_pt1-page-006.csv",
+            "start_date": "1926/09",
+            "end_date": "1926/13"
+        }
+    ]
+}

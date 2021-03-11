@@ -1,0 +1,29 @@
+{
+    "name": "LINCOLN-THE-QUARRY",
+    "data": {
+        "LINCOLN-THE-QUARRY.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-041.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt1-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_13_pt1-page-175.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        }
+    ]
+}

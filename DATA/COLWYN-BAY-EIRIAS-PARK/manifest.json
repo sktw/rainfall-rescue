@@ -1,0 +1,96 @@
+{
+    "name": "COLWYN-BAY-EIRIAS-PARK",
+    "data": {
+        "COLWYN-BAY-EIRIAS-PARK-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-063.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-063.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-151.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-156.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/09"
+            }
+        ],
+        "COLWYN-BAY-EIRIAS-PARK-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-156.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-156.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-312.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-063.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-165.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-165.csv",
+                "start_date": "1960/07",
+                "end_date": "1960/12"
+            }
+        ],
+        "COLWYN-BAY-EIRIAS-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-063.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/13"
+            }
+        ]
+    },
+    "idr": {
+        "COLWYN-BAY-EIRIAS-PARK-3.csv": [
+            {
+                "start_date": "1935/03",
+                "end_date": "1935/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-151.csv",
+            "start_date": "1919/12",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-156.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-165.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-165.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "NORTH-FINCHLEY",
+    "data": {
+        "NORTH-FINCHLEY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-212.csv",
+                "start_date": "1926/07",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-212.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-200.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "NORTH-FINCHLEY.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-130.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-137.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-171.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-212.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-212.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

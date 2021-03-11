@@ -1,0 +1,23 @@
+{
+    "name": "WORCESTER-LARK-HILL",
+    "data": {
+        "WORCESTER-LARK-HILL.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-034.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-066.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-015.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

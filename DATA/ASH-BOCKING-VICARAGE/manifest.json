@@ -1,0 +1,52 @@
+{
+    "name": "ASH-BOCKING-VICARAGE",
+    "data": {
+        "ASH-BOCKING-VICARAGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_08_pt1-page-221.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-207.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-208.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ASH-BOCKING-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt1-page-023.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-220.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-206.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "ASH-BOCKING-VICARAGE-2.csv": [
+            {
+                "start_date": "1899/09",
+                "end_date": "1899/09"
+            },
+            {
+                "start_date": "1899/13",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": []
+}

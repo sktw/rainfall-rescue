@@ -1,0 +1,84 @@
+{
+    "name": "SKIDDAW-FOREST",
+    "data": {
+        "SKIDDAW-FOREST.csv": [
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-161.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-242.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-242.csv",
+                "start_date": "1932/08",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+                "start_date": "1942/05",
+                "end_date": "1942/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+                "start_date": "1943/01",
+                "end_date": "1945/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+                "start_date": "1946/03",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+            "start_date": "1942/11",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+            "start_date": "1945/08",
+            "end_date": "1946/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_23_pt1-page-156.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-242.csv",
+            "start_date": "1932/07",
+            "end_date": "1932/07"
+        }
+    ]
+}

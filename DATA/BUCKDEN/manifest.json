@@ -1,0 +1,28 @@
+{
+    "name": "BUCKDEN",
+    "data": {
+        "BUCKDEN.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-235.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-020.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-051.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-184.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": []
+}

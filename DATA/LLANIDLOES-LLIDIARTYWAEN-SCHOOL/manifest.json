@@ -1,0 +1,79 @@
+{
+    "name": "LLANIDLOES-LLIDIARTYWAEN-SCHOOL",
+    "data": {
+        "LLANIDLOES-LLIDIARTYWAEN-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-166.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-037.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-037.csv",
+                "start_date": "1927/02",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-037.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-189.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-189.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-189.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-158.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-158.csv",
+                "start_date": "1945/05",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-037.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_27_pt1-page-037.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-189.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-189.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-158.csv",
+            "start_date": "1945/04",
+            "end_date": "1945/04"
+        }
+    ]
+}

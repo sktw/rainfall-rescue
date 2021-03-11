@@ -1,0 +1,108 @@
+{
+    "name": "TIGHNABRUAICH-WELLPARK",
+    "data": {
+        "TIGHNABRUAICH-WELLPARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-206.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-057.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-057.csv",
+                "start_date": "1914/10",
+                "end_date": "1914/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-057.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "TIGHNABRUAICH-WELLPARK-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+                "start_date": "1924/02",
+                "end_date": "1924/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+                "start_date": "1924/05",
+                "end_date": "1924/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+                "start_date": "1924/07",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "TIGHNABRUAICH-WELLPARK.csv": [
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-171.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-205.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_27_pt1-page-057.csv",
+            "start_date": "1914/01",
+            "end_date": "1914/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_27_pt1-page-057.csv",
+            "start_date": "1914/11",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+            "start_date": "1924/01",
+            "end_date": "1924/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+            "start_date": "1924/03",
+            "end_date": "1924/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+            "start_date": "1924/06",
+            "end_date": "1924/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-194.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "TOWNLEY-HALL",
+    "data": {
+        "TOWNLEY-HALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-200.csv",
+                "start_date": "1670/01",
+                "end_date": "1679/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-201.csv",
+                "start_date": "1680/01",
+                "end_date": "1689/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-203.csv",
+                "start_date": "1690/01",
+                "end_date": "1699/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-205.csv",
+                "start_date": "1700/01",
+                "end_date": "1709/13"
+            }
+        ]
+    },
+    "idr": {
+        "TOWNLEY-HALL.csv": [
+            {
+                "start_date": "1677/08",
+                "end_date": "1677/08"
+            },
+            {
+                "start_date": "1682/07",
+                "end_date": "1682/09"
+            },
+            {
+                "start_date": "1683/06",
+                "end_date": "1683/06"
+            },
+            {
+                "start_date": "1684/11",
+                "end_date": "1684/11"
+            },
+            {
+                "start_date": "1685/04",
+                "end_date": "1685/04"
+            },
+            {
+                "start_date": "1686/07",
+                "end_date": "1686/08"
+            },
+            {
+                "start_date": "1689/01",
+                "end_date": "1689/13"
+            },
+            {
+                "start_date": "1690/10",
+                "end_date": "1690/10"
+            },
+            {
+                "start_date": "1691/07",
+                "end_date": "1691/07"
+            },
+            {
+                "start_date": "1692/03",
+                "end_date": "1692/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-204.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-202.csv"
+        }
+    ]
+}

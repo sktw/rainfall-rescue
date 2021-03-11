@@ -1,0 +1,127 @@
+{
+    "name": "LYNDON-RUTLAND",
+    "data": {
+        "LYNDON-RUTLAND.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-143.csv",
+                "start_date": "1730/01",
+                "end_date": "1739/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-145.csv",
+                "start_date": "1740/01",
+                "end_date": "1749/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-146.csv",
+                "start_date": "1750/01",
+                "end_date": "1759/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-147.csv",
+                "start_date": "1760/01",
+                "end_date": "1769/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-148.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-150.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-151.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-152.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYNDON-RUTLAND.csv": [
+            {
+                "start_date": "1737/11",
+                "end_date": "1737/11"
+            },
+            {
+                "start_date": "1739/11",
+                "end_date": "1739/11"
+            },
+            {
+                "start_date": "1770/13",
+                "end_date": "1770/13"
+            },
+            {
+                "start_date": "1772/01",
+                "end_date": "1772/01"
+            },
+            {
+                "start_date": "1773/11",
+                "end_date": "1773/11"
+            },
+            {
+                "start_date": "1774/13",
+                "end_date": "1774/13"
+            },
+            {
+                "start_date": "1776/02",
+                "end_date": "1776/02"
+            },
+            {
+                "start_date": "1776/06",
+                "end_date": "1776/06"
+            },
+            {
+                "start_date": "1776/13",
+                "end_date": "1776/13"
+            },
+            {
+                "start_date": "1777/02",
+                "end_date": "1777/02"
+            },
+            {
+                "start_date": "1779/02",
+                "end_date": "1779/02"
+            },
+            {
+                "start_date": "1779/06",
+                "end_date": "1779/06"
+            },
+            {
+                "start_date": "1779/12",
+                "end_date": "1779/13"
+            },
+            {
+                "start_date": "1783/03",
+                "end_date": "1783/03"
+            },
+            {
+                "start_date": "1790/01",
+                "end_date": "1790/01"
+            },
+            {
+                "start_date": "1791/01",
+                "end_date": "1791/01"
+            },
+            {
+                "start_date": "1796/07",
+                "end_date": "1796/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-144.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-149.csv"
+        }
+    ]
+}

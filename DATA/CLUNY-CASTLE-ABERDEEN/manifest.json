@@ -1,0 +1,25 @@
+{
+    "name": "CLUNY-CASTLE-ABERDEEN",
+    "data": {
+        "CLUNY-CASTLE-ABERDEEN-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-056.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-233.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "CLUNY-CASTLE-ABERDEEN.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-028.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

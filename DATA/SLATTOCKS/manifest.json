@@ -1,0 +1,73 @@
+{
+    "name": "SLATTOCKS",
+    "data": {
+        "SLATTOCKS.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-099.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-044.csv",
+                "start_date": "1840/01",
+                "end_date": "1844/04"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-045.csv",
+                "start_date": "1844/05",
+                "end_date": "1844/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-044.csv",
+                "start_date": "1844/06",
+                "end_date": "1844/12"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-045.csv",
+                "start_date": "1845/01",
+                "end_date": "1847/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-044.csv",
+                "start_date": "1848/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "SLATTOCKS.csv": [
+            {
+                "start_date": "1840/01",
+                "end_date": "1840/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt1-page-044.csv",
+            "start_date": "1844/05",
+            "end_date": "1844/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1840-1849_E_pt1-page-044.csv",
+            "start_date": "1844/13",
+            "end_date": "1844/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-225.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-226.csv"
+        },
+        {
+            "filename": "TYRain_1840-1849_E_pt1-page-045.csv",
+            "start_date": "1840/01",
+            "end_date": "1840/13"
+        },
+        {
+            "filename": "TYRain_1840-1849_E_pt1-page-045.csv",
+            "start_date": "1844/13",
+            "end_date": "1844/13"
+        }
+    ]
+}

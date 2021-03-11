@@ -1,0 +1,26 @@
+{
+    "name": "STONELEIGH-ABBEY",
+    "data": {
+        "STONELEIGH-ABBEY.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-038.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt3-page-082.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "STONELEIGH-ABBEY.csv": [
+            {
+                "start_date": "1860/04",
+                "end_date": "1860/04"
+            }
+        ]
+    },
+    "unused": []
+}

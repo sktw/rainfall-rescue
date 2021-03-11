@@ -1,0 +1,96 @@
+{
+    "name": "WALSDEN-CALF-LEE",
+    "data": {
+        "WALSDEN-CALF-LEE.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-124.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-124.csv",
+                "start_date": "1887/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-072.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-115.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+                "start_date": "1913/01",
+                "end_date": "1915/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-088.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-035.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_21_pt1-page-185.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-196.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WALSDEN-CALF-LEE.csv": [
+            {
+                "start_date": "1937/04",
+                "end_date": "1937/04"
+            },
+            {
+                "start_date": "1944/13",
+                "end_date": "1944/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+            "start_date": "1915/13",
+            "end_date": "1915/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_19_pt1-page-229.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-124.csv",
+            "start_date": "1886/13",
+            "end_date": "1886/13"
+        }
+    ]
+}

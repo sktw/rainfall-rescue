@@ -1,0 +1,119 @@
+{
+    "name": "LONDON-HAMILTON-TERRACE",
+    "data": {
+        "LONDON-HAMILTON-TERRACE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+                "start_date": "1913/07",
+                "end_date": "1913/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+                "start_date": "1913/12",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-068.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-068.csv",
+                "start_date": "1924/07",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-068.csv",
+                "start_date": "1925/01",
+                "end_date": "1929/13"
+            }
+        ],
+        "LONDON-HAMILTON-TERRACE.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt1-page-029.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-056.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-087.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/06"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-087.csv",
+                "start_date": "1909/09",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-093.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LONDON-HAMILTON-TERRACE.csv": [
+            {
+                "start_date": "1910/08",
+                "end_date": "1910/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-087.csv",
+            "start_date": "1909/07",
+            "end_date": "1909/08"
+        },
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-087.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+            "start_date": "1913/05",
+            "end_date": "1913/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+            "start_date": "1913/08",
+            "end_date": "1913/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-092.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_01_pt1-page-068.csv",
+            "start_date": "1924/05",
+            "end_date": "1924/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_01_pt1-page-068.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

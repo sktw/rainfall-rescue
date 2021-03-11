@@ -1,0 +1,68 @@
+{
+    "name": "CHEADLE-THE-HEATH-HOUSE",
+    "data": {
+        "CHEADLE-THE-HEATH-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-119.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/05"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-120.csv",
+                "start_date": "1875/06",
+                "end_date": "1875/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-119.csv",
+                "start_date": "1875/09",
+                "end_date": "1875/09"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-120.csv",
+                "start_date": "1875/10",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-119.csv",
+                "start_date": "1875/13",
+                "end_date": "1879/13"
+            }
+        ],
+        "CHEADLE-THE-HEATH-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-121.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-045.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-154.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-087.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_15_pt1-page-065.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHEADLE-THE-HEATH-HOUSE.csv": [
+            {
+                "start_date": "1918/13",
+                "end_date": "1918/13"
+            }
+        ]
+    },
+    "unused": []
+}

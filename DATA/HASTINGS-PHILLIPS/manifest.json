@@ -1,0 +1,26 @@
+{
+    "name": "HASTINGS-PHILLIPS",
+    "data": {
+        "HASTINGS-PHILLIPS.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-174.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-050.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "HASTINGS-PHILLIPS.csv": [
+            {
+                "start_date": "1846/12",
+                "end_date": "1846/12"
+            }
+        ]
+    },
+    "unused": []
+}

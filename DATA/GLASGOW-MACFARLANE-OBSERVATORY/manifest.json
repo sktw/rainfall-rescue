@@ -1,0 +1,45 @@
+{
+    "name": "GLASGOW-MACFARLANE-OBSERVATORY",
+    "data": {
+        "GLASGOW-MACFARLANE-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-105.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-140.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-012.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-028.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-028.csv",
+                "start_date": "1839/09",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1830-1839_D_pt1-page-028.csv",
+            "start_date": "1839/08",
+            "end_date": "1839/08"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-104.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-051.csv"
+        }
+    ]
+}

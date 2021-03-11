@@ -1,0 +1,47 @@
+{
+    "name": "IRONGRAY-DRUM-PARK",
+    "data": {
+        "IRONGRAY-DRUM-PARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-031.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-040.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "IRONGRAY-DRUM-PARK.csv": [
+            {
+                "filename": "MISFILED_TYRain_1860-1869_07_pt1-page-016.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-028.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-032.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "IRONGRAY-DRUM-PARK.csv": [
+            {
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_14_pt1-page-029.csv"
+        }
+    ]
+}

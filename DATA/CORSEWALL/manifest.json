@@ -1,0 +1,116 @@
+{
+    "name": "CORSEWALL",
+    "data": {
+        "CORSEWALL.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-129.csv",
+                "start_date": "1816/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-007.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-013.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-005.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-039.csv",
+                "start_date": "1850/01",
+                "end_date": "1850/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-039.csv",
+                "start_date": "1851/01",
+                "end_date": "1851/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-039.csv",
+                "start_date": "1852/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt1-page-004.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt1-page-004.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-004.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-004.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-006.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-007.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-209.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-006.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_25_pt1-page-066.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "CORSEWALL.csv": [
+            {
+                "start_date": "1865/06",
+                "end_date": "1865/06"
+            },
+            {
+                "start_date": "1953/13",
+                "end_date": "1953/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1850-1859_H_pt1-page-039.csv",
+            "start_date": "1850/13",
+            "end_date": "1850/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_H_pt1-page-039.csv",
+            "start_date": "1851/13",
+            "end_date": "1851/13"
+        }
+    ]
+}

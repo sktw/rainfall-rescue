@@ -1,0 +1,38 @@
+{
+    "name": "ALDERLEY-RECTORY",
+    "data": {
+        "ALDERLEY-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-122.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-051.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALDERLEY-RECTORY.csv": [
+            {
+                "start_date": "1815/02",
+                "end_date": "1815/02"
+            },
+            {
+                "start_date": "1818/03",
+                "end_date": "1818/03"
+            },
+            {
+                "start_date": "1822/07",
+                "end_date": "1822/07"
+            },
+            {
+                "start_date": "1822/12",
+                "end_date": "1822/12"
+            }
+        ]
+    },
+    "unused": []
+}

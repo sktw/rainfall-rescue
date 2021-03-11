@@ -1,0 +1,31 @@
+{
+    "name": "BUSBY-METHVEN",
+    "data": {
+        "BUSBY-METHVEN.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-022.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-067.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-043.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "BUSBY-METHVEN.csv": [
+            {
+                "start_date": "1839/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": []
+}

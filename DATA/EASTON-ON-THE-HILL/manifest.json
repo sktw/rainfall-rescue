@@ -1,0 +1,123 @@
+{
+    "name": "EASTON-ON-THE-HILL",
+    "data": {
+        "EASTON-ON-THE-HILL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+                "start_date": "1928/02",
+                "end_date": "1928/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+                "start_date": "1928/07",
+                "end_date": "1928/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-323.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-238.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-238.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "EASTON-ON-THE-HILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-076.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-040.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt1-page-056.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-241.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-104.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_08_pt1-page-120.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "EASTON-ON-THE-HILL-2.csv": [
+            {
+                "start_date": "1938/04",
+                "end_date": "1938/04"
+            }
+        ],
+        "EASTON-ON-THE-HILL.csv": [
+            {
+                "start_date": "1887/02",
+                "end_date": "1887/02"
+            },
+            {
+                "start_date": "1913/01",
+                "end_date": "1913/13"
+            },
+            {
+                "start_date": "1917/01",
+                "end_date": "1918/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+            "start_date": "1928/06",
+            "end_date": "1928/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-330.csv",
+            "start_date": "1928/11",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-238.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-238.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

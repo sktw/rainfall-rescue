@@ -1,0 +1,26 @@
+{
+    "name": "WEEDON-BECK-VICARAGE",
+    "data": {
+        "WEEDON-BECK-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt1-page-058.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-009.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEEDON-BECK-VICARAGE.csv": [
+            {
+                "start_date": "1867/13",
+                "end_date": "1867/13"
+            }
+        ]
+    },
+    "unused": []
+}

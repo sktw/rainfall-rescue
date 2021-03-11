@@ -1,0 +1,35 @@
+{
+    "name": "BUSHEY-HEATH",
+    "data": {
+        "BUSHEY-HEATH-ROOF.csv": [],
+        "BUSHEY-HEATH.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-096.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-020.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "unused": [],
+    "external": {
+        "BUSHEY-HEATH-ROOF.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-020.jpg",
+                "start_date": "1820/03",
+                "end_date": "1820/04",
+                "comment": "Data from notes at foot of sheet"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-020.jpg",
+                "start_date": "1820/11",
+                "end_date": "1820/11",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
+}

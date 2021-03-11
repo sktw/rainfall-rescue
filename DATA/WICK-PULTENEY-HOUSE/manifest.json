@@ -1,0 +1,26 @@
+{
+    "name": "WICK-PULTENEY-HOUSE",
+    "data": {
+        "WICK-PULTENEY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-110.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-094.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "WICK-PULTENEY-HOUSE.csv": [
+            {
+                "start_date": "1873/04",
+                "end_date": "1873/04"
+            }
+        ]
+    },
+    "unused": []
+}

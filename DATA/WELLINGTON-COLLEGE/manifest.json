@@ -1,0 +1,85 @@
+{
+    "name": "WELLINGTON-COLLEGE",
+    "data": {
+        "WELLINGTON-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt2-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt2-page-002.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-164.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-005.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-004.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-010.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-011.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_06_pt1-page-007.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_06_pt1-page-007.csv",
+                "start_date": "1950/11",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-154.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WELLINGTON-COLLEGE.csv": [
+            {
+                "start_date": "1950/11",
+                "end_date": "1950/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_06_pt1-page-007.csv",
+            "start_date": "1945/09",
+            "end_date": "1950/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_06_pt1-page-007.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_03_pt2-page-002.csv",
+            "start_date": "1881/01",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_03_pt2-page-003.csv"
+        }
+    ]
+}

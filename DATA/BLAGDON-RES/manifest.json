@@ -1,0 +1,28 @@
+{
+    "name": "BLAGDON-RES",
+    "data": {
+        "BLAGDON-RES.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-086.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-121.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-165.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-021.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": []
+}

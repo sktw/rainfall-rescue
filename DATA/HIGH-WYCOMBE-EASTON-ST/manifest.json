@@ -1,0 +1,116 @@
+{
+    "name": "HIGH-WYCOMBE-EASTON-ST",
+    "data": {
+        "HIGH-WYCOMBE-EASTON-ST-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-027.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-027.csv",
+                "start_date": "1906/06",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-087.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-079.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "HIGH-WYCOMBE-EASTON-ST-3.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-021.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-132.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-078.csv",
+                "start_date": "1840/01",
+                "end_date": "1844/13"
+            }
+        ],
+        "HIGH-WYCOMBE-EASTON-ST.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-073.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-123.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-027.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-013.csv",
+                "start_date": "1887/02",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-013.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-101.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-026.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "HIGH-WYCOMBE-EASTON-ST.csv": [
+            {
+                "start_date": "1859/13",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_03_pt4-page-013.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_03_pt4-page-013.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_07_pt1-page-027.csv",
+            "start_date": "1906/05",
+            "end_date": "1906/05"
+        }
+    ]
+}

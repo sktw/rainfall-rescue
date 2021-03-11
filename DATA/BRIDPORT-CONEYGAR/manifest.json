@@ -1,0 +1,73 @@
+{
+    "name": "BRIDPORT-CONEYGAR",
+    "data": {
+        "BRIDPORT-CONEYGAR-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-135.csv",
+                "start_date": "1892/07",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-135.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-089.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BRIDPORT-CONEYGAR-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-077.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-078.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-149.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-072.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_09_pt1-page-241.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BRIDPORT-CONEYGAR.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-135.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_09_pt1-page-135.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
+}

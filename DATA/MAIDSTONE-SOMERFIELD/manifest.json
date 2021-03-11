@@ -1,0 +1,23 @@
+{
+    "name": "MAIDSTONE-SOMERFIELD",
+    "data": {
+        "MAIDSTONE-SOMERFIELD.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-061.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-046.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-079.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ABBEY-ST-BATHANS",
+    "data": {
+        "ABBEY-ST-BATHANS.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-019.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": []
+}

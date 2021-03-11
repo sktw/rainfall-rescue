@@ -1,0 +1,72 @@
+{
+    "name": "RHAYADER-PEN-VALLEY",
+    "data": {
+        "RHAYADER-PEN-VALLEY.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-024.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-021.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-163.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-163.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-128.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-128.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-128.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-332.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "RHAYADER-PEN-VALLEY.csv": [
+            {
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-163.csv",
+            "start_date": "1931/07",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-128.csv",
+            "start_date": "1945/06",
+            "end_date": "1945/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-128.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "WOODFIELD-STEVENAGE",
+    "data": {
+        "WOODFIELD-STEVENAGE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-042.csv",
+                "start_date": "1871/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "WOODFIELD-STEVENAGE.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-141.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-020.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-042.csv",
+                "start_date": "1870/01",
+                "end_date": "1871/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-042.csv",
+                "start_date": "1873/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

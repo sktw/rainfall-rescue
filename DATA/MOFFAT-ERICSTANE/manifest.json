@@ -1,0 +1,74 @@
+{
+    "name": "MOFFAT-ERICSTANE",
+    "data": {
+        "MOFFAT-ERICSTANE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-048.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_27_pt1-page-060.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-126.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "MOFFAT-ERICSTANE.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt1-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1873/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt1-page-033.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-046.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-047.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/11"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-047.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-059.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "MOFFAT-ERICSTANE-2.csv": [
+            {
+                "start_date": "1904/05",
+                "end_date": "1904/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_11_pt1-page-033.csv",
+            "start_date": "1874/01",
+            "end_date": "1875/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_23_pt1-page-047.csv",
+            "start_date": "1897/12",
+            "end_date": "1897/13"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "name": "GELDESTON",
+    "data": {
+        "GELDESTON-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-003.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-113.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-101.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-012.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-012.csv",
+                "start_date": "1916/08",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-012.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-112.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-112.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "GELDESTON-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-004.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-008.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "GELDESTON-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-007.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-115.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "GELDESTON-5.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt5-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-114.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-013.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "GELDESTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-102.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-005.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-012.csv",
+            "start_date": "1916/05",
+            "end_date": "1916/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-012.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-112.csv",
+            "start_date": "1928/06",
+            "end_date": "1928/13"
+        }
+    ]
+}

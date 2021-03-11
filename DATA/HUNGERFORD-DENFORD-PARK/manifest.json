@@ -1,0 +1,59 @@
+{
+    "name": "HUNGERFORD-DENFORD-PARK",
+    "data": {
+        "HUNGERFORD-DENFORD-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+                "start_date": "1875/02",
+                "end_date": "1875/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+                "start_date": "1875/10",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt2-page-018.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-187.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+            "start_date": "1874/12",
+            "end_date": "1875/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+            "start_date": "1875/09",
+            "end_date": "1875/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_04_pt2-page-103.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_01_pt1-page-187.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "BARDNEY-RAILWAY-STATION",
+    "data": {
+        "BARDNEY-RAILWAY-STATION.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-162.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-107.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-054.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/13"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,57 @@
+{
+    "name": "WOLSINGHAM",
+    "data": {
+        "WOLSINGHAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_05_pt2-page-023.csv",
+                "start_date": "1860/01",
+                "end_date": "1868/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_05_pt2-page-023.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt1-page-031.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt3-page-025.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-035.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-188.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-118.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOLSINGHAM.csv": [
+            {
+                "start_date": "1872/01",
+                "end_date": "1872/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_05_pt2-page-023.csv",
+            "start_date": "1868/13",
+            "end_date": "1868/13"
+        }
+    ]
+}

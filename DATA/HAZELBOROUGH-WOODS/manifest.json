@@ -1,0 +1,109 @@
+{
+    "name": "HAZELBOROUGH-WOODS",
+    "data": {
+        "HAZELBOROUGH-WOODS.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-014.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-243.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1931/06",
+                "end_date": "1931/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1931/10",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1932/01",
+                "end_date": "1933/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1933/09",
+                "end_date": "1933/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1933/11",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-161.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-161.csv",
+                "start_date": "1942/09",
+                "end_date": "1942/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-161.csv",
+                "start_date": "1943/03",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-073.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1931/09",
+            "end_date": "1931/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1933/08",
+            "end_date": "1933/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1933/10",
+            "end_date": "1933/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-242.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-161.csv",
+            "start_date": "1942/08",
+            "end_date": "1942/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-161.csv",
+            "start_date": "1942/11",
+            "end_date": "1943/02"
+        }
+    ]
+}

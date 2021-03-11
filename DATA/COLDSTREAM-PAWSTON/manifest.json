@@ -1,0 +1,64 @@
+{
+    "name": "COLDSTREAM-PAWSTON",
+    "data": {
+        "COLDSTREAM-PAWSTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-073.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-158.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-001.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-243.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-244.csv",
+                "start_date": "1912/08",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-244.csv",
+                "start_date": "1913/01",
+                "end_date": "1918/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-243.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_21_pt1-page-243.csv",
+            "start_date": "1912/01",
+            "end_date": "1913/04"
+        },
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-244.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_21_pt1-page-244.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "CUPAR-KEMBACK",
+    "data": {
+        "CUPAR-KEMBACK.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-018.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_15_pt1-page-118.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "CUPAR-KEMBACK.csv": [
+            {
+                "start_date": "1881/01",
+                "end_date": "1881/01"
+            }
+        ]
+    },
+    "unused": []
+}

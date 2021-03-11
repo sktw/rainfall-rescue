@@ -1,0 +1,59 @@
+{
+    "name": "WHITEHAVEN-THE-FLOSH",
+    "data": {
+        "WHITEHAVEN-THE-FLOSH.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-139.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-268.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_06_pt1-page-021.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-024.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-097.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-256.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-121.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "WHITEHAVEN-THE-FLOSH.csv": [
+            {
+                "start_date": "1850/12",
+                "end_date": "1850/12"
+            },
+            {
+                "start_date": "1851/10",
+                "end_date": "1851/10"
+            },
+            {
+                "start_date": "1860/13",
+                "end_date": "1860/13"
+            }
+        ]
+    },
+    "unused": []
+}

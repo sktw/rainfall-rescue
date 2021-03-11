@@ -1,0 +1,79 @@
+{
+    "name": "STEYNING",
+    "data": {
+        "STEYNING.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+                "start_date": "1860/01",
+                "end_date": "1867/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+                "start_date": "1868/02",
+                "end_date": "1868/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+                "start_date": "1868/05",
+                "end_date": "1868/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+                "start_date": "1868/07",
+                "end_date": "1868/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-058.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-069.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-096.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+            "start_date": "1868/03",
+            "end_date": "1868/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+            "start_date": "1868/06",
+            "end_date": "1868/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",
+            "start_date": "1868/13",
+            "end_date": "1868/13"
+        }
+    ]
+}

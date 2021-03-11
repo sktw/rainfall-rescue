@@ -1,0 +1,152 @@
+{
+    "name": "AFON-MYNACH-HAFOD-HWYDOG",
+    "data": {
+        "AFON-MYNACH-HAFOD-HWYDOG.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_23_pt1-page-017.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1944/05",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1945/01",
+                "end_date": "1946/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1946/06",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+                "start_date": "1950/05",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1952/09",
+                "end_date": "1952/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1953/07",
+                "end_date": "1953/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1953/11",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1954/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "AFON-MYNACH-HAFOD-HWYDOG.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+            "start_date": "1944/04",
+            "end_date": "1944/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+            "start_date": "1946/05",
+            "end_date": "1946/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+            "start_date": "1946/13",
+            "end_date": "1946/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_27_pt1-page-088.csv",
+            "start_date": "1950/04",
+            "end_date": "1950/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1952/03",
+            "end_date": "1952/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1952/12",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1953/06",
+            "end_date": "1953/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1953/10",
+            "end_date": "1953/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-194.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

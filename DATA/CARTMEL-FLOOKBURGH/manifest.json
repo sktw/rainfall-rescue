@@ -1,0 +1,28 @@
+{
+    "name": "CARTMEL-FLOOKBURGH",
+    "data": {
+        "CARTMEL-FLOOKBURGH.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-176.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-105.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-076.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-204.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": []
+}

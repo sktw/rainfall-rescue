@@ -1,0 +1,13 @@
+{
+    "name": "IRVINE-AUCHENS-HOUSE",
+    "data": {
+        "IRVINE-AUCHENS-HOUSE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-053.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            }
+        ]
+    },
+    "unused": []
+}

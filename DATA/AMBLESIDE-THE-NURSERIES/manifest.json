@@ -1,0 +1,18 @@
+{
+    "name": "AMBLESIDE-THE-NURSERIES",
+    "data": {
+        "AMBLESIDE-THE-NURSERIES.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-095.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt4-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

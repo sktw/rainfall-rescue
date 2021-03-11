@@ -1,0 +1,76 @@
+{
+    "name": "EAGLESFIELD-SPRINGKELL",
+    "data": {
+        "EAGLESFIELD-SPRINGKELL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-079.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+                "start_date": "1936/04",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+                "start_date": "1937/01",
+                "end_date": "1937/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+                "start_date": "1937/11",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-089.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_25_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "EAGLESFIELD-SPRINGKELL.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-047.csv",
+                "start_date": "1880/01",
+                "end_date": "1887/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+            "start_date": "1936/02",
+            "end_date": "1936/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+            "start_date": "1937/09",
+            "end_date": "1937/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-289.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

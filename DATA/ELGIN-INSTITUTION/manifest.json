@@ -1,0 +1,25 @@
+{
+    "name": "ELGIN-INSTITUTION",
+    "data": {
+        "ELGIN-INSTITUTION-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-044.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-083.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "ELGIN-INSTITUTION.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-093.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": []
+}

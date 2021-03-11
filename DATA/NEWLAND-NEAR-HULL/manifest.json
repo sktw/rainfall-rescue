@@ -1,0 +1,18 @@
+{
+    "name": "NEWLAND-NEAR-HULL",
+    "data": {
+        "NEWLAND-NEAR-HULL.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-107.csv",
+                "start_date": "1845/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-211.csv",
+                "start_date": "1850/01",
+                "end_date": "1857/13"
+            }
+        ]
+    },
+    "unused": []
+}

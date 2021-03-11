@@ -1,0 +1,47 @@
+{
+    "name": "YORK-CATTON-RECTORY",
+    "data": {
+        "YORK-CATTON-RECTORY.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "MISFILED_TYRain_1880-1889_11_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-020.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            }
+        ]
+    },
+    "idr": {
+        "YORK-CATTON-RECTORY.csv": [
+            {
+                "start_date": "1891/01",
+                "end_date": "1891/10"
+            },
+            {
+                "start_date": "1891/13",
+                "end_date": "1891/13"
+            },
+            {
+                "start_date": "1893/01",
+                "end_date": "1893/13"
+            },
+            {
+                "start_date": "1895/01",
+                "end_date": "1896/13"
+            },
+            {
+                "start_date": "1898/01",
+                "end_date": "1898/13"
+            }
+        ]
+    },
+    "unused": []
+}

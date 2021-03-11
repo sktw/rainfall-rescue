@@ -1,0 +1,55 @@
+{
+    "name": "COLERAINE",
+    "data": {
+        "COLERAINE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-264.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_28_pt1-page-124.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_32_pt1-page-182.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "COLERAINE-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-027.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-263.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "COLERAINE.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-262.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "COLERAINE.csv": [
+            {
+                "start_date": "1886/01",
+                "end_date": "1886/01"
+            }
+        ]
+    },
+    "unused": []
+}

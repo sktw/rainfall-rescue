@@ -1,0 +1,79 @@
+{
+    "name": "TYNEMOUTH-WW-FONT-RES",
+    "data": {
+        "TYNEMOUTH-WW-FONT-RES.csv": [
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+                "start_date": "1902/02",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+                "start_date": "1903/01",
+                "end_date": "1907/01"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+                "start_date": "1907/04",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-219.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-183.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-211.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-132.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-252.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+            "start_date": "1902/01",
+            "end_date": "1902/01"
+        },
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+            "start_date": "1907/02",
+            "end_date": "1907/03"
+        },
+        {
+            "filename": "TYRain_1900-1909_23_pt1-page-021.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

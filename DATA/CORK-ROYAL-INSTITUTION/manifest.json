@@ -1,0 +1,63 @@
+{
+    "name": "CORK-ROYAL-INSTITUTION",
+    "data": {
+        "CORK-ROYAL-INSTITUTION.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-036.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-104.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-088.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-289.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-007.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-007.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "CORK-ROYAL-INSTITUTION.csv": [
+            {
+                "start_date": "1829/05",
+                "end_date": "1829/05"
+            },
+            {
+                "start_date": "1830/03",
+                "end_date": "1830/03"
+            },
+            {
+                "start_date": "1854/01",
+                "end_date": "1854/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1830-1839_D_pt1-page-105.csv"
+        }
+    ]
+}

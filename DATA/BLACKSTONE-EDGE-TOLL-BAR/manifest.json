@@ -1,0 +1,60 @@
+{
+    "name": "BLACKSTONE-EDGE-TOLL-BAR",
+    "data": {
+        "BLACKSTONE-EDGE-TOLL-BAR-2.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-046.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-081.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "BLACKSTONE-EDGE-TOLL-BAR.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt1-page-010.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-011.csv",
+                "start_date": "1840/01",
+                "end_date": "1843/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt1-page-082.csv",
+                "start_date": "1844/01",
+                "end_date": "1847/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-011.csv",
+                "start_date": "1848/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "BLACKSTONE-EDGE-TOLL-BAR.csv": [
+            {
+                "start_date": "1832/07",
+                "end_date": "1832/07"
+            },
+            {
+                "start_date": "1836/05",
+                "end_date": "1836/05"
+            },
+            {
+                "start_date": "1838/02",
+                "end_date": "1838/02"
+            },
+            {
+                "start_date": "1839/05",
+                "end_date": "1839/05"
+            }
+        ]
+    },
+    "unused": []
+}

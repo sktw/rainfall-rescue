@@ -1,0 +1,18 @@
+{
+    "name": "MANCHESTER-HOSPITAL",
+    "data": {
+        "MANCHESTER-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-125.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-065.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    },
+    "unused": []
+}

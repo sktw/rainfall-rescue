@@ -1,0 +1,56 @@
+{
+    "name": "DUNBLANE-KIPPENROSS",
+    "data": {
+        "DUNBLANE-KIPPENROSS.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-208.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt2-page-134.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-045.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-146.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-053.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-060.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-182.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUNBLANE-KIPPENROSS.csv": [
+            {
+                "start_date": "1869/13",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": []
+}

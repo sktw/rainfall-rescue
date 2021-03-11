@@ -1,0 +1,58 @@
+{
+    "name": "NORTH-SHIELDS-ROSELLA",
+    "data": {
+        "NORTH-SHIELDS-ROSELLA-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-118.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
+        "NORTH-SHIELDS-ROSELLA.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_F_pt1-page-241.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-051.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt2-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-024.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-092.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORTH-SHIELDS-ROSELLA-2.csv": [
+            {
+                "start_date": "1843/13",
+                "end_date": "1843/13"
+            }
+        ],
+        "NORTH-SHIELDS-ROSELLA.csv": [
+            {
+                "start_date": "1852/13",
+                "end_date": "1852/13"
+            },
+            {
+                "start_date": "1856/05",
+                "end_date": "1856/05"
+            }
+        ]
+    },
+    "unused": []
+}

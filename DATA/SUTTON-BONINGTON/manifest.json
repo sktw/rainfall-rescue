@@ -1,0 +1,76 @@
+{
+    "name": "SUTTON-BONINGTON",
+    "data": {
+        "SUTTON-BONINGTON.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-170.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+                "start_date": "1919/11",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-119.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-192.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_18_pt1-page-003.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-003.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SUTTON-BONINGTON.csv": [
+            {
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            },
+            {
+                "start_date": "1941/13",
+                "end_date": "1941/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+            "start_date": "1919/10",
+            "end_date": "1919/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_16_pt1-page-134.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

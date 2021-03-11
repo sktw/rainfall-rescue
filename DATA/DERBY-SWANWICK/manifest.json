@@ -1,0 +1,42 @@
+{
+    "name": "DERBY-SWANWICK",
+    "data": {
+        "DERBY-SWANWICK.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-026.csv",
+                "start_date": "1800/01",
+                "end_date": "1809/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-119.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt1-page-049.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-078.csv",
+                "start_date": "1830/01",
+                "end_date": "1836/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-079.csv",
+                "start_date": "1837/01",
+                "end_date": "1837/13"
+            },
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-078.csv",
+                "start_date": "1838/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-169.csv"
+        }
+    ]
+}

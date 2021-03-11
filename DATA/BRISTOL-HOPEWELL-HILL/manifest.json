@@ -1,0 +1,46 @@
+{
+    "name": "BRISTOL-HOPEWELL-HILL",
+    "data": {
+        "BRISTOL-HOPEWELL-HILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-228.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-272.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-216.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-136.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-233.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_13_pt1-page-071.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRISTOL-HOPEWELL-HILL.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    },
+    "unused": []
+}

@@ -1,0 +1,63 @@
+{
+    "name": "NORWICH-UPPER-SURREY-ST",
+    "data": {
+        "NORWICH-UPPER-SURREY-ST.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-146.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-109.csv",
+                "start_date": "1840/01",
+                "end_date": "1840/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-109.csv",
+                "start_date": "1841/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-179.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-110.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORWICH-UPPER-SURREY-ST.csv": [
+            {
+                "start_date": "1843/10",
+                "end_date": "1843/10"
+            },
+            {
+                "start_date": "1844/01",
+                "end_date": "1844/01"
+            },
+            {
+                "start_date": "1844/07",
+                "end_date": "1844/07"
+            },
+            {
+                "start_date": "1844/09",
+                "end_date": "1844/09"
+            },
+            {
+                "start_date": "1844/11",
+                "end_date": "1844/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1840-1849_D_pt2-page-109.csv",
+            "start_date": "1840/11",
+            "end_date": "1840/13"
+        }
+    ]
+}

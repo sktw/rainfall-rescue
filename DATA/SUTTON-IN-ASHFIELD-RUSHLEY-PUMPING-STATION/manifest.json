@@ -1,0 +1,102 @@
+{
+    "name": "SUTTON-IN-ASHFIELD-RUSHLEY-PUMPING-STATION",
+    "data": {
+        "SUTTON-IN-ASHFIELD-RUSHLEY-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-046.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-219.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-182.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+                "start_date": "1925/02",
+                "end_date": "1925/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+                "start_date": "1925/09",
+                "end_date": "1925/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-233.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-047.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-047.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-047.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-048.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SUTTON-IN-ASHFIELD-RUSHLEY-PUMPING-STATION.csv": [
+            {
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+            "start_date": "1925/01",
+            "end_date": "1925/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+            "start_date": "1925/08",
+            "end_date": "1925/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-164.csv",
+            "start_date": "1925/11",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-047.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-047.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

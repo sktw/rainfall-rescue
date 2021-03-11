@@ -1,0 +1,65 @@
+{
+    "name": "MELVICH",
+    "data": {
+        "MELVICH-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-060.csv",
+                "start_date": "1926/06",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-060.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-182.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MELVICH-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-216.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-158.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MELVICH-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-159.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MELVICH.csv": [
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-117.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-186.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-060.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_34_pt1-page-060.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

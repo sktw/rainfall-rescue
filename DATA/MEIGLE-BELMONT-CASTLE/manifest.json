@@ -1,0 +1,106 @@
+{
+    "name": "MEIGLE-BELMONT-CASTLE",
+    "data": {
+        "MEIGLE-BELMONT-CASTLE-2.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-023.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-071.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ],
+        "MEIGLE-BELMONT-CASTLE-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-151.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-087.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-088.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-175.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "MEIGLE-BELMONT-CASTLE.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt1-page-109.csv",
+                "start_date": "1780/01",
+                "end_date": "1789/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt1-page-107.csv",
+                "start_date": "1790/01",
+                "end_date": "1798/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+                "start_date": "1799/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "idr": {
+        "MEIGLE-BELMONT-CASTLE-2.csv": [
+            {
+                "start_date": "1830/07",
+                "end_date": "1830/07"
+            }
+        ],
+        "MEIGLE-BELMONT-CASTLE.csv": [
+            {
+                "start_date": "1784/13",
+                "end_date": "1784/13"
+            },
+            {
+                "start_date": "1791/12",
+                "end_date": "1791/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1790/13",
+            "end_date": "1790/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1791/13",
+            "end_date": "1791/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1792/13",
+            "end_date": "1792/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1793/13",
+            "end_date": "1793/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1794/13",
+            "end_date": "1794/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-108.csv",
+            "start_date": "1795/13",
+            "end_date": "1795/13"
+        }
+    ]
+}

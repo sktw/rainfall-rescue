@@ -1,0 +1,43 @@
+{
+    "name": "WINCHESTER-HARESTOCK",
+    "data": {
+        "WINCHESTER-HARESTOCK-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-090.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "WINCHESTER-HARESTOCK.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_03_pt1-page-079.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-118.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-005.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "WINCHESTER-HARESTOCK.csv": [
+            {
+                "start_date": "1882/05",
+                "end_date": "1882/05"
+            }
+        ]
+    },
+    "unused": []
+}

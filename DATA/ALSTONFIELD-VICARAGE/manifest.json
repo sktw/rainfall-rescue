@@ -1,0 +1,124 @@
+{
+    "name": "ALSTONFIELD-VICARAGE",
+    "data": {
+        "ALSTONFIELD-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-125.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/05"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-125.csv",
+                "start_date": "1877/08",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-125.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/08"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+                "start_date": "1884/10",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+                "start_date": "1885/01",
+                "end_date": "1886/07"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+                "start_date": "1886/09",
+                "end_date": "1886/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+                "start_date": "1887/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/08"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+                "start_date": "1894/10",
+                "end_date": "1894/10"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+                "start_date": "1894/12",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-118.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_06_pt1-page-125.csv",
+            "start_date": "1877/06",
+            "end_date": "1877/07"
+        },
+        {
+            "filename": "TYRain_1870-1879_06_pt1-page-125.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+            "start_date": "1884/09",
+            "end_date": "1884/09"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+            "start_date": "1886/08",
+            "end_date": "1886/08"
+        },
+        {
+            "filename": "TYRain_1880-1889_07_pt2-page-053.csv",
+            "start_date": "1886/13",
+            "end_date": "1886/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+            "start_date": "1894/09",
+            "end_date": "1894/09"
+        },
+        {
+            "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+            "start_date": "1894/11",
+            "end_date": "1894/11"
+        },
+        {
+            "filename": "TYRain_1890-1899_12_pt1-page-156.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

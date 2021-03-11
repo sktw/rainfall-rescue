@@ -1,0 +1,63 @@
+{
+    "name": "CROWBOROUGH-UCKFIELD",
+    "data": {
+        "CROWBOROUGH-UCKFIELD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-181.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-222.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "CROWBOROUGH-UCKFIELD.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt1-page-102.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_02_pt2-page-124.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-185.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-223.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-178.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-248.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-294.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "CROWBOROUGH-UCKFIELD.csv": [
+            {
+                "start_date": "1882/06",
+                "end_date": "1882/06"
+            }
+        ]
+    },
+    "unused": []
+}

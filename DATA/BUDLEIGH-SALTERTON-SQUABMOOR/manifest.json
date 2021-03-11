@@ -1,0 +1,112 @@
+{
+    "name": "BUDLEIGH-SALTERTON-SQUABMOOR",
+    "data": {
+        "BUDLEIGH-SALTERTON-SQUABMOOR.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-112.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-052.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-114.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-156.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1942/01",
+                "end_date": "1944/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1944/09",
+                "end_date": "1944/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1944/12",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1946/01",
+                "end_date": "1948/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-004.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BUDLEIGH-SALTERTON-SQUABMOOR.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1944/05",
+            "end_date": "1944/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1944/10",
+            "end_date": "1944/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1944/13",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-214.csv",
+            "start_date": "1948/12",
+            "end_date": "1948/13"
+        }
+    ]
+}

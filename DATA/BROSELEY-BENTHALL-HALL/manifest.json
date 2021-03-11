@@ -1,0 +1,23 @@
+{
+    "name": "BROSELEY-BENTHALL-HALL",
+    "data": {
+        "BROSELEY-BENTHALL-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-059.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-025.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-175.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "unused": []
+}

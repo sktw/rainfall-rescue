@@ -1,0 +1,24 @@
+{
+    "name": "DALWHINNIE-STATION",
+    "data": {
+        "DALWHINNIE-STATION.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-001.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-001.csv",
+                "start_date": "1877/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_12_pt3-page-001.csv",
+            "start_date": "1876/01",
+            "end_date": "1876/13"
+        }
+    ]
+}

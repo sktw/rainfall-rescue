@@ -1,0 +1,40 @@
+{
+    "name": "DOLGELLY-SCHOOLS",
+    "data": {
+        "DOLGELLY-SCHOOLS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-083.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-173.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-187.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "DOLGELLY-SCHOOLS.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-099.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt2-page-083.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-281.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": []
+}

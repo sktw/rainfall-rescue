@@ -1,0 +1,89 @@
+{
+    "name": "WELWYN-CODICOTE-LODGE",
+    "data": {
+        "WELWYN-CODICOTE-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-016.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-014.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-022.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-186.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1951/03",
+                "end_date": "1951/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1951/12",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1952/01",
+                "end_date": "1954/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1954/09",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1951/11",
+            "end_date": "1951/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1954/02",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1954/08",
+            "end_date": "1954/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-190.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

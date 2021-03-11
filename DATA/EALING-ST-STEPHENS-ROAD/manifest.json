@@ -1,0 +1,58 @@
+{
+    "name": "EALING-ST-STEPHENS-ROAD",
+    "data": {
+        "EALING-ST-STEPHENS-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-109.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "EALING-ST-STEPHENS-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-107.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-107.csv",
+                "start_date": "1903/10",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-107.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-137.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-149.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "EALING-ST-STEPHENS-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt2-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_06_pt1-page-107.csv",
+            "start_date": "1903/09",
+            "end_date": "1903/09"
+        },
+        {
+            "filename": "TYRain_1900-1909_06_pt1-page-107.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}

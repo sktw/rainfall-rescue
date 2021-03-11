@@ -1,0 +1,40 @@
+{
+    "name": "YORK-DUNNINGTON-HALL",
+    "data": {
+        "YORK-DUNNINGTON-HALL-SHORTUNCLEARLOCATION.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-017.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "YORK-DUNNINGTON-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-022.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-179.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-100.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-240.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-095.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/13"
+            }
+        ]
+    },
+    "unused": []
+}

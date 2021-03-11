@@ -1,0 +1,39 @@
+{
+    "name": "DOUGLAS-DERBY-SQUARE",
+    "data": {
+        "CORRECTED_TYRain_1890-1899_22_pt1-page-006.csv": [
+            {
+                "filename": "MISFILED_TYRain_1890-1899_22_pt1-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "CORRECTED_TYRain_1890-1899_22_pt1-page-006.csv": [
+            {
+                "start_date": "1881/01",
+                "end_date": "1881/13"
+            },
+            {
+                "start_date": "1884/01",
+                "end_date": "1884/13"
+            },
+            {
+                "start_date": "1888/01",
+                "end_date": "1888/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-142.csv"
+        },
+        {
+            "filename": "TYRain_1870-1879_10_pt3-page-006.csv"
+        },
+        {
+            "filename": "TYRain_1890-1899_22_pt1-page-007.csv"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "CHAGFORD-WHITE-RIDGE",
+    "data": {
+        "CHAGFORD-WHITE-RIDGE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-067.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-142.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-159.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CHAGFORD-WHITE-RIDGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1926/11",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1928/03",
+                "end_date": "1928/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1928/05",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1929/02",
+                "end_date": "1929/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+                "start_date": "1929/11",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+            "start_date": "1926/09",
+            "end_date": "1926/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+            "start_date": "1928/04",
+            "end_date": "1928/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+            "start_date": "1928/13",
+            "end_date": "1929/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_11_pt1-page-028.csv",
+            "start_date": "1929/03",
+            "end_date": "1929/10"
+        }
+    ]
+}

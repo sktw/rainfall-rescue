@@ -1,0 +1,53 @@
+{
+    "name": "LITTLE-LANGDALE-FELL-FOOT",
+    "data": {
+        "LITTLE-LANGDALE-FELL-FOOT.csv": [
+            {
+                "filename": "TYRain_1890-1899_21_pt1-page-030.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-043.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-228.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-058.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "LITTLE-LANGDALE-FELL-FOOT.csv": [
+            {
+                "start_date": "1917/12",
+                "end_date": "1917/12"
+            },
+            {
+                "start_date": "1919/10",
+                "end_date": "1919/10"
+            },
+            {
+                "start_date": "1939/03",
+                "end_date": "1939/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_24_pt1-page-049.csv"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "name": "BOLTBY-HIGH-PARADISE",
+    "data": {
+        "BOLTBY-HIGH-PARADISE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_20_pt1-page-300.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-184.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-184.csv",
+                "start_date": "1924/04",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-184.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1931/05",
+                "end_date": "1931/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1931/08",
+                "end_date": "1931/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1931/12",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1932/01",
+                "end_date": "1934/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1934/04",
+                "end_date": "1934/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1934/08",
+                "end_date": "1934/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1934/12",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1935/03",
+                "end_date": "1935/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1935/08",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1936/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1937/04",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1938/01",
+                "end_date": "1938/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1938/11",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1939/02",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-172.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            }
+        ],
+        "BOLTBY-HIGH-PARADISE.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-029.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-175.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-108.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/13"
+            }
+        ]
+    },
+    "idr": {
+        "BOLTBY-HIGH-PARADISE-2.csv": [
+            {
+                "start_date": "1923/11",
+                "end_date": "1923/12"
+            },
+            {
+                "start_date": "1932/07",
+                "end_date": "1932/07"
+            },
+            {
+                "start_date": "1933/03",
+                "end_date": "1933/03"
+            },
+            {
+                "start_date": "1936/02",
+                "end_date": "1936/03"
+            },
+            {
+                "start_date": "1936/06",
+                "end_date": "1936/07"
+            },
+            {
+                "start_date": "1940/01",
+                "end_date": "1940/02"
+            },
+            {
+                "start_date": "1940/10",
+                "end_date": "1940/11"
+            },
+            {
+                "start_date": "1941/01",
+                "end_date": "1941/03"
+            },
+            {
+                "start_date": "1942/01",
+                "end_date": "1942/03"
+            },
+            {
+                "start_date": "1943/04",
+                "end_date": "1943/05"
+            },
+            {
+                "start_date": "1943/08",
+                "end_date": "1943/09"
+            },
+            {
+                "start_date": "1943/11",
+                "end_date": "1943/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-184.csv",
+            "start_date": "1924/02",
+            "end_date": "1924/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-184.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1931/02",
+            "end_date": "1931/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1931/06",
+            "end_date": "1931/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1931/11",
+            "end_date": "1931/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1934/02",
+            "end_date": "1934/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1934/06",
+            "end_date": "1934/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1934/10",
+            "end_date": "1934/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1934/13",
+            "end_date": "1935/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1935/07",
+            "end_date": "1935/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1938/09",
+            "end_date": "1938/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1938/13",
+            "end_date": "1939/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-318.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

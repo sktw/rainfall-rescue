@@ -1,0 +1,39 @@
+{
+    "name": "ARRAN-BRODICK",
+    "data": {
+        "ARRAN-BRODICK-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "ARRAN-BRODICK-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-150.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-283.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ARRAN-BRODICK-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-151.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "ARRAN-BRODICK.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_11_pt3-page-053.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": []
+}

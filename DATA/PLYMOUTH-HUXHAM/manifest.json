@@ -1,0 +1,70 @@
+{
+    "name": "PLYMOUTH-HUXHAM",
+    "data": {
+        "PLYMOUTH-HUXHAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+                "start_date": "1720/01",
+                "end_date": "1726/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-117.csv",
+                "start_date": "1727/01",
+                "end_date": "1729/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-125.csv",
+                "start_date": "1730/01",
+                "end_date": "1739/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-119.csv",
+                "start_date": "1740/01",
+                "end_date": "1749/13"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-120.csv",
+                "start_date": "1750/01",
+                "end_date": "1759/13"
+            }
+        ]
+    },
+    "idr": {
+        "PLYMOUTH-HUXHAM.csv": [
+            {
+                "start_date": "1727/03",
+                "end_date": "1727/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+            "start_date": "1728/01",
+            "end_date": "1728/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+            "start_date": "1728/09",
+            "end_date": "1728/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+            "start_date": "1728/13",
+            "end_date": "1729/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+            "start_date": "1729/09",
+            "end_date": "1729/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-116.csv",
+            "start_date": "1729/13",
+            "end_date": "1729/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-118.csv"
+        }
+    ]
+}

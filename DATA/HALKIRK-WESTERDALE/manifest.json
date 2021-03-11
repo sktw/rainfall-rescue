@@ -1,0 +1,74 @@
+{
+    "name": "HALKIRK-WESTERDALE",
+    "data": {
+        "HALKIRK-WESTERDALE.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+                "start_date": "1941/01",
+                "end_date": "1948/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+                "start_date": "1948/12",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+                "start_date": "1950/09",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-187.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-187.csv",
+                "start_date": "1956/09",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-187.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+            "start_date": "1948/10",
+            "end_date": "1948/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+            "start_date": "1950/07",
+            "end_date": "1950/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-233.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_29_pt1-page-187.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_29_pt1-page-187.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

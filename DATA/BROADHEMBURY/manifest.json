@@ -1,0 +1,61 @@
+{
+    "name": "BROADHEMBURY",
+    "data": {
+        "BROADHEMBURY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-202.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-251.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "BROADHEMBURY.csv": [
+            {
+                "filename": "TYRain_1820-1829_C_pt2-page-153.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-138.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-242.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-141.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-121.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROADHEMBURY.csv": [
+            {
+                "start_date": "1841/12",
+                "end_date": "1841/12"
+            },
+            {
+                "start_date": "1842/01",
+                "end_date": "1842/01"
+            },
+            {
+                "start_date": "1849/12",
+                "end_date": "1849/12"
+            }
+        ]
+    },
+    "unused": []
+}

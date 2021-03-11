@@ -1,0 +1,40 @@
+{
+    "name": "BRAMPTON-DENTON-HOUSE",
+    "data": {
+        "BRAMPTON-DENTON-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-195.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-187.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-095.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BRAMPTON-DENTON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-035.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-194.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-184.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": []
+}

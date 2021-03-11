@@ -1,0 +1,47 @@
+{
+    "name": "ALRESFORD-SWARRATON-RECTORY",
+    "data": {
+        "ALRESFORD-SWARRATON-RECTORY.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-062.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-082.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-129.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-207.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALRESFORD-SWARRATON-RECTORY.csv": [
+            {
+                "start_date": "1877/05",
+                "end_date": "1877/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_04_pt2-page-062.csv",
+            "start_date": "1870/01",
+            "end_date": "1875/13"
+        }
+    ]
+}
