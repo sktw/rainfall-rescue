@@ -1,0 +1,17 @@
+{
+    "name": "MERTHYR-TYDVIL-THE-HOLLIES",
+    "data": {
+        "MERTHYR-TYDVIL-THE-HOLLIES.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-021.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

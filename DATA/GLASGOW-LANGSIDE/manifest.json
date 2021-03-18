@@ -1,0 +1,20 @@
+{
+    "name": "GLASGOW-LANGSIDE",
+    "data": {
+        "GLASGOW-LANGSIDE.csv": [
+            {
+                "filename": "ERROR_TYRain_1830-1839_D_pt1-page-036.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLASGOW-LANGSIDE.csv": [
+            {
+                "start_date": "1833/06",
+                "end_date": "1833/06"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "LINCOLN-SWALLOWBECK",
+    "data": {
+        "LINCOLN-SWALLOWBECK-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-220.csv",
+                "start_date": "1955/08",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-220.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LINCOLN-SWALLOWBECK.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-056.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-136.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-220.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-220.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-220.csv",
+            "start_date": "1955/06",
+            "end_date": "1955/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-220.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

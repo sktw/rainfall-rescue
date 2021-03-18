@@ -1,0 +1,69 @@
+{
+    "name": "CWMAMAN-COLLIERY",
+    "data": {
+        "CWMAMAN-COLLIERY.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-067.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-092.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-177.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-076.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-076.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+                "start_date": "1933/04",
+                "end_date": "1933/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+                "start_date": "1933/06",
+                "end_date": "1933/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+            "start_date": "1933/02",
+            "end_date": "1933/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+            "start_date": "1933/05",
+            "end_date": "1933/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-240.csv",
+            "start_date": "1933/11",
+            "end_date": "1933/13"
+        }
+    ]
+}
