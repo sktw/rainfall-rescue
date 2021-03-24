@@ -46,5 +46,13 @@
                 "end_date": "1940/08"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_04_pt2-page-011.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_03_pt1-page-014.csv"
+        }
+    ]
 }

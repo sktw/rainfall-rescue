@@ -17,45 +17,10 @@
                 "start_date": "1926/01",
                 "end_date": "1927/13"
             }
-        ],
-        "CHESTERFIELD-GAS-WORKS.csv": [
-            {
-                "filename": "TYRain_1910-1919_17_pt1-page-186.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_19_pt1-page-088.csv",
-                "start_date": "1921/01",
-                "end_date": "1921/10"
-            },
-            {
-                "filename": "TYRain_1920-1930_19_pt1-page-088.csv",
-                "start_date": "1926/01",
-                "end_date": "1927/13"
-            }
         ]
     },
     "idr": {
         "CHESTER-SEWAGE-WORKS.csv": [
-            {
-                "start_date": "1910/01",
-                "end_date": "1911/02"
-            },
-            {
-                "start_date": "1911/04",
-                "end_date": "1918/13"
-            },
-            {
-                "start_date": "1921/01",
-                "end_date": "1921/01"
-            },
-            {
-                "start_date": "1921/03",
-                "end_date": "1921/10"
-            }
-        ],
-        "CHESTERFIELD-GAS-WORKS.csv": [
             {
                 "start_date": "1910/01",
                 "end_date": "1911/02"
