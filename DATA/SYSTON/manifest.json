@@ -18,6 +18,20 @@
                 "end_date": "1919/13"
             }
         ],
+        "SYSTON-3.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-049.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ],
+        "SYSTON-4.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-050.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ],
         "SYSTON.csv": [
             {
                 "filename": "TYRain_1870-1879_06_pt2-page-107.csv",
@@ -30,13 +44,5 @@
                 "end_date": "1889/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1850-1859_F_pt1-page-049.csv"
-        },
-        {
-            "filename": "TYRain_1850-1859_F_pt1-page-050.csv"
-        }
-    ]
+    }
 }

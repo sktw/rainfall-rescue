@@ -1,0 +1,22 @@
+{
+    "name": "CRATHES-CROSS-ROAD-DURRIS",
+    "data": {
+        "CRATHES-CROSS-ROAD-DURRIS.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-153.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-017.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-019.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

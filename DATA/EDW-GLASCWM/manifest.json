@@ -1,0 +1,64 @@
+{
+    "name": "EDW-GLASCWM",
+    "data": {
+        "EDW-GLASCWM.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-003.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-003.csv",
+                "start_date": "1895/02",
+                "end_date": "1895/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-003.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-154.csv",
+                "start_date": "1907/06",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-154.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-004.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-003.csv",
+            "start_date": "1895/01",
+            "end_date": "1895/01"
+        },
+        {
+            "filename": "TYRain_1890-1899_20_pt1-page-003.csv",
+            "start_date": "1895/13",
+            "end_date": "1895/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-154.csv",
+            "start_date": "1907/05",
+            "end_date": "1907/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-154.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

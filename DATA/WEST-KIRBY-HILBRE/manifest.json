@@ -27,11 +27,6 @@
             {
                 "filename": "ERROR_TYRain_1910-1919_17_pt1-page-195.csv",
                 "start_date": "1913/01",
-                "end_date": "1913/12"
-            },
-            {
-                "filename": "ERROR_TYRain_1910-1919_17_pt1-page-195.csv",
-                "start_date": "1914/01",
                 "end_date": "1919/13"
             },
             {
@@ -64,11 +59,6 @@
             "filename": "ERROR_TYRain_1910-1919_17_pt1-page-195.csv",
             "start_date": "1912/13",
             "end_date": "1912/13"
-        },
-        {
-            "filename": "ERROR_TYRain_1910-1919_17_pt1-page-195.csv",
-            "start_date": "1913/13",
-            "end_date": "1913/13"
         }
     ]
 }

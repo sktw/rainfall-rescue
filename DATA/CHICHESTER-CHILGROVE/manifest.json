@@ -1,22 +1,14 @@
 {
     "name": "CHICHESTER-CHILGROVE",
     "data": {
+        "CHICHESTER-CHILGROVE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-029.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
         "CHICHESTER-CHILGROVE.csv": [
-            {
-                "filename": "ERROR_TYRain_1820-1829_C_pt2-page-172.csv",
-                "start_date": "1834/01",
-                "end_date": "1839/13"
-            },
-            {
-                "filename": "TYRain_1840-1849_D_pt2-page-043.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-075.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            },
             {
                 "filename": "ERROR_TYRain_1860-1869_01_pt2-page-093.csv",
                 "start_date": "1860/01",
@@ -72,14 +64,6 @@
     "idr": {
         "CHICHESTER-CHILGROVE.csv": [
             {
-                "start_date": "1834/08",
-                "end_date": "1834/09"
-            },
-            {
-                "start_date": "1851/09",
-                "end_date": "1851/09"
-            },
-            {
                 "start_date": "1860/03",
                 "end_date": "1860/03"
             },
@@ -91,7 +75,13 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1941-1950_04_pt1-page-029.csv"
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-172.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1850-1859_G_pt1-page-075.csv"
+        },
+        {
+            "filename": "TYRain_1840-1849_D_pt2-page-043.csv"
         }
     ]
 }

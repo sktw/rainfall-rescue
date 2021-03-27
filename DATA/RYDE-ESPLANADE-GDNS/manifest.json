@@ -1,20 +1,49 @@
 {
     "name": "RYDE-ESPLANADE-GDNS",
     "data": {
-        "RYDE-ESPLANADE-GDNS.csv": [
+        "RYDE-ESPLANADE-GDNS-2.csv": [
             {
                 "filename": "TYRain_1890-1899_05_pt1-page-020.csv",
-                "start_date": "1890/01",
+                "start_date": "1891/01",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-020.csv",
+                "start_date": "1898/01",
                 "end_date": "1899/13"
             },
             {
                 "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
                 "start_date": "1900/01",
-                "end_date": "1909/13"
+                "end_date": "1904/02"
+            }
+        ],
+        "RYDE-ESPLANADE-GDNS-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+                "start_date": "1904/04",
+                "end_date": "1904/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/03"
+            }
+        ],
+        "RYDE-ESPLANADE-GDNS-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+                "start_date": "1909/05",
+                "end_date": "1909/12"
             },
             {
                 "filename": "TYRain_1910-1919_05_pt1-page-023.csv",
                 "start_date": "1910/01",
+                "end_date": "1916/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-023.csv",
+                "start_date": "1918/01",
                 "end_date": "1919/13"
             },
             {
@@ -37,10 +66,27 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "RYDE-ESPLANADE-GDNS.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-011.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-014.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-020.csv",
+                "start_date": "1890/01",
+                "end_date": "1898/13"
+            }
         ]
     },
     "idr": {
-        "RYDE-ESPLANADE-GDNS.csv": [
+        "RYDE-ESPLANADE-GDNS-4.csv": [
             {
                 "start_date": "1940/08",
                 "end_date": "1940/08"
@@ -49,10 +95,29 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1870-1879_04_pt2-page-011.csv"
+            "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+            "start_date": "1904/03",
+            "end_date": "1904/03"
         },
         {
-            "filename": "TYRain_1880-1889_03_pt1-page-014.csv"
+            "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+            "start_date": "1909/04",
+            "end_date": "1909/04"
+        },
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-155.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-023.csv",
+            "start_date": "1917/01",
+            "end_date": "1917/13"
         }
     ]
 }

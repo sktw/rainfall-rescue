@@ -4,7 +4,7 @@
         "RHYL-SEWAGE-WORKS-2.csv": [
             {
                 "filename": "TYRain_1880-1889_13_pt1-page-242.csv",
-                "start_date": "1880/01",
+                "start_date": "1884/06",
                 "end_date": "1889/13"
             },
             {
@@ -64,6 +64,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-242.csv",
+            "start_date": "1884/05",
+            "end_date": "1884/05"
+        },
         {
             "filename": "TYRain_1900-1909_26_pt1-page-018.csv",
             "start_date": "1900/01",

@@ -4,12 +4,32 @@
         "GREAT-BARRINGTON.csv": [
             {
                 "filename": "TYRain_1870-1879_05_pt4-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-066.csv",
+                "start_date": "1877/01",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt4-page-066.csv",
                 "start_date": "1878/01",
                 "end_date": "1879/13"
             },
             {
                 "filename": "TYRain_1880-1889_06_pt3-page-081.csv",
                 "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-081.csv",
+                "start_date": "1882/13",
+                "end_date": "1882/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt3-page-081.csv",
+                "start_date": "1884/01",
                 "end_date": "1889/13"
             },
             {
@@ -52,10 +72,6 @@
     "idr": {
         "GREAT-BARRINGTON.csv": [
             {
-                "start_date": "1882/13",
-                "end_date": "1882/13"
-            },
-            {
                 "start_date": "1939/02",
                 "end_date": "1939/02"
             }
@@ -71,6 +87,16 @@
             "filename": "TYRain_1870-1879_05_pt4-page-066.csv",
             "start_date": "1877/13",
             "end_date": "1877/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt3-page-081.csv",
+            "start_date": "1881/01",
+            "end_date": "1882/12"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt3-page-081.csv",
+            "start_date": "1883/01",
+            "end_date": "1883/13"
         }
     ]
 }

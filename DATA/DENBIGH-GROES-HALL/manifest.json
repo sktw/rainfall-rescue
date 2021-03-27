@@ -1,0 +1,99 @@
+{
+    "name": "DENBIGH-GROES-HALL",
+    "data": {
+        "DENBIGH-GROES-HALL.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1935/13",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1940/05",
+                "end_date": "1940/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+                "start_date": "1940/10",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-050.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-050.csv",
+                "start_date": "1947/09",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-050.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-157.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1935/11",
+            "end_date": "1935/12"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1940/04",
+            "end_date": "1940/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1940/07",
+            "end_date": "1940/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1940/09",
+            "end_date": "1940/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-298.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-050.csv",
+            "start_date": "1947/08",
+            "end_date": "1947/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_27_pt1-page-050.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

@@ -25,6 +25,20 @@
         ],
         "ST-MARYS-COASTGUARD-STATION-3.csv": [
             {
+                "filename": "TYRain_1890-1899_09_pt1-page-234.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ST-MARYS-COASTGUARD-STATION-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-235.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ST-MARYS-COASTGUARD-STATION-5.csv": [
+            {
                 "filename": "TYRain_1900-1909_13_pt1-page-005.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
@@ -32,13 +46,18 @@
             {
                 "filename": "TYRain_1910-1919_12_pt1-page-289.csv",
                 "start_date": "1910/01",
-                "end_date": "1910/13"
+                "end_date": "1919/13"
             }
         ],
         "ST-MARYS-COASTGUARD-STATION.csv": [
             {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
                 "filename": "TYRain_1850-1859_G_pt1-page-272.csv",
-                "start_date": "1855/01",
+                "start_date": "1850/01",
                 "end_date": "1859/13"
             },
             {
@@ -122,6 +141,14 @@
     "idr": {
         "ST-MARYS-COASTGUARD-STATION.csv": [
             {
+                "start_date": "1843/02",
+                "end_date": "1843/02"
+            },
+            {
+                "start_date": "1843/08",
+                "end_date": "1843/08"
+            },
+            {
                 "start_date": "1860/04",
                 "end_date": "1860/04"
             },
@@ -146,16 +173,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
-            "start_date": "1841/09",
-            "end_date": "1841/12"
-        },
-        {
-            "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
-            "start_date": "1842/01",
-            "end_date": "1842/08"
-        },
         {
             "filename": "TYRain_1870-1879_05_pt1-page-064.csv",
             "start_date": "1875/13",

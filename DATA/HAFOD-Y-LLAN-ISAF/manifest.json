@@ -1,0 +1,204 @@
+{
+    "name": "HAFOD-Y-LLAN-ISAF",
+    "data": {
+        "HAFOD-Y-LLAN-ISAF-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-128.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_27_pt1-page-123.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-278.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-030.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HAFOD-Y-LLAN-ISAF-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-129.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-129.csv",
+                "start_date": "1918/06",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-129.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-279.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-031.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HAFOD-Y-LLAN-ISAF-4.csv": [
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-032.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-134.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HAFOD-Y-LLAN-ISAF.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/02"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-042.csv",
+                "start_date": "1906/05",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-042.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1911/04",
+                "end_date": "1911/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1911/10",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1912/01",
+                "end_date": "1913/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1913/04",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1914/01",
+                "end_date": "1914/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1914/06",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-122.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAFOD-Y-LLAN-ISAF-2.csv": [
+            {
+                "start_date": "1924/12",
+                "end_date": "1924/12"
+            }
+        ],
+        "HAFOD-Y-LLAN-ISAF.csv": [
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1911/03",
+            "end_date": "1911/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1911/09",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1913/03",
+            "end_date": "1913/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1914/05",
+            "end_date": "1914/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-042.csv",
+            "start_date": "1906/03",
+            "end_date": "1906/04"
+        },
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-042.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-129.csv",
+            "start_date": "1918/05",
+            "end_date": "1918/05"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-129.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

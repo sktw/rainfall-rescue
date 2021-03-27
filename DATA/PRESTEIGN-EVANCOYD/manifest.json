@@ -1,0 +1,17 @@
+{
+    "name": "PRESTEIGN-EVANCOYD",
+    "data": {
+        "PRESTEIGN-EVANCOYD.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-115.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-320.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -33,5 +33,13 @@
                 "end_date": "1960/13"
             }
         ]
+    },
+    "idr": {
+        "HAILSHAM-MAGHAM-DOWN.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
     }
 }

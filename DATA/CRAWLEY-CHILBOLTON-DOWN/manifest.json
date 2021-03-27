@@ -23,5 +23,13 @@
                 "end_date": "1960/13"
             }
         ]
+    },
+    "idr": {
+        "CRAWLEY-CHILBOLTON-DOWN.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
     }
 }

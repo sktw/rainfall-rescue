@@ -82,6 +82,11 @@
                 "filename": "TYRain_1870-1879_13_pt2-page-085.csv",
                 "start_date": "1870/01",
                 "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-207.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
             }
         ],
         "ARMAGH-OBSERVATORY.csv": [
@@ -147,9 +152,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "TYRain_1880-1889_17_pt1-page-207.csv"
-        },
         {
             "filename": "TYRain_1910-1919_30_pt1-page-110.csv",
             "start_date": "1916/01",

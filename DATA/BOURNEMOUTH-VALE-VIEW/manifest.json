@@ -5,6 +5,11 @@
             {
                 "filename": "TYRain_1951-1960_03_pt1-page-247.csv",
                 "start_date": "1954/09",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-247.csv",
+                "start_date": "1955/01",
                 "end_date": "1960/13"
             }
         ],
@@ -66,6 +71,11 @@
             "filename": "TYRain_1951-1960_03_pt1-page-247.csv",
             "start_date": "1953/12",
             "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_03_pt1-page-247.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
         }
     ]
 }

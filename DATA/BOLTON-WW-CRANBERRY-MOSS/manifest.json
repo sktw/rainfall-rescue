@@ -1,0 +1,75 @@
+{
+    "name": "BOLTON-WW-CRANBERRY-MOSS",
+    "data": {
+        "BOLTON-WW-CRANBERRY-MOSS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-013.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-113.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-189.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-227.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BOLTON-WW-CRANBERRY-MOSS-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-114.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-114.csv",
+                "start_date": "1940/11",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-190.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-228.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BOLTON-WW-CRANBERRY-MOSS.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_20_pt1-page-012.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BOLTON-WW-CRANBERRY-MOSS.csv": [
+            {
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-114.csv",
+            "start_date": "1940/10",
+            "end_date": "1940/10"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "BODNANT",
+    "data": {
+        "BODNANT-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-069.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-155.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BODNANT-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-069.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-170.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BODNANT.csv": [
+            {
+                "filename": "MISFILED_TYRain_1890-1899_20_pt1-page-148.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-135.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "BODNANT-2.csv": [
+            {
+                "start_date": "1912/01",
+                "end_date": "1912/01"
+            }
+        ],
+        "BODNANT.csv": [
+            {
+                "start_date": "1882/06",
+                "end_date": "1882/06"
+            },
+            {
+                "start_date": "1884/01",
+                "end_date": "1886/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-069.csv",
+            "start_date": "1900/01",
+            "end_date": "1900/13"
+        }
+    ]
+}

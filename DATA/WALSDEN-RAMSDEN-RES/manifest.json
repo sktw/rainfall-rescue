@@ -1,6 +1,23 @@
 {
     "name": "WALSDEN-RAMSDEN-RES",
     "data": {
+        "WALSDEN-RAMSDEN-RES-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-248.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-248.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-248.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            }
+        ],
         "WALSDEN-RAMSDEN-RES.csv": [
             {
                 "filename": "TYRain_1880-1889_10_pt1-page-148.csv",
@@ -46,7 +63,14 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1910-1919_19_pt1-page-248.csv"
+            "filename": "TYRain_1910-1919_19_pt1-page-248.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_19_pt1-page-248.csv",
+            "start_date": "1913/12",
+            "end_date": "1913/13"
         }
     ]
 }
