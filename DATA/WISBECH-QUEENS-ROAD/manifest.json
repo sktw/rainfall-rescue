@@ -1,0 +1,138 @@
+{
+    "name": "WISBECH-QUEENS-ROAD",
+    "data": {
+        "WISBECH-QUEENS-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-124.csv",
+                "start_date": "1942/07",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-124.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "WISBECH-QUEENS-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt4-page-044.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_07_pt1-page-072.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_08_pt1-page-238.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-255.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-127.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-132.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-124.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/05"
+            }
+        ]
+    },
+    "idr": {
+        "WISBECH-QUEENS-ROAD.csv": [
+            {
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "start_date": "1886/13",
+                "end_date": "1886/13"
+            },
+            {
+                "start_date": "1887/13",
+                "end_date": "1887/13"
+            },
+            {
+                "start_date": "1888/13",
+                "end_date": "1888/13"
+            },
+            {
+                "start_date": "1889/13",
+                "end_date": "1889/13"
+            },
+            {
+                "start_date": "1890/13",
+                "end_date": "1890/13"
+            },
+            {
+                "start_date": "1891/13",
+                "end_date": "1891/13"
+            },
+            {
+                "start_date": "1892/13",
+                "end_date": "1892/13"
+            },
+            {
+                "start_date": "1893/13",
+                "end_date": "1893/13"
+            },
+            {
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            },
+            {
+                "start_date": "1895/13",
+                "end_date": "1895/13"
+            },
+            {
+                "start_date": "1896/13",
+                "end_date": "1896/13"
+            },
+            {
+                "start_date": "1898/13",
+                "end_date": "1898/13"
+            },
+            {
+                "start_date": "1900/13",
+                "end_date": "1900/13"
+            },
+            {
+                "start_date": "1901/13",
+                "end_date": "1901/13"
+            },
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            },
+            {
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_09_pt1-page-124.csv",
+            "start_date": "1942/06",
+            "end_date": "1942/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_09_pt1-page-124.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

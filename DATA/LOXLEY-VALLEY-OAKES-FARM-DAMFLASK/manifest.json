@@ -1,0 +1,40 @@
+{
+    "name": "LOXLEY-VALLEY-OAKES-FARM-DAMFLASK",
+    "data": {
+        "LOXLEY-VALLEY-OAKES-FARM-DAMFLASK.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-087.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_21_pt1-page-152.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-098.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-046.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LOXLEY-VALLEY-OAKES-FARM-DAMFLASK.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-036.csv"
+        }
+    ]
+}

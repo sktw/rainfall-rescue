@@ -1,0 +1,39 @@
+{
+    "name": "STOCKTON-ON-FOREST-STOCKTON-HALL",
+    "data": {
+        "STOCKTON-ON-FOREST-STOCKTON-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-214.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-335.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-188.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-188.csv",
+                "start_date": "1947/11",
+                "end_date": "1947/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-188.csv",
+            "start_date": "1947/10",
+            "end_date": "1947/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-188.csv",
+            "start_date": "1947/12",
+            "end_date": "1947/13"
+        }
+    ]
+}

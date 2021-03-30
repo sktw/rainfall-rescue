@@ -1,0 +1,35 @@
+{
+    "name": "WHITTLESFORD-SCOTTS",
+    "data": {
+        "WHITTLESFORD-SCOTTS.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_08_pt1-page-173.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-201.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-078.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-075.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "WHITTLESFORD-SCOTTS.csv": [
+            {
+                "start_date": "1907/09",
+                "end_date": "1907/09"
+            }
+        ]
+    }
+}

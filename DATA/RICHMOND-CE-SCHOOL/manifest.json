@@ -1,0 +1,152 @@
+{
+    "name": "RICHMOND-CE-SCHOOL",
+    "data": {
+        "RICHMOND-CE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-206.csv",
+                "start_date": "1921/02",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-206.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+                "start_date": "1931/02",
+                "end_date": "1931/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+                "start_date": "1931/06",
+                "end_date": "1931/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+                "start_date": "1931/09",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+                "start_date": "1941/08",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+                "start_date": "1942/01",
+                "end_date": "1943/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+                "start_date": "1943/08",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+                "start_date": "1954/09",
+                "end_date": "1954/11"
+            }
+        ]
+    },
+    "idr": {
+        "RICHMOND-CE-SCHOOL.csv": [
+            {
+                "start_date": "1951/02",
+                "end_date": "1951/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+            "start_date": "1954/08",
+            "end_date": "1954/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_20_pt1-page-278.csv",
+            "start_date": "1954/12",
+            "end_date": "1954/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-206.csv",
+            "start_date": "1921/01",
+            "end_date": "1921/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-206.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+            "start_date": "1931/05",
+            "end_date": "1931/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+            "start_date": "1931/07",
+            "end_date": "1931/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-329.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+            "start_date": "1941/07",
+            "end_date": "1941/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+            "start_date": "1943/07",
+            "end_date": "1943/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-183.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "name": "BALDERSDALE-AYGILL",
+    "data": {
+        "BALDERSDALE-AYGILL.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-047.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+                "start_date": "1939/10",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+                "start_date": "1940/11",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+                "start_date": "1943/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+                "start_date": "1947/03",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-080.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-080.csv",
+                "start_date": "1952/07",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-080.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BALDERSDALE-AYGILL.csv": [
+            {
+                "start_date": "1932/01",
+                "end_date": "1932/01"
+            },
+            {
+                "start_date": "1947/03",
+                "end_date": "1947/04"
+            },
+            {
+                "start_date": "1958/02",
+                "end_date": "1958/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+            "start_date": "1939/09",
+            "end_date": "1939/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+            "start_date": "1939/13",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+            "start_date": "1940/10",
+            "end_date": "1940/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-075.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-256.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-080.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-080.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

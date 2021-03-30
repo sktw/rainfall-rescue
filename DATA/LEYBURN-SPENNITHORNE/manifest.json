@@ -1,0 +1,133 @@
+{
+    "name": "LEYBURN-SPENNITHORNE",
+    "data": {
+        "LEYBURN-SPENNITHORNE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+                "start_date": "1934/08",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-156.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-248.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LEYBURN-SPENNITHORNE.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1925/01",
+                "end_date": "1926/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1926/09",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1927/01",
+                "end_date": "1928/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1928/09",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+                "start_date": "1930/09",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+                "start_date": "1933/11",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+                "start_date": "1934/01",
+                "end_date": "1934/07"
+            }
+        ]
+    },
+    "idr": {
+        "LEYBURN-SPENNITHORNE.csv": [
+            {
+                "start_date": "1927/08",
+                "end_date": "1927/08"
+            },
+            {
+                "start_date": "1929/07",
+                "end_date": "1929/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1926/07",
+            "end_date": "1926/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1928/07",
+            "end_date": "1928/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1930/07",
+            "end_date": "1930/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-157.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+            "start_date": "1933/07",
+            "end_date": "1933/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-300.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

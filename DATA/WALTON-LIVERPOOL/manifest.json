@@ -5,7 +5,7 @@
             {
                 "filename": "TYRain_1677-1886_A_pt1-page-180.csv",
                 "start_date": "1790/01",
-                "end_date": "1799/13"
+                "end_date": "1799/12"
             },
             {
                 "filename": "TYRain_1677-1886_B_pt2-page-029.csv",
@@ -13,5 +13,12 @@
                 "end_date": "1809/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-180.csv",
+            "start_date": "1799/13",
+            "end_date": "1799/13"
+        }
+    ]
 }

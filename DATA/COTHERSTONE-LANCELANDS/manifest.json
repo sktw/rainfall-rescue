@@ -1,0 +1,66 @@
+{
+    "name": "COTHERSTONE-LANCELANDS",
+    "data": {
+        "COTHERSTONE-LANCELANDS.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_24_pt1-page-053.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-081.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-262.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/13"
+            }
+        ]
+    },
+    "idr": {
+        "COTHERSTONE-LANCELANDS.csv": [
+            {
+                "start_date": "1924/05",
+                "end_date": "1924/06"
+            },
+            {
+                "start_date": "1924/11",
+                "end_date": "1924/12"
+            },
+            {
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            },
+            {
+                "start_date": "1936/13",
+                "end_date": "1937/02"
+            },
+            {
+                "start_date": "1946/01",
+                "end_date": "1946/02"
+            },
+            {
+                "start_date": "1946/05",
+                "end_date": "1946/06"
+            },
+            {
+                "start_date": "1946/08",
+                "end_date": "1946/09"
+            },
+            {
+                "start_date": "1948/03",
+                "end_date": "1948/04"
+            }
+        ]
+    }
+}

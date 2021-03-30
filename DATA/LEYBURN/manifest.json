@@ -3,8 +3,15 @@
     "data": {
         "LEYBURN-2.csv": [
             {
+                "filename": "TYRain_1880-1889_11_pt2-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "LEYBURN.csv": [
+            {
                 "filename": "ERROR_TYRain_1860-1869_05_pt1-page-183.csv",
-                "start_date": "1860/01",
+                "start_date": "1863/01",
                 "end_date": "1868/12"
             },
             {
@@ -25,19 +32,12 @@
             {
                 "filename": "TYRain_1890-1899_17_pt1-page-166.csv",
                 "start_date": "1890/01",
-                "end_date": "1899/13"
-            }
-        ],
-        "LEYBURN.csv": [
-            {
-                "filename": "TYRain_1880-1889_11_pt2-page-017.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
+                "end_date": "1894/13"
             }
         ]
     },
     "idr": {
-        "LEYBURN-2.csv": [
+        "LEYBURN.csv": [
             {
                 "start_date": "1869/12",
                 "end_date": "1869/12"

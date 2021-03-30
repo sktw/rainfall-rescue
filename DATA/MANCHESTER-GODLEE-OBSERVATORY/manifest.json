@@ -1,0 +1,76 @@
+{
+    "name": "MANCHESTER-GODLEE-OBSERVATORY",
+    "data": {
+        "MANCHESTER-GODLEE-OBSERVATORY-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-094.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-255.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-145.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+                "start_date": "1937/02",
+                "end_date": "1937/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+                "start_date": "1937/06",
+                "end_date": "1937/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "MANCHESTER-GODLEE-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-095.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-256.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_19_pt1-page-146.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+            "start_date": "1937/05",
+            "end_date": "1937/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-049.csv",
+            "start_date": "1937/08",
+            "end_date": "1937/13"
+        }
+    ]
+}

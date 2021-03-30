@@ -1,0 +1,20 @@
+{
+    "name": "RICHMOND-YORKS",
+    "data": {
+        "RICHMOND-YORKS.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-079.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            }
+        ]
+    },
+    "idr": {
+        "RICHMOND-YORKS.csv": [
+            {
+                "start_date": "1817/05",
+                "end_date": "1817/05"
+            }
+        ]
+    }
+}

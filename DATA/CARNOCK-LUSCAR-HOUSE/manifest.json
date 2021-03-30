@@ -1,0 +1,119 @@
+{
+    "name": "CARNOCK-LUSCAR-HOUSE",
+    "data": {
+        "CARNOCK-LUSCAR-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-018.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/05"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-018.csv",
+                "start_date": "1894/12",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-018.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_29_pt1-page-008.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_29_pt1-page-008.csv",
+                "start_date": "1900/09",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_29_pt1-page-008.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-114.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-024.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-024.csv",
+                "start_date": "1922/03",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-024.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CARNOCK-LUSCAR-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-017.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-007.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-113.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-023.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CARNOCK-LUSCAR-HOUSE-2.csv": [
+            {
+                "start_date": "1908/08",
+                "end_date": "1908/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_29_pt1-page-008.csv",
+            "start_date": "1900/05",
+            "end_date": "1900/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_29_pt1-page-008.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_25_pt1-page-018.csv",
+            "start_date": "1894/06",
+            "end_date": "1894/11"
+        },
+        {
+            "filename": "TYRain_1890-1899_25_pt1-page-018.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_32_pt1-page-024.csv",
+            "start_date": "1921/12",
+            "end_date": "1922/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_32_pt1-page-024.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

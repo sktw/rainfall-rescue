@@ -1,0 +1,62 @@
+{
+    "name": "TUNBRIDGE",
+    "data": {
+        "TUNBRIDGE-2.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-032.csv",
+                "start_date": "1840/01",
+                "end_date": "1841/04"
+            },
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-032.csv",
+                "start_date": "1841/06",
+                "end_date": "1849/13"
+            }
+        ],
+        "TUNBRIDGE-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-039.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TUNBRIDGE-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-079.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "TUNBRIDGE.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-033.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "TUNBRIDGE-3.csv": [
+            {
+                "start_date": "1865/01",
+                "end_date": "1865/01"
+            },
+            {
+                "start_date": "1866/05",
+                "end_date": "1866/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1840-1849_D_pt2-page-032.csv",
+            "start_date": "1841/05",
+            "end_date": "1841/05"
+        }
+    ]
+}

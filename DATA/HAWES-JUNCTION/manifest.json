@@ -1,0 +1,125 @@
+{
+    "name": "HAWES-JUNCTION",
+    "data": {
+        "HAWES-JUNCTION-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-005.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "HAWES-JUNCTION-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1932/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1936/04",
+                "end_date": "1936/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1936/06",
+                "end_date": "1936/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1936/08",
+                "end_date": "1936/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1937/02",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-160.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-160.csv",
+                "start_date": "1947/03",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-160.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-253.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HAWES-JUNCTION.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt2-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-161.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAWES-JUNCTION-3.csv": [
+            {
+                "start_date": "1941/01",
+                "end_date": "1941/01"
+            },
+            {
+                "start_date": "1950/01",
+                "end_date": "1950/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+            "start_date": "1936/05",
+            "end_date": "1936/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+            "start_date": "1936/07",
+            "end_date": "1936/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+            "start_date": "1936/09",
+            "end_date": "1937/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-304.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-160.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-160.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

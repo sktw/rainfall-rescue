@@ -1,0 +1,71 @@
+{
+    "name": "BARNINGHAM-PARK",
+    "data": {
+        "BARNINGHAM-PARK-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-041.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-067.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+                "start_date": "1943/01",
+                "end_date": "1948/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-072.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BARNINGHAM-PARK.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt3-page-053.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-248.csv",
+            "start_date": "1948/05",
+            "end_date": "1948/13"
+        }
+    ]
+}
