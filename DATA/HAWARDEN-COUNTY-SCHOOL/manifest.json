@@ -41,10 +41,6 @@
     "idr": {
         "HAWARDEN-COUNTY-SCHOOL.csv": [
             {
-                "start_date": "1910/13",
-                "end_date": "1910/13"
-            },
-            {
                 "start_date": "1911/13",
                 "end_date": "1911/13"
             },

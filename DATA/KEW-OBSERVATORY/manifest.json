@@ -11,11 +11,6 @@
                 "filename": "TYRain_1910-1919_2A_pt1-page-207.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_02_pt1-page-196.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
             }
         ],
         "KEW-OBSERVATORY.csv": [
@@ -86,6 +81,9 @@
             "filename": "ERROR_TYRain_1850-1859_G_pt1-page-018.csv",
             "start_date": "1856/13",
             "end_date": "1856/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-196.csv"
         }
     ]
 }

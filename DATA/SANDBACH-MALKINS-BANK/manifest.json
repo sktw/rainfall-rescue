@@ -32,15 +32,7 @@
             {
                 "filename": "TYRain_1920-1930_19_pt1-page-038.csv",
                 "start_date": "1920/01",
-                "end_date": "1927/13"
-            }
-        ]
-    },
-    "idr": {
-        "SANDBACH-MALKINS-BANK.csv": [
-            {
-                "start_date": "1927/01",
-                "end_date": "1927/13"
+                "end_date": "1926/13"
             }
         ]
     }

@@ -1,7 +1,7 @@
 {
     "name": "DUNFORD-BRIDGE-HARDEN-RES",
     "data": {
-        "DUNFORD-BRIDGE-HARDEN-2-RES.csv": [
+        "DUNFORD-BRIDGE-HARDEN-RES-2.csv": [
             {
                 "filename": "TYRain_1931-1940_18B_pt1-page-178.csv",
                 "start_date": "1931/01",
@@ -47,7 +47,7 @@
         ]
     },
     "idr": {
-        "DUNFORD-BRIDGE-HARDEN-2-RES.csv": [
+        "DUNFORD-BRIDGE-HARDEN-RES-2.csv": [
             {
                 "start_date": "1953/05",
                 "end_date": "1953/05"

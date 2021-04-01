@@ -80,44 +80,6 @@
                 "start_date": "1931/13",
                 "end_date": "1931/13"
             }
-        ],
-        "BELVOIR-CASTLE.csv": [
-            {
-                "start_date": "1901/13",
-                "end_date": "1901/13"
-            },
-            {
-                "start_date": "1902/13",
-                "end_date": "1902/13"
-            },
-            {
-                "start_date": "1903/13",
-                "end_date": "1903/13"
-            },
-            {
-                "start_date": "1904/13",
-                "end_date": "1904/13"
-            },
-            {
-                "start_date": "1905/13",
-                "end_date": "1905/13"
-            },
-            {
-                "start_date": "1906/13",
-                "end_date": "1906/13"
-            },
-            {
-                "start_date": "1907/13",
-                "end_date": "1907/13"
-            },
-            {
-                "start_date": "1908/13",
-                "end_date": "1908/13"
-            },
-            {
-                "start_date": "1909/13",
-                "end_date": "1909/13"
-            }
         ]
     },
     "unused": [
