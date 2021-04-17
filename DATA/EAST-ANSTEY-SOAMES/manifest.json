@@ -1,0 +1,101 @@
+{
+    "name": "EAST-ANSTEY-SOAMES",
+    "data": {
+        "EAST-ANSTEY-SOAMES-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-109.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-179.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-221.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "EAST-ANSTEY-SOAMES-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-220.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-016.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-048.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "EAST-ANSTEY-SOAMES.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+                "start_date": "1906/02",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+                "start_date": "1907/01",
+                "end_date": "1908/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+                "start_date": "1909/10",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "EAST-ANSTEY-SOAMES.csv": [
+            {
+                "start_date": "1909/03",
+                "end_date": "1909/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+            "start_date": "1906/01",
+            "end_date": "1906/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+            "start_date": "1908/12",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_12_pt1-page-153.csv",
+            "start_date": "1909/09",
+            "end_date": "1909/09"
+        }
+    ]
+}

@@ -18,5 +18,15 @@
                 "end_date": "1879/13"
             }
         ]
+    },
+    "external": {
+        "BRESSAY-MANSE.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-284.jpg",
+                "start_date": "1849/10",
+                "end_date": "1849/12",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
     }
 }

@@ -1,0 +1,30 @@
+{
+    "name": "YARLET-HALL",
+    "data": {
+        "YARLET-HALL.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-075.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_16_pt1-page-203.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-063.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "YARLET-HALL.csv": [
+            {
+                "start_date": "1944/06",
+                "end_date": "1944/06"
+            }
+        ]
+    }
+}

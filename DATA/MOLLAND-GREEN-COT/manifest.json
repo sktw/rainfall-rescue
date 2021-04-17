@@ -1,0 +1,64 @@
+{
+    "name": "MOLLAND-GREEN-COT",
+    "data": {
+        "MOLLAND-GREEN-COT.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+                "start_date": "1907/06",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/05"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+                "start_date": "1909/07",
+                "end_date": "1909/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-112.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-184.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-228.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+            "start_date": "1907/05",
+            "end_date": "1907/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+            "start_date": "1909/06",
+            "end_date": "1909/06"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-157.csv",
+            "start_date": "1909/13",
+            "end_date": "1909/13"
+        }
+    ]
+}

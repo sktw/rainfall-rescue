@@ -1,0 +1,85 @@
+{
+    "name": "MILTON-ABBOT-ENDSLEIGH",
+    "data": {
+        "MILTON-ABBOT-ENDSLEIGH.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+                "start_date": "1860/01",
+                "end_date": "1861/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+                "start_date": "1863/01",
+                "end_date": "1865/08"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+                "start_date": "1865/10",
+                "end_date": "1865/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+                "start_date": "1866/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_05_pt2-page-024.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-032.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-110.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-172.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "MILTON-ABBOT-ENDSLEIGH.csv": [
+            {
+                "start_date": "1870/09",
+                "end_date": "1870/09"
+            },
+            {
+                "start_date": "1880/05",
+                "end_date": "1880/05"
+            },
+            {
+                "start_date": "1916/10",
+                "end_date": "1916/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+            "start_date": "1862/01",
+            "end_date": "1862/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+            "start_date": "1865/09",
+            "end_date": "1865/09"
+        },
+        {
+            "filename": "TYRain_1860-1869_02_pt3-page-068.csv",
+            "start_date": "1865/13",
+            "end_date": "1865/13"
+        }
+    ]
+}

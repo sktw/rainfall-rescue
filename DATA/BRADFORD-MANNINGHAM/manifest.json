@@ -1,0 +1,24 @@
+{
+    "name": "BRADFORD-MANNINGHAM",
+    "data": {
+        "BRADFORD-MANNINGHAM-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-027.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-021.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BRADFORD-MANNINGHAM.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -105,37 +105,6 @@
                 "start_date": "1920/01",
                 "end_date": "1926/13"
             }
-        ],
-        "ST-MARYS-FOX.csv": [
-            {
-                "filename": "TYRain_1890-1899_09_pt1-page-235.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            }
-        ],
-        "ST-MARYS-LIBRARY.csv": [
-            {
-                "filename": "TYRain_1890-1899_09_pt1-page-234.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            }
-        ],
-        "ST-MARYS-UNKNOWN.csv": [
-            {
-                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
-                "start_date": "1840/01",
-                "end_date": "1841/08"
-            },
-            {
-                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
-                "start_date": "1841/13",
-                "end_date": "1841/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-150.csv",
-                "start_date": "1842/09",
-                "end_date": "1849/13"
-            }
         ]
     },
     "idr": {
@@ -159,16 +128,6 @@
             {
                 "start_date": "1863/10",
                 "end_date": "1863/10"
-            }
-        ],
-        "ST-MARYS-UNKNOWN.csv": [
-            {
-                "start_date": "1843/02",
-                "end_date": "1843/02"
-            },
-            {
-                "start_date": "1843/08",
-                "end_date": "1843/08"
             }
         ]
     },

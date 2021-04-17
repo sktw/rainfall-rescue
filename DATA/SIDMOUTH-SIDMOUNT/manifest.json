@@ -1,0 +1,81 @@
+{
+    "name": "SIDMOUTH-SIDMOUNT",
+    "data": {
+        "SIDMOUTH-SIDMOUNT-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-116.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "SIDMOUTH-SIDMOUNT-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-110.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "SIDMOUTH-SIDMOUNT-4.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-123.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-165.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SIDMOUTH-SIDMOUNT.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-115.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-098.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-120.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-105.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-057.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-122.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-164.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SIDMOUTH-SIDMOUNT.csv": [
+            {
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            }
+        ]
+    }
+}

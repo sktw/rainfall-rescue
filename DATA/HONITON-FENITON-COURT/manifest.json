@@ -1,0 +1,111 @@
+{
+    "name": "HONITON-FENITON-COURT",
+    "data": {
+        "HONITON-FENITON-COURT-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-145.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-194.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-246.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1952/05",
+                "end_date": "1952/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1952/07",
+                "end_date": "1952/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1952/11",
+                "end_date": "1952/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1953/06",
+                "end_date": "1953/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1953/12",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "HONITON-FENITON-COURT.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-110.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-129.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1952/04",
+            "end_date": "1952/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1952/06",
+            "end_date": "1952/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1952/10",
+            "end_date": "1952/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1952/12",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1953/05",
+            "end_date": "1953/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1953/11",
+            "end_date": "1953/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-029.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

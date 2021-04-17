@@ -39,5 +39,21 @@
                 "end_date": "1960/13"
             }
         ]
+    },
+    "external": {
+        "READING-UNIVERSITY-2.csv": [
+            {
+                "start_date": "1968/01",
+                "end_date": "2020/13",
+                "comment": "Data from University official records"
+            }
+        ],
+        "READING-UNIVERSITY.csv": [
+            {
+                "start_date": "1961/01",
+                "end_date": "1967/13",
+                "comment": "Data from University official records"
+            }
+        ]
     }
 }

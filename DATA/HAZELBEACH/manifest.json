@@ -1,0 +1,52 @@
+{
+    "name": "HAZELBEACH",
+    "data": {
+        "HAZELBEACH.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt1-page-032.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-226.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/02"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-226.csv",
+                "start_date": "1894/04",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-226.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-056.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAZELBEACH.csv": [
+            {
+                "start_date": "1887/13",
+                "end_date": "1887/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_06_pt1-page-226.csv",
+            "start_date": "1894/03",
+            "end_date": "1894/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_06_pt1-page-226.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

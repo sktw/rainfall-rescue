@@ -1,0 +1,74 @@
+{
+    "name": "FELIXKIRK-THIRLBY",
+    "data": {
+        "FELIXKIRK-THIRLBY.csv": [
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-288.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-175.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-312.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-167.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-167.csv",
+                "start_date": "1945/06",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-167.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-260.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-260.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-260.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-167.csv",
+            "start_date": "1945/05",
+            "end_date": "1945/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-167.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-260.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-260.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

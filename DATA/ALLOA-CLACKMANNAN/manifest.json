@@ -1,0 +1,37 @@
+{
+    "name": "ALLOA-CLACKMANNAN",
+    "data": {
+        "ALLOA-CLACKMANNAN-2.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-187.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ],
+        "ALLOA-CLACKMANNAN.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-059.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-186.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALLOA-CLACKMANNAN.csv": [
+            {
+                "start_date": "1851/13",
+                "end_date": "1851/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1830-1839_D_pt1-page-058.csv"
+        }
+    ]
+}

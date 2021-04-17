@@ -1,0 +1,35 @@
+{
+    "name": "PONTEFRACT-THE-KINGS-SCHOOL",
+    "data": {
+        "PONTEFRACT-THE-KINGS-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-142.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-086.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-238.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-020.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PONTEFRACT-THE-KINGS-SCHOOL.csv": [
+            {
+                "start_date": "1939/02",
+                "end_date": "1939/02"
+            }
+        ]
+    }
+}

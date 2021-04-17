@@ -1,0 +1,25 @@
+{
+    "name": "DEVONPORT-QUEEN-ST",
+    "data": {
+        "DEVONPORT-QUEEN-ST.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-122.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-210.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "DEVONPORT-QUEEN-ST.csv": [
+            {
+                "start_date": "1853/03",
+                "end_date": "1853/03"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "COUPAR-ANGUS-STATION",
+    "data": {
+        "COUPAR-ANGUS-STATION-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-237.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "COUPAR-ANGUS-STATION.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-172.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-172.csv",
+                "start_date": "1881/04",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-172.csv",
+                "start_date": "1882/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_25_pt1-page-076.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-086.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-237.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-237.csv",
+                "start_date": "1916/10",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_15_pt1-page-172.csv",
+            "start_date": "1880/13",
+            "end_date": "1881/03"
+        },
+        {
+            "filename": "TYRain_1880-1889_15_pt1-page-172.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        }
+    ]
+}

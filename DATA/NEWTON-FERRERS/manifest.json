@@ -1,0 +1,40 @@
+{
+    "name": "NEWTON-FERRERS",
+    "data": {
+        "NEWTON-FERRERS-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-030.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-138.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-190.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-190.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "NEWTON-FERRERS.csv": []
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-190.csv",
+            "start_date": "1914/12",
+            "end_date": "1914/13"
+        }
+    ]
+}

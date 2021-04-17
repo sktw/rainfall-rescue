@@ -3,6 +3,81 @@
     "data": {
         "GREENWICH-ROYAL-OBSERVATORY-10.csv": [
             {
+                "filename": "TYRain_1900-1909_01_pt1-page-039.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-039.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-11.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-040.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-040.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-12.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-018.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-008.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-008.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-13.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-015.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-012.csv",
+                "start_date": "1850/01",
+                "end_date": "1851/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-012.csv",
+                "start_date": "1853/01",
+                "end_date": "1857/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-005.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-14.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-013.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-009.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-2.csv": [
+            {
                 "filename": "TYRain_1840-1849_D_pt2-page-017.csv",
                 "start_date": "1840/01",
                 "end_date": "1849/13"
@@ -18,128 +93,48 @@
                 "end_date": "1869/13"
             }
         ],
-        "GREENWICH-ROYAL-OBSERVATORY-11.csv": [
-            {
-                "filename": "TYRain_1677-1886_B_pt2-page-090.csv",
-                "start_date": "1810/01",
-                "end_date": "1819/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-006.csv",
-                "start_date": "1820/01",
-                "end_date": "1829/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-016.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-010.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            },
-            {
-                "filename": "TYRain_1860-1869_01_pt1-page-006.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-12.csv": [
-            {
-                "filename": "TYRain_1850-1859_G_pt1-page-013.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-13.csv": [
-            {
-                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-015.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            },
-            {
-                "filename": "TYRain_1850-1859_G_pt1-page-012.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-14.csv": [
-            {
-                "filename": "TYRain_1840-1849_D_pt2-page-018.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-008.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-2.csv": [
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-039.csv",
-                "start_date": "1900/01",
-                "end_date": "1903/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-039.csv",
-                "start_date": "1905/01",
-                "end_date": "1909/13"
-            }
-        ],
         "GREENWICH-ROYAL-OBSERVATORY-3.csv": [
             {
-                "filename": "TYRain_1860-1869_01_pt1-page-010.csv",
+                "filename": "TYRain_1860-1869_01_pt1-page-011.csv",
                 "start_date": "1860/01",
                 "end_date": "1869/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-038.csv",
-                "start_date": "1900/01",
-                "end_date": "1903/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-038.csv",
-                "start_date": "1905/01",
-                "end_date": "1909/13"
-            },
-            {
-                "filename": "TYRain_1910-1919_01_pt1-page-041.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-4.csv": [
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-037.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-033.csv",
                 "start_date": "1900/01",
                 "end_date": "1903/13"
             },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-037.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-033.csv",
                 "start_date": "1905/01",
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_01_pt1-page-040.csv",
+                "filename": "TYRain_1910-1919_01_pt1-page-037.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-032.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-5.csv": [
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-036.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-035.csv",
                 "start_date": "1900/01",
                 "end_date": "1903/13"
             },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-036.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-035.csv",
                 "start_date": "1905/01",
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_01_pt1-page-039.csv",
+                "filename": "TYRain_1910-1919_01_pt1-page-038.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
             }
@@ -238,88 +233,93 @@
         ],
         "GREENWICH-ROYAL-OBSERVATORY-7.csv": [
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-035.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-036.csv",
                 "start_date": "1900/01",
                 "end_date": "1903/13"
             },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-035.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-036.csv",
                 "start_date": "1905/01",
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_01_pt1-page-038.csv",
+                "filename": "TYRain_1910-1919_01_pt1-page-039.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-8.csv": [
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-033.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-037.csv",
                 "start_date": "1900/01",
                 "end_date": "1903/13"
             },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-033.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-037.csv",
                 "start_date": "1905/01",
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_01_pt1-page-037.csv",
+                "filename": "TYRain_1910-1919_01_pt1-page-040.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_01_pt1-page-032.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-9.csv": [
             {
-                "filename": "TYRain_1860-1869_01_pt1-page-011.csv",
+                "filename": "TYRain_1860-1869_01_pt1-page-010.csv",
                 "start_date": "1860/01",
                 "end_date": "1869/13"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY.csv": [
+            },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-040.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-038.csv",
                 "start_date": "1900/01",
                 "end_date": "1903/13"
             },
             {
-                "filename": "TYRain_1900-1909_01_pt1-page-040.csv",
+                "filename": "TYRain_1900-1909_01_pt1-page-038.csv",
                 "start_date": "1905/01",
                 "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-041.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-090.csv",
+                "start_date": "1810/01",
+                "end_date": "1819/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-006.csv",
+                "start_date": "1820/01",
+                "end_date": "1829/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1840-1849_D_pt2-page-016.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1850-1859_G_pt1-page-010.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-006.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
             }
         ]
     },
     "idr": {
-        "GREENWICH-ROYAL-OBSERVATORY-11.csv": [
+        "GREENWICH-ROYAL-OBSERVATORY-12.csv": [
             {
-                "start_date": "1820/03",
-                "end_date": "1820/03"
-            },
-            {
-                "start_date": "1827/01",
-                "end_date": "1827/03"
-            },
-            {
-                "start_date": "1827/09",
-                "end_date": "1827/09"
-            },
-            {
-                "start_date": "1827/11",
-                "end_date": "1827/13"
-            },
-            {
-                "start_date": "1843/13",
-                "end_date": "1843/13"
-            },
-            {
-                "start_date": "1850/05",
-                "end_date": "1850/05"
+                "start_date": "1859/01",
+                "end_date": "1859/01"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-13.csv": [
@@ -330,12 +330,6 @@
             {
                 "start_date": "1847/10",
                 "end_date": "1847/10"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-14.csv": [
-            {
-                "start_date": "1859/01",
-                "end_date": "1859/01"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-6.csv": [
@@ -350,6 +344,28 @@
             {
                 "start_date": "1866/01",
                 "end_date": "1866/01"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY.csv": [
+            {
+                "start_date": "1820/03",
+                "end_date": "1820/03"
+            },
+            {
+                "start_date": "1827/01",
+                "end_date": "1827/01"
+            },
+            {
+                "start_date": "1827/03",
+                "end_date": "1827/03"
+            },
+            {
+                "start_date": "1843/13",
+                "end_date": "1843/13"
+            },
+            {
+                "start_date": "1850/05",
+                "end_date": "1850/05"
             }
         ]
     },
@@ -373,16 +389,14 @@
             "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv"
         },
         {
-            "filename": "TYRain_1820-1829_C_pt2-page-041.csv"
+            "filename": "TYRain_1850-1859_G_pt1-page-012.csv",
+            "start_date": "1852/01",
+            "end_date": "1852/13"
         },
         {
-            "filename": "TYRain_1860-1869_01_pt1-page-005.csv"
-        },
-        {
-            "filename": "TYRain_1860-1869_01_pt1-page-008.csv"
-        },
-        {
-            "filename": "TYRain_1860-1869_01_pt1-page-009.csv"
+            "filename": "TYRain_1850-1859_G_pt1-page-012.csv",
+            "start_date": "1858/01",
+            "end_date": "1859/13"
         },
         {
             "filename": "TYRain_1890-1899_01_pt1-page-033.csv"
@@ -392,7 +406,27 @@
         }
     ],
     "external": {
-        "GREENWICH-ROYAL-OBSERVATORY.csv": [
+        "GREENWICH-ROYAL-OBSERVATORY-10.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
+                "start_date": "1894/01",
+                "end_date": "1894/13",
+                "comment": "Transcribed from column 4"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
+                "start_date": "1897/01",
+                "end_date": "1897/13",
+                "comment": "Transcribed from column 4"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
+                "start_date": "1904/01",
+                "end_date": "1904/13",
+                "comment": "Transcribed from column 4"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-11.csv": [
             {
                 "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
                 "start_date": "1894/01",
@@ -410,66 +444,6 @@
                 "start_date": "1904/01",
                 "end_date": "1904/13",
                 "comment": "Transcribed from column 3"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-8.csv": [
-            {
-                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
-                "start_date": "1894/01",
-                "end_date": "1894/13",
-                "comment": "Transcribed from column 10"
-            },
-            {
-                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
-                "start_date": "1897/01",
-                "end_date": "1897/13",
-                "comment": "Transcribed from column 10"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
-                "start_date": "1904/01",
-                "end_date": "1904/13",
-                "comment": "Transcribed from column 10"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-7.csv": [
-            {
-                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
-                "start_date": "1894/01",
-                "end_date": "1894/13",
-                "comment": "Transcribed from column 9"
-            },
-            {
-                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
-                "start_date": "1897/01",
-                "end_date": "1897/13",
-                "comment": "Transcribed from column 9"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
-                "start_date": "1904/01",
-                "end_date": "1904/13",
-                "comment": "Transcribed from column 9"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-5.csv": [
-            {
-                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
-                "start_date": "1894/01",
-                "end_date": "1894/13",
-                "comment": "Transcribed from column 7"
-            },
-            {
-                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
-                "start_date": "1897/01",
-                "end_date": "1897/13",
-                "comment": "Transcribed from column 7"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
-                "start_date": "1904/01",
-                "end_date": "1904/13",
-                "comment": "Transcribed from column 7"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-4.csv": [
@@ -477,6 +451,66 @@
                 "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
                 "start_date": "1894/01",
                 "end_date": "1894/13",
+                "comment": "Transcribed from column 10"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
+                "start_date": "1897/01",
+                "end_date": "1897/13",
+                "comment": "Transcribed from column 10"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
+                "start_date": "1904/01",
+                "end_date": "1904/13",
+                "comment": "Transcribed from column 10"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-5.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
+                "start_date": "1894/01",
+                "end_date": "1894/13",
+                "comment": "Transcribed from column 9"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
+                "start_date": "1897/01",
+                "end_date": "1897/13",
+                "comment": "Transcribed from column 9"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
+                "start_date": "1904/01",
+                "end_date": "1904/13",
+                "comment": "Transcribed from column 9"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-7.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
+                "start_date": "1894/01",
+                "end_date": "1894/13",
+                "comment": "Transcribed from column 7"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
+                "start_date": "1897/01",
+                "end_date": "1897/13",
+                "comment": "Transcribed from column 7"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
+                "start_date": "1904/01",
+                "end_date": "1904/13",
+                "comment": "Transcribed from column 7"
+            }
+        ],
+        "GREENWICH-ROYAL-OBSERVATORY-8.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
+                "start_date": "1894/01",
+                "end_date": "1894/13",
                 "comment": "Transcribed from column 6"
             },
             {
@@ -492,7 +526,7 @@
                 "comment": "Transcribed from column 6"
             }
         ],
-        "GREENWICH-ROYAL-OBSERVATORY-3.csv": [
+        "GREENWICH-ROYAL-OBSERVATORY-9.csv": [
             {
                 "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
                 "start_date": "1894/01",
@@ -510,26 +544,6 @@
                 "start_date": "1904/01",
                 "end_date": "1904/13",
                 "comment": "Transcribed from column 5"
-            }
-        ],
-        "GREENWICH-ROYAL-OBSERVATORY-2.csv": [
-            {
-                "filename": "ERROR_TYRain_1890-1899_01_pt1-page-032.csv",
-                "start_date": "1894/01",
-                "end_date": "1894/13",
-                "comment": "Transcribed from column 4"
-            },
-            {
-                "filename": "TYRain_1890-1899_01_pt1-page-033.csv",
-                "start_date": "1897/01",
-                "end_date": "1897/13",
-                "comment": "Transcribed from column 4"
-            },
-            {
-                "filename": "TYRain_1900-1909_01_pt1-page-041.csv",
-                "start_date": "1904/01",
-                "end_date": "1904/13",
-                "comment": "Transcribed from column 4"
             }
         ]
     }

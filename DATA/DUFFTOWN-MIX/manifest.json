@@ -1,0 +1,72 @@
+{
+    "name": "DUFFTOWN-MIX",
+    "data": {
+        "DUFFTOWN-MIX-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-217.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "DUFFTOWN-MIX-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-085.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "DUFFTOWN-MIX-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-090.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-090.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-090.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DUFFTOWN-MIX-5.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-092.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DUFFTOWN-MIX.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-216.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-093.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-086.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-090.csv",
+            "start_date": "1958/02",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-090.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        }
+    ]
+}

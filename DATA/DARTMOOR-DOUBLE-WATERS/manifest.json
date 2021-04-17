@@ -1,0 +1,161 @@
+{
+    "name": "DARTMOOR-DOUBLE-WATERS",
+    "data": {
+        "DARTMOOR-DOUBLE-WATERS.csv": [
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-174.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-174.csv",
+                "start_date": "1924/06",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-174.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-247.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-033.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-033.csv",
+                "start_date": "1945/08",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-033.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1955/11",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1956/01",
+                "end_date": "1957/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1957/06",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1958/07",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DARTMOOR-DOUBLE-WATERS.csv": [
+            {
+                "start_date": "1934/04",
+                "end_date": "1934/05"
+            },
+            {
+                "start_date": "1934/09",
+                "end_date": "1934/10"
+            },
+            {
+                "start_date": "1941/13",
+                "end_date": "1941/13"
+            },
+            {
+                "start_date": "1947/01",
+                "end_date": "1947/02"
+            },
+            {
+                "start_date": "1949/07",
+                "end_date": "1949/08"
+            },
+            {
+                "start_date": "1950/09",
+                "end_date": "1950/10"
+            },
+            {
+                "start_date": "1951/03",
+                "end_date": "1951/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_13_pt1-page-033.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_13_pt1-page-033.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-174.csv",
+            "start_date": "1924/05",
+            "end_date": "1924/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-174.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1955/10",
+            "end_date": "1955/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1957/05",
+            "end_date": "1957/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-081.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

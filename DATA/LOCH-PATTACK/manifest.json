@@ -1,0 +1,107 @@
+{
+    "name": "LOCH-PATTACK",
+    "data": {
+        "LOCH-PATTACK.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-247.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-181.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+                "start_date": "1939/11",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+                "start_date": "1940/05",
+                "end_date": "1940/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+                "start_date": "1940/11",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+                "start_date": "1947/06",
+                "end_date": "1947/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+                "start_date": "1947/08",
+                "end_date": "1947/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-275.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LOCH-PATTACK.csv": [
+            {
+                "start_date": "1932/02",
+                "end_date": "1932/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+            "start_date": "1939/08",
+            "end_date": "1939/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+            "start_date": "1939/13",
+            "end_date": "1940/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+            "start_date": "1940/09",
+            "end_date": "1940/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_27_pt1-page-074.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+            "start_date": "1947/05",
+            "end_date": "1947/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+            "start_date": "1947/07",
+            "end_date": "1947/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_32_pt1-page-075.csv",
+            "start_date": "1947/12",
+            "end_date": "1947/13"
+        }
+    ]
+}

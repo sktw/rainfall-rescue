@@ -113,6 +113,9 @@
             "filename": "TYRain_1850-1859_F_pt1-page-146.csv",
             "start_date": "1858/13",
             "end_date": "1858/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_04_pt3-page-089.csv"
         }
     ]
 }

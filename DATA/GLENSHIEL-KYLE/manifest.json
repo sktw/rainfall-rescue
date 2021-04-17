@@ -1,0 +1,54 @@
+{
+    "name": "GLENSHIEL-KYLE",
+    "data": {
+        "GLENSHIEL-KYLE.csv": [
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-154.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-178.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+                "start_date": "1953/10",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+            "start_date": "1953/01",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+            "start_date": "1953/09",
+            "end_date": "1953/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-087.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

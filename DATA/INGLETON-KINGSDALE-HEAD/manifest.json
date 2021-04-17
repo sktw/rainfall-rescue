@@ -18,5 +18,13 @@
                 "end_date": "1930/13"
             }
         ]
+    },
+    "idr": {
+        "INGLETON-KINGSDALE-HEAD.csv": [
+            {
+                "start_date": "1915/07",
+                "end_date": "1915/07"
+            }
+        ]
     }
 }

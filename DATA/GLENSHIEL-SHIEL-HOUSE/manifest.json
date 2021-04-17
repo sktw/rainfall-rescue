@@ -1,0 +1,32 @@
+{
+    "name": "GLENSHIEL-SHIEL-HOUSE",
+    "data": {
+        "GLENSHIEL-SHIEL-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-160.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-033.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "GLENSHIEL-SHIEL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-096.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLENSHIEL-SHIEL-HOUSE-2.csv": [
+            {
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "DUNDEE",
+    "data": {
+        "DUNDEE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-155.csv",
+                "start_date": "1864/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-006.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "DUNDEE.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-220.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-155.csv",
+                "start_date": "1860/01",
+                "end_date": "1863/13"
+            }
+        ]
+    }
+}

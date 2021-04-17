@@ -1,0 +1,30 @@
+{
+    "name": "MASHAM-MOOR-LOW-ASH-HEAD",
+    "data": {
+        "MASHAM-MOOR-LOW-ASH-HEAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-283.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-142.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-234.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MASHAM-MOOR-LOW-ASH-HEAD.csv": [
+            {
+                "start_date": "1934/11",
+                "end_date": "1934/12"
+            }
+        ]
+    }
+}

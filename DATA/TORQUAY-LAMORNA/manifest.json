@@ -1,0 +1,34 @@
+{
+    "name": "TORQUAY-LAMORNA",
+    "data": {
+        "TORQUAY-LAMORNA.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt3-page-095.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_05_pt4-page-051.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "TORQUAY-LAMORNA.csv": [
+            {
+                "start_date": "1865/10",
+                "end_date": "1865/10"
+            },
+            {
+                "start_date": "1883/09",
+                "end_date": "1883/09"
+            }
+        ]
+    }
+}

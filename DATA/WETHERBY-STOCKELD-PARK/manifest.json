@@ -1,0 +1,49 @@
+{
+    "name": "WETHERBY-STOCKELD-PARK",
+    "data": {
+        "WETHERBY-STOCKELD-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-052.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-186.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-052.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-128.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-128.csv",
+                "start_date": "1959/04",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-128.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-128.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-128.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

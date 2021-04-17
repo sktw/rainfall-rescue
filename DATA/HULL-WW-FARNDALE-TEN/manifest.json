@@ -1,0 +1,231 @@
+{
+    "name": "HULL-WW-FARNDALE-TEN",
+    "data": {
+        "HULL-WW-FARNDALE-TEN.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-035.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1942/12",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1943/01",
+                "end_date": "1945/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1945/08",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1946/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1947/05",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1952/01",
+                "end_date": "1955/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1955/08",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1956/01",
+                "end_date": "1956/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1957/02",
+                "end_date": "1957/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1957/09",
+                "end_date": "1957/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1958/09",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1959/10",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "HULL-WW-FARNDALE-TEN.csv": [
+            {
+                "start_date": "1937/02",
+                "end_date": "1937/03"
+            },
+            {
+                "start_date": "1942/01",
+                "end_date": "1942/03"
+            },
+            {
+                "start_date": "1943/07",
+                "end_date": "1943/08"
+            },
+            {
+                "start_date": "1945/01",
+                "end_date": "1945/02"
+            },
+            {
+                "start_date": "1952/05",
+                "end_date": "1952/07"
+            },
+            {
+                "start_date": "1952/09",
+                "end_date": "1952/10"
+            },
+            {
+                "start_date": "1955/02",
+                "end_date": "1955/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1942/11",
+            "end_date": "1942/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1945/07",
+            "end_date": "1945/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-217.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1955/07",
+            "end_date": "1955/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1957/01",
+            "end_date": "1957/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1957/08",
+            "end_date": "1957/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1957/10",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1958/08",
+            "end_date": "1958/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1959/09",
+            "end_date": "1959/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-041.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

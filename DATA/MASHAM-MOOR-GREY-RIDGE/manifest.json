@@ -1,0 +1,94 @@
+{
+    "name": "MASHAM-MOOR-GREY-RIDGE",
+    "data": {
+        "MASHAM-MOOR-GREY-RIDGE.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-282.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1941/07",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1942/01",
+                "end_date": "1944/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1944/08",
+                "end_date": "1944/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-233.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-233.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-233.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+            "start_date": "1941/02",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+            "start_date": "1941/06",
+            "end_date": "1941/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+            "start_date": "1944/02",
+            "end_date": "1944/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-141.csv",
+            "start_date": "1944/09",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-233.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-233.csv",
+            "start_date": "1951/11",
+            "end_date": "1951/13"
+        }
+    ]
+}

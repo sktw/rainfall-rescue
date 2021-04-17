@@ -1,0 +1,132 @@
+{
+    "name": "TRECASTLE-BLAENAU-HYDFER",
+    "data": {
+        "TRECASTLE-BLAENAU-HYDFER.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-167.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-043.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-238.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-260.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-260.csv",
+                "start_date": "1922/07",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-260.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-104.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-104.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+                "start_date": "1943/10",
+                "end_date": "1943/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+                "start_date": "1943/12",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-270.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-270.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-270.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TRECASTLE-BLAENAU-HYDFER.csv": [
+            {
+                "start_date": "1949/04",
+                "end_date": "1949/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+            "start_date": "1943/08",
+            "end_date": "1943/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+            "start_date": "1943/11",
+            "end_date": "1943/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_26_pt1-page-070.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-260.csv",
+            "start_date": "1922/06",
+            "end_date": "1922/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_26_pt1-page-260.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-104.csv",
+            "start_date": "1933/12",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-270.csv",
+            "start_date": "1957/11",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-270.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

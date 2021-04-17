@@ -1,23 +1,6 @@
 {
     "name": "UPMINSTER",
     "data": {
-        "UPMINSTER-2.csv": [
-            {
-                "filename": "TYRain_1677-1886_A_pt1-page-107.csv",
-                "start_date": "1690/01",
-                "end_date": "1699/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
-                "start_date": "1700/01",
-                "end_date": "1709/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-111.csv",
-                "start_date": "1710/01",
-                "end_date": "1719/13"
-            }
-        ],
         "UPMINSTER.csv": [
             {
                 "filename": "TYRain_1677-1886_A_pt1-page-106.csv",
@@ -25,8 +8,33 @@
                 "end_date": "1699/13"
             },
             {
-                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
                 "start_date": "1700/01",
+                "end_date": "1704/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+                "start_date": "1705/01",
+                "end_date": "1705/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+                "start_date": "1706/01",
+                "end_date": "1706/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+                "start_date": "1706/13",
+                "end_date": "1708/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+                "start_date": "1709/01",
+                "end_date": "1709/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+                "start_date": "1709/13",
                 "end_date": "1709/13"
             },
             {
@@ -37,16 +45,6 @@
         ]
     },
     "idr": {
-        "UPMINSTER-2.csv": [
-            {
-                "start_date": "1704/04",
-                "end_date": "1704/04"
-            },
-            {
-                "start_date": "1712/13",
-                "end_date": "1712/13"
-            }
-        ],
         "UPMINSTER.csv": [
             {
                 "start_date": "1697/01",
@@ -73,11 +71,47 @@
                 "end_date": "1699/12"
             },
             {
-                "start_date": "1700/13",
-                "end_date": "1700/13"
+                "start_date": "1704/04",
+                "end_date": "1704/04"
             },
             {
-                "start_date": "1708/13",
+                "start_date": "1705/02",
+                "end_date": "1705/02"
+            },
+            {
+                "start_date": "1705/05",
+                "end_date": "1705/11"
+            },
+            {
+                "start_date": "1705/13",
+                "end_date": "1705/13"
+            },
+            {
+                "start_date": "1707/06",
+                "end_date": "1707/08"
+            },
+            {
+                "start_date": "1707/10",
+                "end_date": "1707/10"
+            },
+            {
+                "start_date": "1707/12",
+                "end_date": "1707/12"
+            },
+            {
+                "start_date": "1708/01",
+                "end_date": "1708/01"
+            },
+            {
+                "start_date": "1708/04",
+                "end_date": "1708/07"
+            },
+            {
+                "start_date": "1708/09",
+                "end_date": "1708/10"
+            },
+            {
+                "start_date": "1708/12",
                 "end_date": "1708/13"
             },
             {
@@ -113,5 +147,58 @@
                 "end_date": "1716/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+            "start_date": "1700/13",
+            "end_date": "1700/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+            "start_date": "1701/13",
+            "end_date": "1701/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+            "start_date": "1702/13",
+            "end_date": "1702/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+            "start_date": "1703/13",
+            "end_date": "1703/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-108.csv",
+            "start_date": "1704/13",
+            "end_date": "1704/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+            "start_date": "1705/01",
+            "end_date": "1705/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+            "start_date": "1706/13",
+            "end_date": "1706/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+            "start_date": "1707/05",
+            "end_date": "1708/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-109.csv",
+            "start_date": "1709/13",
+            "end_date": "1709/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-111.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-107.csv"
+        }
+    ]
 }

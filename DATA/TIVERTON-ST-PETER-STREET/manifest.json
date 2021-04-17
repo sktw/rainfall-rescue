@@ -1,0 +1,81 @@
+{
+    "name": "TIVERTON-ST-PETER-STREET",
+    "data": {
+        "TIVERTON-ST-PETER-STREET-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-083.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-111.csv",
+                "start_date": "1890/01",
+                "end_date": "1893/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-111.csv",
+                "start_date": "1893/08",
+                "end_date": "1893/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-111.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-042.csv",
+                "start_date": "1908/09",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-042.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-036.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-091.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ],
+        "TIVERTON-ST-PETER-STREET.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-101.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-111.csv",
+            "start_date": "1893/05",
+            "end_date": "1893/07"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-111.csv",
+            "start_date": "1893/13",
+            "end_date": "1893/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-042.csv",
+            "start_date": "1908/08",
+            "end_date": "1908/08"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-042.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        }
+    ]
+}

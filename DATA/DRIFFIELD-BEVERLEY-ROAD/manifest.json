@@ -1,0 +1,29 @@
+{
+    "name": "DRIFFIELD-BEVERLEY-ROAD",
+    "data": {
+        "DRIFFIELD-BEVERLEY-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-025.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "DRIFFIELD-BEVERLEY-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt1-page-024.csv",
+                "start_date": "1881/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-139.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-025.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/13"
+            }
+        ]
+    }
+}

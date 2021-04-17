@@ -1,0 +1,272 @@
+{
+    "name": "WESTEND-MOOR-BLACKLOW-COTE",
+    "data": {
+        "WESTEND-MOOR-BLACKLOW-COTE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1934/01",
+                "end_date": "1936/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1936/04",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1937/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1940/12",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-189.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-189.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-189.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1953/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1956/01",
+                "end_date": "1957/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1957/04",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1958/04",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1959/04",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/12"
+            }
+        ],
+        "WESTEND-MOOR-BLACKLOW-COTE.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_18_pt1-page-018.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+                "start_date": "1916/09",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+                "start_date": "1917/02",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-106.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTEND-MOOR-BLACKLOW-COTE.csv": [
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            },
+            {
+                "start_date": "1904/13",
+                "end_date": "1904/13"
+            },
+            {
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+            "start_date": "1916/08",
+            "end_date": "1916/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+            "start_date": "1916/13",
+            "end_date": "1917/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-061.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+            "start_date": "1936/02",
+            "end_date": "1936/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+            "start_date": "1940/11",
+            "end_date": "1940/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-101.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-189.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-189.csv",
+            "start_date": "1942/12",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1957/03",
+            "end_date": "1957/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1959/03",
+            "end_date": "1959/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-216.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

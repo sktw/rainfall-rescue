@@ -1,0 +1,107 @@
+{
+    "name": "GLENEDRA-ALTAGARRAN-MOUNTAIN",
+    "data": {
+        "GLENEDRA-ALTAGARRAN-MOUNTAIN.csv": [
+            {
+                "filename": "TYRain_1920-1930_38_pt1-page-048.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-280.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+                "start_date": "1944/04",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+                "start_date": "1945/05",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+                "start_date": "1952/03",
+                "end_date": "1952/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+                "start_date": "1952/06",
+                "end_date": "1952/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+                "start_date": "1952/08",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLENEDRA-ALTAGARRAN-MOUNTAIN.csv": [
+            {
+                "start_date": "1957/02",
+                "end_date": "1957/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+            "start_date": "1952/05",
+            "end_date": "1952/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+            "start_date": "1952/07",
+            "end_date": "1952/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_31_pt1-page-124.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+            "start_date": "1943/09",
+            "end_date": "1944/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+            "start_date": "1944/13",
+            "end_date": "1945/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_33_pt1-page-257.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

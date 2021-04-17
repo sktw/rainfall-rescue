@@ -1,0 +1,153 @@
+{
+    "name": "HAYFIELD-CLUTHER-ROCKS",
+    "data": {
+        "HAYFIELD-CLUTHER-ROCKS-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+                "start_date": "1940/05",
+                "end_date": "1940/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+                "start_date": "1940/10",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+                "start_date": "1941/06",
+                "end_date": "1941/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+                "start_date": "1941/11",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "HAYFIELD-CLUTHER-ROCKS.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-134.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-227.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-011.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-011.csv",
+                "start_date": "1925/12",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-011.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-295.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAYFIELD-CLUTHER-ROCKS.csv": [
+            {
+                "start_date": "1916/02",
+                "end_date": "1916/03"
+            },
+            {
+                "start_date": "1933/02",
+                "end_date": "1933/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_18_pt1-page-011.csv",
+            "start_date": "1925/11",
+            "end_date": "1925/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_18_pt1-page-011.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+            "start_date": "1940/04",
+            "end_date": "1940/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+            "start_date": "1940/09",
+            "end_date": "1940/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-296.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+            "start_date": "1941/03",
+            "end_date": "1941/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+            "start_date": "1941/10",
+            "end_date": "1941/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+            "start_date": "1941/12",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-094.csv",
+            "start_date": "1942/12",
+            "end_date": "1942/13"
+        }
+    ]
+}
