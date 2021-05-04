@@ -1,0 +1,57 @@
+{
+    "name": "LYNDHURST-CUFFNELLS",
+    "data": {
+        "LYNDHURST-CUFFNELLS.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_05_pt1-page-055.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_05_pt1-page-055.csv",
+                "start_date": "1891/02",
+                "end_date": "1891/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_05_pt1-page-055.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_05_pt1-page-203.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-075.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-095.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYNDHURST-CUFFNELLS.csv": [
+            {
+                "start_date": "1900/13",
+                "end_date": "1900/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_05_pt1-page-055.csv",
+            "start_date": "1891/01",
+            "end_date": "1891/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_05_pt1-page-055.csv",
+            "start_date": "1891/13",
+            "end_date": "1891/13"
+        }
+    ]
+}

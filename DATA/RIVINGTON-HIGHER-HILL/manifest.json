@@ -1,6 +1,18 @@
 {
     "name": "RIVINGTON-HIGHER-HILL",
     "data": {
+        "RIVINGTON-HIGHER-HILL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-188.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-009.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
         "RIVINGTON-HIGHER-HILL.csv": [
             {
                 "filename": "TYRain_1870-1879_07_pt4-page-080.csv",
@@ -26,6 +38,16 @@
                 "filename": "TYRain_1910-1919_18_pt1-page-178.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-177.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-286.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
             }
         ]
     }

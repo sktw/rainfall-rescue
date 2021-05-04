@@ -10,6 +10,16 @@
             {
                 "filename": "TYRain_1870-1879_06_pt3-page-070.csv",
                 "start_date": "1870/01",
+                "end_date": "1873/03"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-070.csv",
+                "start_date": "1873/05",
+                "end_date": "1873/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt3-page-070.csv",
+                "start_date": "1874/01",
                 "end_date": "1879/13"
             },
             {
@@ -72,6 +82,16 @@
             "filename": "ERROR_TYRain_1890-1899_13_pt1-page-212.csv",
             "start_date": "1891/13",
             "end_date": "1891/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_06_pt3-page-070.csv",
+            "start_date": "1873/04",
+            "end_date": "1873/04"
+        },
+        {
+            "filename": "TYRain_1870-1879_06_pt3-page-070.csv",
+            "start_date": "1873/13",
+            "end_date": "1873/13"
         }
     ]
 }

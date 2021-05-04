@@ -1,0 +1,57 @@
+{
+    "name": "WITHAM-WICKHAM-HALL",
+    "data": {
+        "WITHAM-WICKHAM-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-223.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-246.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-114.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-114.csv",
+                "start_date": "1943/04",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-114.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-019.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WITHAM-WICKHAM-HALL.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-114.csv",
+            "start_date": "1943/03",
+            "end_date": "1943/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-114.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

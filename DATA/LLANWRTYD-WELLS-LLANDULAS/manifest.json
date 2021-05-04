@@ -1,0 +1,199 @@
+{
+    "name": "LLANWRTYD-WELLS-LLANDULAS",
+    "data": {
+        "LLANWRTYD-WELLS-LLANDULAS-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-121.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1941/09",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1942/01",
+                "end_date": "1942/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1942/10",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1944/02",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1945/01",
+                "end_date": "1949/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1950/09",
+                "end_date": "1950/13"
+            }
+        ],
+        "LLANWRTYD-WELLS-LLANDULAS-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1945/11",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+                "start_date": "1946/02",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-290.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-290.csv",
+                "start_date": "1955/13",
+                "end_date": "1955/13"
+            }
+        ],
+        "LLANWRTYD-WELLS-LLANDULAS-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-290.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-290.csv",
+                "start_date": "1953/12",
+                "end_date": "1960/13"
+            }
+        ],
+        "LLANWRTYD-WELLS-LLANDULAS.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-224.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/07"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+                "start_date": "1903/09",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+                "start_date": "1904/01",
+                "end_date": "1908/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+                "start_date": "1908/10",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-284.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANWRTYD-WELLS-LLANDULAS-3.csv": [
+            {
+                "start_date": "1953/01",
+                "end_date": "1953/11"
+            }
+        ],
+        "LLANWRTYD-WELLS-LLANDULAS.csv": [
+            {
+                "start_date": "1909/10",
+                "end_date": "1909/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+            "start_date": "1903/08",
+            "end_date": "1903/08"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+            "start_date": "1908/09",
+            "end_date": "1908/09"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-060.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1941/08",
+            "end_date": "1941/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1942/09",
+            "end_date": "1942/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_26_pt1-page-085.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        }
+    ]
+}

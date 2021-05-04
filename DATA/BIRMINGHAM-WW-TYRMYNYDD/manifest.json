@@ -76,9 +76,39 @@
     "external": {
         "BIRMINGHAM-WW-TYRMYNYDD.csv": [
             {
-                "start_date": "1931/01",
-                "end_date": "1940/13",
-                "comment": "Readings from British Rainfall Reports"
+                "comment": "Data from British Rainfall 1931",
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1932",
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1933",
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1934",
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1935",
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1936",
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1937",
+                "start_date": "1937/13",
+                "end_date": "1940/13"
             }
         ]
     }

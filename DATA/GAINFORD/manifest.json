@@ -1,12 +1,7 @@
 {
     "name": "GAINFORD",
     "data": {
-        "GAINFORD.csv": [
-            {
-                "filename": "TYRain_1860-1869_05_pt2-page-008.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
+        "GAINFORD-2.csv": [
             {
                 "filename": "TYRain_1870-1879_09_pt1-page-013.csv",
                 "start_date": "1870/01",
@@ -16,6 +11,18 @@
                 "filename": "TYRain_1880-1889_11_pt3-page-011.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"
+            }
+        ],
+        "GAINFORD.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-008.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt1-page-008.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
             },
             {
                 "filename": "TYRain_1900-1909_22_pt1-page-166.csv",
@@ -46,10 +53,5 @@
                 "end_date": "1911/07"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1870-1879_09_pt1-page-008.csv"
-        }
-    ]
+    }
 }

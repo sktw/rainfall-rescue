@@ -1,0 +1,29 @@
+{
+    "name": "EASTRY-WALTON-HOUSE",
+    "data": {
+        "EASTRY-WALTON-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-224.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "EASTRY-WALTON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-011.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-037.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

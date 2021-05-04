@@ -50,12 +50,15 @@
             {
                 "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
                 "start_date": "1931/01",
-                "end_date": "1931/11"
-            },
-            {
-                "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
-                "start_date": "1932/01",
                 "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "DARTMOOR-SANATORIUM-CHAGFORD.csv": [
+            {
+                "start_date": "1931/12",
+                "end_date": "1931/12"
             }
         ]
     },
@@ -89,11 +92,6 @@
             "filename": "TYRain_1920-1930_11_pt1-page-042.csv",
             "start_date": "1927/13",
             "end_date": "1927/13"
-        },
-        {
-            "filename": "TYRain_1931-1940_11_pt1-page-083.csv",
-            "start_date": "1931/12",
-            "end_date": "1931/13"
         }
     ]
 }

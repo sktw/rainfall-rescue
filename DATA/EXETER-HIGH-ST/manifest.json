@@ -1,0 +1,106 @@
+{
+    "name": "EXETER-HIGH-ST",
+    "data": {
+        "EXETER-HIGH-ST-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-118.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-083.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/09"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-083.csv",
+                "start_date": "1875/11",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-083.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "EXETER-HIGH-ST.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-238.csv",
+                "start_date": "1850/01",
+                "end_date": "1855/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-237.csv",
+                "start_date": "1856/01",
+                "end_date": "1856/13"
+            },
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-238.csv",
+                "start_date": "1857/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-117.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/02"
+            },
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-117.csv",
+                "start_date": "1869/06",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-084.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/09"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-084.csv",
+                "start_date": "1875/11",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-084.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-237.csv",
+            "start_date": "1855/13",
+            "end_date": "1855/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-238.csv",
+            "start_date": "1856/04",
+            "end_date": "1856/12"
+        },
+        {
+            "filename": "TYRain_1860-1869_02_pt3-page-117.csv",
+            "start_date": "1869/03",
+            "end_date": "1869/05"
+        },
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-083.csv",
+            "start_date": "1875/10",
+            "end_date": "1875/10"
+        },
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-083.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-084.csv",
+            "start_date": "1875/10",
+            "end_date": "1875/10"
+        },
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-084.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "BRANDON-NORTH-COURT",
+    "data": {
+        "BRANDON-NORTH-COURT-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-279.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-188.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BRANDON-NORTH-COURT.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-152.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_09_pt1-page-284.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRANDON-NORTH-COURT.csv": [
+            {
+                "start_date": "1914/10",
+                "end_date": "1914/10"
+            }
+        ]
+    }
+}

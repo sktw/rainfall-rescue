@@ -57,7 +57,12 @@
             {
                 "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
                 "start_date": "1949/01",
-                "end_date": "1950/13"
+                "end_date": "1950/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+                "start_date": "1950/06",
+                "end_date": "1950/12"
             },
             {
                 "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
@@ -72,6 +77,16 @@
             {
                 "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
                 "start_date": "1952/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+                "start_date": "1954/01",
                 "end_date": "1960/13"
             }
         ],
@@ -128,6 +143,16 @@
             "end_date": "1948/13"
         },
         {
+            "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+            "start_date": "1950/05",
+            "end_date": "1950/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-238.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        },
+        {
             "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
             "start_date": "1951/10",
             "end_date": "1951/11"
@@ -136,6 +161,16 @@
             "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
             "start_date": "1951/13",
             "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-237.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
         }
     ]
 }

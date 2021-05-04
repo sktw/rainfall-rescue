@@ -1,0 +1,45 @@
+{
+    "name": "HAWESWATER-MARDALE-GREEN",
+    "data": {
+        "HAWESWATER-MARDALE-GREEN-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt5-page-023.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "HAWESWATER-MARDALE-GREEN-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt5-page-027.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "HAWESWATER-MARDALE-GREEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt4-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_11_pt5-page-026.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "HAWESWATER-MARDALE-GREEN-2.csv": [
+            {
+                "start_date": "1888/05",
+                "end_date": "1888/05"
+            }
+        ],
+        "HAWESWATER-MARDALE-GREEN.csv": [
+            {
+                "start_date": "1870/07",
+                "end_date": "1870/07"
+            }
+        ]
+    }
+}

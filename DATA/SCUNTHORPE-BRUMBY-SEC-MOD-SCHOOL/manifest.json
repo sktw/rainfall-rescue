@@ -1,0 +1,39 @@
+{
+    "name": "SCUNTHORPE-BRUMBY-SEC-MOD-SCHOOL",
+    "data": {
+        "SCUNTHORPE-BRUMBY-SEC-MOD-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-185.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-267.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-274.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-274.csv",
+                "start_date": "1952/01",
+                "end_date": "1954/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-274.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_15_pt1-page-274.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

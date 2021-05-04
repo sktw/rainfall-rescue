@@ -1,6 +1,13 @@
 {
     "name": "BOLLINGTON-SPONDS-HILL",
     "data": {
+        "BOLLINGTON-SPONDS-HILL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1840-1849_E_pt1-page-026.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ],
         "BOLLINGTON-SPONDS-HILL.csv": [
             {
                 "filename": "TYRain_1850-1859_F_pt1-page-093.csv",
@@ -45,6 +52,20 @@
         ]
     },
     "idr": {
+        "BOLLINGTON-SPONDS-HILL-2.csv": [
+            {
+                "start_date": "1847/01",
+                "end_date": "1847/02"
+            },
+            {
+                "start_date": "1847/04",
+                "end_date": "1847/09"
+            },
+            {
+                "start_date": "1847/11",
+                "end_date": "1847/13"
+            }
+        ],
         "BOLLINGTON-SPONDS-HILL.csv": [
             {
                 "start_date": "1868/04",

@@ -25,6 +25,11 @@
         ],
         "CARDIFF-WW-BEACONS-RES-3.csv": [
             {
+                "filename": "TYRain_1880-1889_13_pt1-page-123.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
                 "filename": "TYRain_1890-1899_19_pt1-page-181.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
@@ -135,9 +140,6 @@
             "filename": "ERROR_TYRain_1910-1919_23_pt1-page-191.csv",
             "start_date": "1919/13",
             "end_date": "1919/13"
-        },
-        {
-            "filename": "TYRain_1880-1889_13_pt1-page-123.csv"
         },
         {
             "filename": "TYRain_1931-1940_22_pt1-page-057.csv",

@@ -1,11 +1,21 @@
 {
     "name": "ST-KILDA",
     "data": {
+        "ST-KILDA-SEPARATE-1927-OBS.csv": [],
         "ST-KILDA.csv": [
             {
                 "filename": "TYRain_1951-1960_30_pt1-page-335.csv",
                 "start_date": "1951/01",
                 "end_date": "1960/13"
+            }
+        ]
+    },
+    "external": {
+        "ST-KILDA-SEPARATE-1927-OBS.csv": [
+            {
+                "filename": "met-mag-1927.jpg",
+                "start_date": "1927/05",
+                "end_date": "1927/08"
             }
         ]
     }

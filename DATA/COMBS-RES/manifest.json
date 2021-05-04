@@ -67,5 +67,59 @@
         {
             "filename": "TYRain_1677-1886_B_pt1-page-018.csv"
         }
-    ]
+    ],
+    "external": {
+        "COMBS-RES-2.csv": [
+            {
+                "comment": "Data from Symons British Rainfall 1870",
+                "start_date": "1870/13",
+                "end_date": "1870/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1871",
+                "start_date": "1871/13",
+                "end_date": "1871/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1872",
+                "start_date": "1872/13",
+                "end_date": "1872/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1873",
+                "start_date": "1873/13",
+                "end_date": "1873/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1874",
+                "start_date": "1874/13",
+                "end_date": "1874/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1875",
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1876",
+                "start_date": "1876/13",
+                "end_date": "1876/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1877",
+                "start_date": "1877/13",
+                "end_date": "1877/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1878",
+                "start_date": "1878/13",
+                "end_date": "1878/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1879",
+                "start_date": "1879/13",
+                "end_date": "1879/13"
+            }
+        ]
+    }
 }

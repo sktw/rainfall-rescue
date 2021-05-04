@@ -1,0 +1,46 @@
+{
+    "name": "LINCOLN-SESSIONS-HOUSE",
+    "data": {
+        "LINCOLN-SESSIONS-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-061.csv",
+                "start_date": "1928/10",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-061.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LINCOLN-SESSIONS-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-115.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-071.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-061.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-061.csv",
+            "start_date": "1928/09",
+            "end_date": "1928/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-061.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        }
+    ]
+}

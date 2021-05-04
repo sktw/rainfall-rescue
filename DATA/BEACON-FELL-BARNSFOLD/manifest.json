@@ -1,7 +1,7 @@
 {
     "name": "BEACON-FELL-BARNSFOLD",
     "data": {
-        "BEATON-FELL-BARNSFOLD-2.csv": [
+        "BEACON-FELL-BARNSFOLD-2.csv": [
             {
                 "filename": "TYRain_1880-1889_09_pt1-page-063.csv",
                 "start_date": "1880/01",
@@ -16,9 +16,14 @@
                 "filename": "TYRain_1900-1909_19_pt1-page-171.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-151.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
             }
         ],
-        "BEATON-FELL-BARNSFOLD.csv": [
+        "BEACON-FELL-BARNSFOLD.csv": [
             {
                 "filename": "TYRain_1880-1889_09_pt1-page-062.csv",
                 "start_date": "1880/01",
@@ -33,15 +38,12 @@
                 "filename": "TYRain_1900-1909_19_pt1-page-170.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-150.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1910-1919_18_pt1-page-150.csv"
-        },
-        {
-            "filename": "TYRain_1910-1919_18_pt1-page-151.csv"
-        }
-    ]
+    }
 }

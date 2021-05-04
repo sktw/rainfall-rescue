@@ -59,7 +59,12 @@
             {
                 "filename": "TYRain_1941-1950_17_pt1-page-240.csv",
                 "start_date": "1942/01",
-                "end_date": "1945/13"
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-240.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/12"
             }
         ],
         "SPILSBY.csv": [
@@ -105,6 +110,16 @@
             "filename": "TYRain_1941-1950_17_pt1-page-240.csv",
             "start_date": "1941/09",
             "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-240.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-240.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
         }
     ]
 }

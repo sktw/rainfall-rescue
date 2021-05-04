@@ -46,5 +46,59 @@
                 "end_date": "1915/09"
             }
         ]
+    },
+    "external": {
+        "KILLAMARSH-NORWOOD.csv": [
+            {
+                "comment": "Data from Symons British Rainfall 1860",
+                "start_date": "1860/13",
+                "end_date": "1860/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1861",
+                "start_date": "1861/13",
+                "end_date": "1861/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1862",
+                "start_date": "1862/13",
+                "end_date": "1862/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1863",
+                "start_date": "1863/13",
+                "end_date": "1863/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1864",
+                "start_date": "1864/13",
+                "end_date": "1864/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1865",
+                "start_date": "1865/13",
+                "end_date": "1865/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1866",
+                "start_date": "1866/13",
+                "end_date": "1866/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1867",
+                "start_date": "1867/13",
+                "end_date": "1867/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1868",
+                "start_date": "1868/13",
+                "end_date": "1868/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1869",
+                "start_date": "1869/13",
+                "end_date": "1869/13"
+            }
+        ]
     }
 }

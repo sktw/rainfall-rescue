@@ -52,6 +52,16 @@
             {
                 "filename": "TYRain_1941-1950_03_pt1-page-177.csv",
                 "start_date": "1941/01",
+                "end_date": "1944/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-177.csv",
+                "start_date": "1944/10",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-177.csv",
+                "start_date": "1945/01",
                 "end_date": "1950/13"
             },
             {
@@ -68,5 +78,17 @@
                 "end_date": "1916/07"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-177.csv",
+            "start_date": "1944/08",
+            "end_date": "1944/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-177.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        }
+    ]
 }

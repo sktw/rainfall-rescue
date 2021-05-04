@@ -1,0 +1,90 @@
+{
+    "name": "SOUTHEND-SOUTHCHURCH-BOULEVARD",
+    "data": {
+        "SOUTHEND-SOUTHCHURCH-BOULEVARD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-062.csv",
+                "start_date": "1919/10",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-188.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/10"
+            }
+        ],
+        "SOUTHEND-SOUTHCHURCH-BOULEVARD-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-188.csv",
+                "start_date": "1927/11",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-188.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-207.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-207.csv",
+                "start_date": "1940/06",
+                "end_date": "1940/13"
+            }
+        ],
+        "SOUTHEND-SOUTHCHURCH-BOULEVARD-4.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-207.csv",
+                "start_date": "1934/09",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-207.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-077.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-197.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SOUTHEND-SOUTHCHURCH-BOULEVARD.csv": [
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-090.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-062.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_09_pt1-page-062.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-188.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-207.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

@@ -21,6 +21,26 @@
             {
                 "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
                 "start_date": "1920/01",
+                "end_date": "1924/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+                "start_date": "1924/05",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+                "start_date": "1925/01",
+                "end_date": "1925/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+                "start_date": "1925/06",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+                "start_date": "1926/01",
                 "end_date": "1930/13"
             },
             {
@@ -40,6 +60,28 @@
             }
         ]
     },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+            "start_date": "1924/04",
+            "end_date": "1924/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+            "start_date": "1925/05",
+            "end_date": "1925/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-067.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ],
     "external": {
         "READING-UNIVERSITY-2.csv": [
             {

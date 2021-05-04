@@ -1,0 +1,42 @@
+{
+    "name": "RYDE-WEST-STREET",
+    "data": {
+        "RYDE-WEST-STREET.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_05_pt1-page-021.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-028.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-020.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "RYDE-WEST-STREET.csv": [
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            },
+            {
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    }
+}

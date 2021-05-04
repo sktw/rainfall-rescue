@@ -1,0 +1,30 @@
+{
+    "name": "OLD-LEAKE-LEVERTON",
+    "data": {
+        "OLD-LEAKE-LEVERTON.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-114.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-199.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_15_pt1-page-200.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "OLD-LEAKE-LEVERTON.csv": [
+            {
+                "start_date": "1956/13",
+                "end_date": "1956/13"
+            }
+        ]
+    }
+}

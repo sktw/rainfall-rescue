@@ -1,0 +1,96 @@
+{
+    "name": "GOUDHURST-VICARAGE",
+    "data": {
+        "GOUDHURST-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-063.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/06"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-063.csv",
+                "start_date": "1878/08",
+                "end_date": "1878/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-063.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-078.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/07"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-078.csv",
+                "start_date": "1885/10",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-078.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-082.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/08"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-082.csv",
+                "start_date": "1897/11",
+                "end_date": "1897/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-082.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-006.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "GOUDHURST-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-035.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_01_pt3-page-063.csv",
+            "start_date": "1878/07",
+            "end_date": "1878/07"
+        },
+        {
+            "filename": "TYRain_1870-1879_01_pt3-page-063.csv",
+            "start_date": "1878/13",
+            "end_date": "1878/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_02_pt1-page-078.csv",
+            "start_date": "1885/08",
+            "end_date": "1885/09"
+        },
+        {
+            "filename": "TYRain_1880-1889_02_pt1-page-078.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_03_pt1-page-082.csv",
+            "start_date": "1897/09",
+            "end_date": "1897/10"
+        },
+        {
+            "filename": "TYRain_1890-1899_03_pt1-page-082.csv",
+            "start_date": "1897/13",
+            "end_date": "1897/13"
+        }
+    ]
+}

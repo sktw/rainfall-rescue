@@ -89,52 +89,52 @@
     "external": {
         "KEITH-STATION.csv": [
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1880",
                 "start_date": "1880/13",
                 "end_date": "1880/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1881",
                 "start_date": "1881/13",
                 "end_date": "1881/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1882",
                 "start_date": "1882/13",
                 "end_date": "1882/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1883",
                 "start_date": "1883/13",
                 "end_date": "1883/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1884",
                 "start_date": "1884/13",
                 "end_date": "1884/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1885",
                 "start_date": "1885/13",
                 "end_date": "1885/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1886",
                 "start_date": "1886/13",
                 "end_date": "1886/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1887",
                 "start_date": "1887/13",
                 "end_date": "1887/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1888",
                 "start_date": "1888/13",
                 "end_date": "1888/13"
             },
             {
-                "filename": "Symons British Rainfall 1880",
+                "comment": "Data from Symons British Rainfall 1889",
                 "start_date": "1889/13",
                 "end_date": "1889/13"
             }

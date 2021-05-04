@@ -1,0 +1,82 @@
+{
+    "name": "LEYBURN-OVERDALE",
+    "data": {
+        "LEYBURN-OVERDALE.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-302.csv",
+                "start_date": "1935/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-302.csv",
+                "start_date": "1936/05",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-302.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-158.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+                "start_date": "1951/05",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+                "start_date": "1952/01",
+                "end_date": "1954/13"
+            }
+        ]
+    },
+    "idr": {
+        "LEYBURN-OVERDALE.csv": [
+            {
+                "start_date": "1950/01",
+                "end_date": "1950/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-302.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-302.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+            "start_date": "1951/02",
+            "end_date": "1951/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-250.csv",
+            "start_date": "1951/11",
+            "end_date": "1951/13"
+        }
+    ]
+}

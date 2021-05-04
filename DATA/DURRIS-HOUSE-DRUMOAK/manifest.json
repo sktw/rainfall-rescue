@@ -18,5 +18,29 @@
                 "end_date": "1919/13"
             }
         ]
+    },
+    "external": {
+        "DURRIS-HOUSE-DRUMOAK.csv": [
+            {
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            }
+        ]
     }
 }

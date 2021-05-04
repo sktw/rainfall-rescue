@@ -4,7 +4,7 @@
         "YORK-BOOTHAM.csv": [
             {
                 "filename": "ERROR_TYRain_1820-1829_C_pt2-page-053.csv",
-                "start_date": "1830/01",
+                "start_date": "1831/01",
                 "end_date": "1839/13"
             },
             {
@@ -57,6 +57,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt2-page-053.csv",
+            "start_date": "1830/13",
+            "end_date": "1830/13"
+        },
         {
             "filename": "TYRain_1890-1899_16_pt1-page-109.csv",
             "start_date": "1891/07",

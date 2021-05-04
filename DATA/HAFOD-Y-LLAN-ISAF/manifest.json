@@ -100,7 +100,7 @@
             },
             {
                 "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
-                "start_date": "1912/01",
+                "start_date": "1912/13",
                 "end_date": "1913/02"
             },
             {
@@ -136,12 +136,6 @@
                 "start_date": "1924/12",
                 "end_date": "1924/12"
             }
-        ],
-        "HAFOD-Y-LLAN-ISAF.csv": [
-            {
-                "start_date": "1912/13",
-                "end_date": "1912/13"
-            }
         ]
     },
     "unused": [
@@ -158,7 +152,7 @@
         {
             "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",
             "start_date": "1911/13",
-            "end_date": "1911/13"
+            "end_date": "1912/12"
         },
         {
             "filename": "ERROR_TYRain_1910-1919_24_pt1-page-127.csv",

@@ -15,11 +15,31 @@
             {
                 "filename": "TYRain_1880-1889_06_pt2-page-006.csv",
                 "start_date": "1880/01",
+                "end_date": "1886/01"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-006.csv",
+                "start_date": "1886/03",
+                "end_date": "1888/11"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-006.csv",
+                "start_date": "1888/13",
                 "end_date": "1889/13"
             },
             {
                 "filename": "TYRain_1890-1899_11_pt1-page-006.csv",
                 "start_date": "1890/01",
+                "end_date": "1897/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-006.csv",
+                "start_date": "1898/06",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-006.csv",
+                "start_date": "1899/01",
                 "end_date": "1899/13"
             },
             {
@@ -53,5 +73,27 @@
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_06_pt2-page-006.csv",
+            "start_date": "1886/02",
+            "end_date": "1886/02"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt2-page-006.csv",
+            "start_date": "1888/12",
+            "end_date": "1888/12"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-006.csv",
+            "start_date": "1898/01",
+            "end_date": "1898/05"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-006.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        }
+    ]
 }

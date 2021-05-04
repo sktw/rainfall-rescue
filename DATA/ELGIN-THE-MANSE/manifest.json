@@ -1,0 +1,54 @@
+{
+    "name": "ELGIN-THE-MANSE",
+    "data": {
+        "ELGIN-THE-MANSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-227.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-105.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+                "start_date": "1921/03",
+                "end_date": "1921/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+                "start_date": "1921/10",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+            "start_date": "1921/02",
+            "end_date": "1921/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+            "start_date": "1921/09",
+            "end_date": "1921/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-095.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

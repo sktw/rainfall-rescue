@@ -3,6 +3,11 @@
     "data": {
         "BATHGATE-NORTHBANK-FILTERS.csv": [
             {
+                "filename": "TYRain_1900-1909_27_pt1-page-205.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
                 "filename": "TYRain_1910-1919_26_pt1-page-017.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
@@ -28,10 +33,5 @@
                 "end_date": "1960/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1900-1909_27_pt1-page-205.csv"
-        }
-    ]
+    }
 }

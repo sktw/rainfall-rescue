@@ -1,0 +1,61 @@
+{
+    "name": "BRECON-CANTREFF-RECTORY",
+    "data": {
+        "BRECON-CANTREFF-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-207.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-075.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BRECON-CANTREFF-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt1-page-099.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt1-page-099.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-135.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-204.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-090.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-090.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_10_pt1-page-099.csv",
+            "start_date": "1878/13",
+            "end_date": "1878/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-090.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "ST-CATHERINES-POINT-LIGHTHOUSE",
+    "data": {
+        "ST-CATHERINES-POINT-LIGHTHOUSE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+                "start_date": "1951/07",
+                "end_date": "1951/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+                "start_date": "1951/11",
+                "end_date": "1951/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ST-CATHERINES-POINT-LIGHTHOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-002.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-003.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-003.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/05"
+            }
+        ]
+    },
+    "idr": {
+        "ST-CATHERINES-POINT-LIGHTHOUSE.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-002.csv",
+            "start_date": "1920/01",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+            "start_date": "1951/06",
+            "end_date": "1951/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+            "start_date": "1951/09",
+            "end_date": "1951/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_03_pt1-page-221.csv",
+            "start_date": "1951/12",
+            "end_date": "1951/13"
+        }
+    ]
+}

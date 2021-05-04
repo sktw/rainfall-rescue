@@ -1,0 +1,22 @@
+{
+    "name": "STANWICK-PARK-DARLINGTON",
+    "data": {
+        "STANWICK-PARK-DARLINGTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-212.csv",
+                "start_date": "1891/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_22_pt1-page-048.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/13"
+            }
+        ]
+    }
+}

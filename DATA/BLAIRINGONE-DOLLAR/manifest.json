@@ -37,6 +37,10 @@
     "idr": {
         "BLAIRINGONE-DOLLAR.csv": [
             {
+                "start_date": "1889/03",
+                "end_date": "1889/03"
+            },
+            {
                 "start_date": "1919/12",
                 "end_date": "1919/12"
             }

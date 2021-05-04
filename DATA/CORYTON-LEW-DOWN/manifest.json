@@ -1,0 +1,165 @@
+{
+    "name": "CORYTON-LEW-DOWN",
+    "data": {
+        "CORYTON-LEW-DOWN-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-025.csv",
+                "start_date": "1874/08",
+                "end_date": "1874/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-025.csv",
+                "start_date": "1875/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-021.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-033.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/02"
+            }
+        ],
+        "CORYTON-LEW-DOWN-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-033.csv",
+                "start_date": "1897/04",
+                "end_date": "1897/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-033.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-103.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "CORYTON-LEW-DOWN-4.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-104.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-174.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CORYTON-LEW-DOWN-5.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-175.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-175.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-175.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-181.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_10_pt1-page-252.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-037.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_10_pt1-page-085.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CORYTON-LEW-DOWN.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-071.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-025.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/07"
+            }
+        ]
+    },
+    "idr": {
+        "CORYTON-LEW-DOWN-5.csv": [
+            {
+                "start_date": "1915/02",
+                "end_date": "1915/02"
+            },
+            {
+                "start_date": "1937/02",
+                "end_date": "1937/02"
+            },
+            {
+                "start_date": "1939/03",
+                "end_date": "1939/03"
+            },
+            {
+                "start_date": "1955/07",
+                "end_date": "1955/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_11_pt1-page-175.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_11_pt1-page-175.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-025.csv",
+            "start_date": "1874/13",
+            "end_date": "1874/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-033.csv",
+            "start_date": "1897/03",
+            "end_date": "1897/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-033.csv",
+            "start_date": "1897/13",
+            "end_date": "1897/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_11_pt1-page-102.csv"
+        },
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-174.csv",
+            "start_date": "1911/12",
+            "end_date": "1911/13"
+        }
+    ]
+}

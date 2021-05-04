@@ -1,0 +1,37 @@
+{
+    "name": "BRIGHTON-CAMBRIDGE-ROAD",
+    "data": {
+        "BRIGHTON-CAMBRIDGE-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt2-page-113.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt1-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRIGHTON-CAMBRIDGE-ROAD.csv": [
+            {
+                "start_date": "1864/06",
+                "end_date": "1864/06"
+            },
+            {
+                "start_date": "1865/13",
+                "end_date": "1865/13"
+            },
+            {
+                "start_date": "1868/10",
+                "end_date": "1868/10"
+            },
+            {
+                "start_date": "1871/08",
+                "end_date": "1871/08"
+            }
+        ]
+    }
+}

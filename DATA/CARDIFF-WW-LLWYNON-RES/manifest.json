@@ -86,5 +86,59 @@
             "start_date": "1929/04",
             "end_date": "1930/13"
         }
-    ]
+    ],
+    "external": {
+        "CARDIFF-WW-LLWYNON-RES.csv": [
+            {
+                "comment": "Data from British Rainfall 1910",
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1911",
+                "start_date": "1911/13",
+                "end_date": "1911/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1912",
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1913",
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1914",
+                "start_date": "1914/13",
+                "end_date": "1914/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1915",
+                "start_date": "1915/13",
+                "end_date": "1915/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1916",
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1917",
+                "start_date": "1917/13",
+                "end_date": "1917/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1918",
+                "start_date": "1918/13",
+                "end_date": "1918/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1919",
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    }
 }

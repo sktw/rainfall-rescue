@@ -1,6 +1,28 @@
 {
     "name": "BRAEMORE-LOCH-DROMA",
     "data": {
+        "BRAEMORE-LOCH-DROMA-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
+                "start_date": "1946/08",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-058.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "BRAEMORE-LOCH-DROMA.csv": [
             {
                 "filename": "TYRain_1860-1869_08_pt1-page-092.csv",
@@ -41,31 +63,11 @@
                 "filename": "TYRain_1931-1940_27_pt1-page-141.csv",
                 "start_date": "1931/01",
                 "end_date": "1940/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
-                "start_date": "1941/01",
-                "end_date": "1945/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
-                "start_date": "1946/08",
-                "end_date": "1946/12"
-            },
-            {
-                "filename": "ERROR_TYRain_1941-1950_32_pt1-page-156.csv",
-                "start_date": "1947/01",
-                "end_date": "1950/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-058.csv",
-                "start_date": "1951/01",
-                "end_date": "1960/13"
             }
         ]
     },
     "idr": {
-        "BRAEMORE-LOCH-DROMA.csv": [
+        "BRAEMORE-LOCH-DROMA-2.csv": [
             {
                 "start_date": "1959/01",
                 "end_date": "1959/01"

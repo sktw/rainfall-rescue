@@ -1,25 +1,10 @@
 {
     "name": "SWINDON-WROUGHTON",
     "data": {
-        "SWINDON-WROUGHTON.csv": [
-            {
-                "filename": "TYRain_1890-1899_09_pt1-page-077.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_10_pt1-page-106.csv",
-                "start_date": "1900/01",
-                "end_date": "1906/13"
-            },
+        "SWINDON-WROUGHTON-2.csv": [
             {
                 "filename": "ERROR_TYRain_1900-1909_10_pt1-page-107.csv",
-                "start_date": "1907/01",
-                "end_date": "1907/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_10_pt1-page-106.csv",
-                "start_date": "1908/01",
+                "start_date": "1900/01",
                 "end_date": "1909/13"
             },
             {
@@ -52,10 +37,22 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "SWINDON-WROUGHTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-077.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-106.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
         ]
     },
     "idr": {
-        "SWINDON-WROUGHTON.csv": [
+        "SWINDON-WROUGHTON-2.csv": [
             {
                 "start_date": "1907/13",
                 "end_date": "1907/13"

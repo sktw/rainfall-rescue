@@ -27,16 +27,6 @@
             {
                 "filename": "ERROR_TYRain_1890-1899_25_pt1-page-045.csv",
                 "start_date": "1890/01",
-                "end_date": "1892/02"
-            },
-            {
-                "filename": "ERROR_TYRain_1890-1899_25_pt1-page-045.csv",
-                "start_date": "1892/04",
-                "end_date": "1892/12"
-            },
-            {
-                "filename": "ERROR_TYRain_1890-1899_25_pt1-page-045.csv",
-                "start_date": "1893/01",
                 "end_date": "1899/13"
             },
             {
@@ -64,6 +54,10 @@
     "idr": {
         "OCHTERTYRE-STIRLING.csv": [
             {
+                "start_date": "1892/03",
+                "end_date": "1892/03"
+            },
+            {
                 "start_date": "1899/13",
                 "end_date": "1899/13"
             },
@@ -74,16 +68,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "ERROR_TYRain_1890-1899_25_pt1-page-045.csv",
-            "start_date": "1892/03",
-            "end_date": "1892/03"
-        },
-        {
-            "filename": "ERROR_TYRain_1890-1899_25_pt1-page-045.csv",
-            "start_date": "1892/13",
-            "end_date": "1892/13"
-        },
         {
             "filename": "ERROR_TYRain_1941-1950_30_pt1-page-256.csv",
             "start_date": "1942/01",

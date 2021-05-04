@@ -35,6 +35,16 @@
             {
                 "filename": "TYRain_1931-1940_22_pt1-page-214.csv",
                 "start_date": "1931/01",
+                "end_date": "1937/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-214.csv",
+                "start_date": "1937/04",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-214.csv",
+                "start_date": "1938/01",
                 "end_date": "1940/13"
             },
             {
@@ -45,8 +55,47 @@
             {
                 "filename": "TYRain_1951-1960_24_pt1-page-062.csv",
                 "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1960/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-062.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/12"
             }
         ]
-    }
+    },
+    "idr": {
+        "GLASGWM-TYN-Y-FFRIDD.csv": [
+            {
+                "start_date": "1947/02",
+                "end_date": "1947/03"
+            },
+            {
+                "start_date": "1951/11",
+                "end_date": "1951/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-214.csv",
+            "start_date": "1937/02",
+            "end_date": "1937/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-214.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-062.csv",
+            "start_date": "1960/02",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-062.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
 }

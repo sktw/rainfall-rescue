@@ -23,7 +23,12 @@
         "WOLVERHAMPTON-TETTENHALL-4.csv": [
             {
                 "filename": "TYRain_1890-1899_12_pt1-page-117.csv",
-                "start_date": "1890/01",
+                "start_date": "1894/02",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-117.csv",
+                "start_date": "1895/01",
                 "end_date": "1899/13"
             },
             {
@@ -68,6 +73,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1890-1899_12_pt1-page-117.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        },
         {
             "filename": "TYRain_1900-1909_16_pt1-page-141.csv",
             "start_date": "1901/10",

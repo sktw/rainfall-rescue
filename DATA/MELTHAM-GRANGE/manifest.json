@@ -1,20 +1,10 @@
 {
     "name": "MELTHAM-GRANGE",
     "data": {
-        "MELTHAM-GRANGE.csv": [
-            {
-                "filename": "TYRain_1860-1869_05_pt1-page-054.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
-            {
-                "filename": "TYRain_1870-1879_08_pt1-page-064.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/13"
-            },
+        "MELTHAM-GRANGE-2.csv": [
             {
                 "filename": "TYRain_1880-1889_10_pt1-page-111.csv",
-                "start_date": "1880/01",
+                "start_date": "1885/01",
                 "end_date": "1889/13"
             },
             {
@@ -52,10 +42,27 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "MELTHAM-GRANGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-054.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-064.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-111.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/13"
+            }
         ]
     },
     "idr": {
-        "MELTHAM-GRANGE.csv": [
+        "MELTHAM-GRANGE-2.csv": [
             {
                 "start_date": "1920/02",
                 "end_date": "1920/02"

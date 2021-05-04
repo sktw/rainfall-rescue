@@ -1,0 +1,20 @@
+{
+    "name": "BRISTOL",
+    "data": {
+        "BRISTOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-129.csv",
+                "start_date": "1770/01",
+                "end_date": "1779/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRISTOL.csv": [
+            {
+                "start_date": "1777/06",
+                "end_date": "1777/06"
+            }
+        ]
+    }
+}

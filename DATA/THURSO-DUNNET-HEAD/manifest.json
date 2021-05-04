@@ -77,6 +77,10 @@
     "idr": {
         "THURSO-DUNNET-HEAD.csv": [
             {
+                "start_date": "1858/02",
+                "end_date": "1858/02"
+            },
+            {
                 "start_date": "1954/10",
                 "end_date": "1954/10"
             }

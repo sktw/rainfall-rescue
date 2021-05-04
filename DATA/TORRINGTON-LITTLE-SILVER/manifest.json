@@ -1,0 +1,81 @@
+{
+    "name": "TORRINGTON-LITTLE-SILVER",
+    "data": {
+        "TORRINGTON-LITTLE-SILVER-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-132.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-161.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-137.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "TORRINGTON-LITTLE-SILVER.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-022.csv",
+                "start_date": "1870/01",
+                "end_date": "1876/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-022.csv",
+                "start_date": "1877/02",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt4-page-022.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-133.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-162.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-162.csv",
+                "start_date": "1892/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-139.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-140.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt4-page-022.csv",
+            "start_date": "1877/01",
+            "end_date": "1877/01"
+        },
+        {
+            "filename": "TYRain_1870-1879_03_pt4-page-022.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-162.csv",
+            "start_date": "1891/01",
+            "end_date": "1891/13"
+        }
+    ]
+}

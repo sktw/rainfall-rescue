@@ -40,6 +40,11 @@
                 "end_date": "1899/13"
             },
             {
+                "filename": "ERROR_TYRain_1900-1909_25_pt1-page-116.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
                 "filename": "TYRain_1910-1919_23_pt1-page-198.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
@@ -203,35 +208,103 @@
                 "filename": "TYRain_1890-1899_19_pt1-page-192.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+                "start_date": "1904/01",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+                "start_date": "1906/03",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+                "start_date": "1911/10",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+                "start_date": "1912/01",
+                "end_date": "1912/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-225.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-228.csv",
+                "start_date": "1926/08",
+                "end_date": "1926/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-227.csv",
+                "start_date": "1926/11",
+                "end_date": "1926/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-226.csv",
+                "start_date": "1928/08",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-225.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-17.csv": [
             {
-                "filename": "TYRain_1890-1899_19_pt1-page-175.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
+                "filename": "TYRain_1910-1919_23_pt1-page-199.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-225.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/13"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-18.csv": [
             {
-                "filename": "TYRain_1900-1909_25_pt1-page-131.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
-            }
-        ],
-        "TAFF-FECHAN-NEUADD-RES-19.csv": [
-            {
-                "filename": "TYRain_1890-1899_19_pt1-page-180.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_25_pt1-page-135.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-229.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-128.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
             {
                 "filename": "TYRain_1890-1899_19_pt1-page-185.csv",
                 "start_date": "1890/01",
@@ -253,20 +326,6 @@
                 "end_date": "1930/13"
             }
         ],
-        "TAFF-FECHAN-NEUADD-RES-20.csv": [
-            {
-                "filename": "TYRain_1910-1919_23_pt1-page-199.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            }
-        ],
-        "TAFF-FECHAN-NEUADD-RES-21.csv": [
-            {
-                "filename": "TYRain_1880-1889_13_pt1-page-128.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            }
-        ],
         "TAFF-FECHAN-NEUADD-RES-3.csv": [
             {
                 "filename": "TYRain_1920-1930_26_pt1-page-215.csv",
@@ -286,7 +345,7 @@
             {
                 "filename": "ERROR_TYRain_1951-1960_23_pt1-page-229.csv",
                 "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1958/13"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-4.csv": [
@@ -362,6 +421,16 @@
             {
                 "filename": "ERROR_TYRain_1920-1930_26_pt1-page-221.csv",
                 "start_date": "1920/01",
+                "end_date": "1927/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-224.csv",
+                "start_date": "1927/03",
+                "end_date": "1927/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_26_pt1-page-221.csv",
+                "start_date": "1927/05",
                 "end_date": "1930/13"
             },
             {
@@ -511,32 +580,44 @@
                 "end_date": "1959/04"
             }
         ],
+        "TAFF-FECHAN-NEUADD-RES-11.csv": [
+            {
+                "start_date": "1908/03",
+                "end_date": "1908/03"
+            }
+        ],
         "TAFF-FECHAN-NEUADD-RES-13.csv": [
             {
                 "start_date": "1934/09",
                 "end_date": "1934/09"
             }
         ],
+        "TAFF-FECHAN-NEUADD-RES-16.csv": [
+            {
+                "start_date": "1920/01",
+                "end_date": "1920/03"
+            },
+            {
+                "start_date": "1928/09",
+                "end_date": "1928/13"
+            }
+        ],
+        "TAFF-FECHAN-NEUADD-RES-18.csv": [
+            {
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            }
+        ],
         "TAFF-FECHAN-NEUADD-RES-3.csv": [
             {
                 "start_date": "1931/09",
                 "end_date": "1931/09"
-            },
-            {
-                "start_date": "1959/09",
-                "end_date": "1959/09"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-4.csv": [
             {
                 "start_date": "1919/07",
                 "end_date": "1919/07"
-            }
-        ],
-        "TAFF-FECHAN-NEUADD-RES-6.csv": [
-            {
-                "start_date": "1927/03",
-                "end_date": "1927/04"
             }
         ],
         "TAFF-FECHAN-NEUADD-RES-7.csv": [
@@ -555,5 +636,50 @@
                 "end_date": "1959/01"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_26_pt1-page-221.csv",
+            "start_date": "1927/03",
+            "end_date": "1927/04"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-117.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+            "start_date": "1903/01",
+            "end_date": "1903/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+            "start_date": "1906/01",
+            "end_date": "1906/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_25_pt1-page-124.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+            "start_date": "1911/09",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+            "start_date": "1912/10",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_23_pt1-page-206.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        }
+    ]
 }

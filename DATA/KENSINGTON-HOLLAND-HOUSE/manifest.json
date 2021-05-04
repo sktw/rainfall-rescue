@@ -40,8 +40,20 @@
             {
                 "filename": "TYRain_1951-1960_01_pt1-page-027.csv",
                 "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-027.csv",
+                "start_date": "1953/01",
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-027.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/13"
+        }
+    ]
 }

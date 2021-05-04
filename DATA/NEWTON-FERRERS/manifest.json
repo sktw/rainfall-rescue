@@ -1,7 +1,7 @@
 {
     "name": "NEWTON-FERRERS",
     "data": {
-        "NEWTON-FERRERS-2.csv": [
+        "NEWTON-FERRERS.csv": [
             {
                 "filename": "TYRain_1880-1889_05_pt4-page-030.csv",
                 "start_date": "1880/01",
@@ -27,8 +27,7 @@
                 "start_date": "1915/01",
                 "end_date": "1919/13"
             }
-        ],
-        "NEWTON-FERRERS.csv": []
+        ]
     },
     "unused": [
         {

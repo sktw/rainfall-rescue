@@ -1,0 +1,39 @@
+{
+    "name": "STIRCH-FARM-PRIORS-MARSTON",
+    "data": {
+        "STIRCH-FARM-PRIORS-MARSTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-088.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-067.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-067.csv",
+                "start_date": "1875/11",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-067.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_06_pt2-page-067.csv",
+            "start_date": "1875/09",
+            "end_date": "1875/10"
+        },
+        {
+            "filename": "TYRain_1870-1879_06_pt2-page-067.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        }
+    ]
+}

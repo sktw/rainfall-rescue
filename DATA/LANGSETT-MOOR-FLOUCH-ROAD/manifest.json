@@ -3,6 +3,16 @@
     "data": {
         "LANGSETT-MOOR-FLOUCH-ROAD.csv": [
             {
+                "filename": "TYRain_1890-1899_17_pt1-page-003.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-132.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
                 "filename": "ERROR_TYRain_1910-1919_19_pt1-page-137.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
@@ -40,13 +50,5 @@
                 "end_date": "1951/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1890-1899_17_pt1-page-003.csv"
-        },
-        {
-            "filename": "TYRain_1900-1909_20_pt1-page-132.csv"
-        }
-    ]
+    }
 }

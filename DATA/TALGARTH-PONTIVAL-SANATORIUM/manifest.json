@@ -37,8 +37,15 @@
             {
                 "filename": "TYRain_1931-1940_22_pt1-page-119.csv",
                 "start_date": "1931/01",
-                "end_date": "1939/07"
+                "end_date": "1938/07"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-119.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
 }

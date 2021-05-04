@@ -1,0 +1,48 @@
+{
+    "name": "SIDMOUTH-MIX",
+    "data": {
+        "SIDMOUTH-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-112.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "SIDMOUTH-MIX-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-136.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-114.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "SIDMOUTH-MIX-4.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-134.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-111.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "SIDMOUTH-MIX.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt3-page-135.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-113.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

@@ -10,8 +10,30 @@
             {
                 "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
                 "start_date": "1870/01",
+                "end_date": "1870/09"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
+                "start_date": "1870/11",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
+                "start_date": "1871/01",
                 "end_date": "1872/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
+            "start_date": "1870/10",
+            "end_date": "1870/10"
+        },
+        {
+            "filename": "TYRain_1870-1879_08_pt2-page-008.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        }
+    ]
 }

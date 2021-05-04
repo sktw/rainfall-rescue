@@ -1,0 +1,82 @@
+{
+    "name": "WITTERING-BONE-MILL",
+    "data": {
+        "WITTERING-BONE-MILL.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-318.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-314.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_08_pt1-page-233.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+                "start_date": "1955/03",
+                "end_date": "1955/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+                "start_date": "1955/06",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+                "start_date": "1956/01",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WITTERING-BONE-MILL.csv": [
+            {
+                "start_date": "1946/08",
+                "end_date": "1946/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-318.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+            "start_date": "1955/05",
+            "end_date": "1955/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-144.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

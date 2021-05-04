@@ -1,0 +1,176 @@
+{
+    "name": "SOUTH-BRENT-DIDWORTHY",
+    "data": {
+        "SOUTH-BRENT-DIDWORTHY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+                "start_date": "1930/12",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-281.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-281.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-281.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1941/06",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1942/01",
+                "end_date": "1943/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1943/07",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1944/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1946/01",
+                "end_date": "1948/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1948/04",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-104.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SOUTH-BRENT-DIDWORTHY.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-175.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-204.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+            "start_date": "1930/11",
+            "end_date": "1930/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-213.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-281.csv",
+            "start_date": "1932/10",
+            "end_date": "1933/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-281.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1941/03",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1941/05",
+            "end_date": "1941/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1941/12",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1943/05",
+            "end_date": "1943/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1945/11",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1948/03",
+            "end_date": "1948/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-063.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "DUNDEE-WESTFIELD-COTTAGE",
+    "data": {
+        "DUNDEE-WESTFIELD-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-156.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_12_pt2-page-007.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-185.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUNDEE-WESTFIELD-COTTAGE.csv": [
+            {
+                "start_date": "1872/03",
+                "end_date": "1872/03"
+            }
+        ]
+    }
+}

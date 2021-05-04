@@ -1,0 +1,169 @@
+{
+    "name": "BRIGHSTONE-PITT-PLACE",
+    "data": {
+        "BRIGHSTONE-PITT-PLACE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1926/01",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1929/02",
+                "end_date": "1929/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1929/07",
+                "end_date": "1929/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-012.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-012.csv",
+                "start_date": "1934/03",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-012.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-010.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-010.csv",
+                "start_date": "1950/12",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/13"
+            }
+        ],
+        "BRIGHSTONE-PITT-PLACE-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+                "start_date": "1951/10",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+                "start_date": "1952/01",
+                "end_date": "1958/13"
+            }
+        ],
+        "BRIGHSTONE-PITT-PLACE-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BRIGHSTONE-PITT-PLACE.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-008.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+                "start_date": "1926/01",
+                "end_date": "1926/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRIGHSTONE-PITT-PLACE-2.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ],
+        "BRIGHSTONE-PITT-PLACE-4.csv": [
+            {
+                "start_date": "1959/03",
+                "end_date": "1959/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+            "start_date": "1925/01",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+            "start_date": "1929/01",
+            "end_date": "1929/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+            "start_date": "1929/05",
+            "end_date": "1929/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_05_pt1-page-014.csv",
+            "start_date": "1929/11",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_05_pt1-page-012.csv",
+            "start_date": "1934/02",
+            "end_date": "1934/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_05_pt1-page-012.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+            "start_date": "1951/09",
+            "end_date": "1951/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_03_pt1-page-229.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-010.csv",
+            "start_date": "1950/11",
+            "end_date": "1950/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_05_pt1-page-010.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

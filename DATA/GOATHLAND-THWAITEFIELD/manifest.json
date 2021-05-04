@@ -1,0 +1,47 @@
+{
+    "name": "GOATHLAND-THWAITEFIELD",
+    "data": {
+        "GOATHLAND-THWAITEFIELD.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-042.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-019.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-019.csv",
+                "start_date": "1920/05",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-019.csv",
+                "start_date": "1921/01",
+                "end_date": "1929/13"
+            }
+        ]
+    },
+    "idr": {
+        "GOATHLAND-THWAITEFIELD.csv": [
+            {
+                "start_date": "1923/02",
+                "end_date": "1923/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_24_pt1-page-019.csv",
+            "start_date": "1920/03",
+            "end_date": "1920/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_24_pt1-page-019.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

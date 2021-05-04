@@ -80,5 +80,15 @@
             "start_date": "1925/13",
             "end_date": "1925/13"
         }
-    ]
+    ],
+    "external": {
+        "BALLIMORE-OTTER-FERRY-ROOF.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-125.jpg",
+                "start_date": "1841/05",
+                "end_date": "1841/12",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
 }

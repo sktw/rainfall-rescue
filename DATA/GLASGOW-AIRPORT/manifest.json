@@ -1,0 +1,85 @@
+{
+    "name": "GLASGOW-AIRPORT",
+    "data": {
+        "GLASGOW-AIRPORT-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-025.csv",
+                "start_date": "1920/06",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-025.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-094.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/02"
+            }
+        ],
+        "GLASGOW-AIRPORT-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-094.csv",
+                "start_date": "1933/03",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-094.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-236.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/09"
+            }
+        ],
+        "GLASGOW-AIRPORT-4.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-236.csv",
+                "start_date": "1945/10",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-236.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-036.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLASGOW-AIRPORT.csv": [
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-161.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-025.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_31_pt1-page-025.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_25_pt1-page-094.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-236.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

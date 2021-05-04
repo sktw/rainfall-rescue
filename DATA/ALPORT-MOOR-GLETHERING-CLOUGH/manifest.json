@@ -1,0 +1,88 @@
+{
+    "name": "ALPORT-MOOR-GLETHERING-CLOUGH",
+    "data": {
+        "ALPORT-MOOR-GLETHERING-CLOUGH-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-105.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-100.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "ALPORT-MOOR-GLETHERING-CLOUGH.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-027.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-060.csv",
+                "start_date": "1910/02",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-060.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-104.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-099.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-099.csv",
+                "start_date": "1935/03",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-099.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALPORT-MOOR-GLETHERING-CLOUGH.csv": [
+            {
+                "start_date": "1904/13",
+                "end_date": "1904/13"
+            },
+            {
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-060.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_17_pt1-page-060.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-099.csv",
+            "start_date": "1935/02",
+            "end_date": "1935/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-099.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

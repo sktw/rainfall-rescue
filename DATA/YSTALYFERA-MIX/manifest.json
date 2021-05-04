@@ -17,6 +17,11 @@
             {
                 "filename": "TYRain_1880-1889_13_pt1-page-042.csv",
                 "start_date": "1880/01",
+                "end_date": "1880/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-042.csv",
+                "start_date": "1882/01",
                 "end_date": "1889/13"
             },
             {
@@ -37,5 +42,12 @@
                 "end_date": "1866/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_13_pt1-page-042.csv",
+            "start_date": "1881/01",
+            "end_date": "1881/13"
+        }
+    ]
 }

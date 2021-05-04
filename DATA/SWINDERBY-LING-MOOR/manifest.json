@@ -1,0 +1,22 @@
+{
+    "name": "SWINDERBY-LING-MOOR",
+    "data": {
+        "SWINDERBY-LING-MOOR.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-120.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-108.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-180.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            }
+        ]
+    }
+}

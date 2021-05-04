@@ -1,0 +1,71 @@
+{
+    "name": "COMRIE-DUNIRA",
+    "data": {
+        "COMRIE-DUNIRA-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_32_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-112.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "COMRIE-DUNIRA-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-113.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-113.csv",
+                "start_date": "1936/09",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-113.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-300.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-109.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "COMRIE-DUNIRA.csv": [
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-155.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "COMRIE-DUNIRA-2.csv": [
+            {
+                "start_date": "1926/03",
+                "end_date": "1926/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_26_pt1-page-113.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_26_pt1-page-113.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

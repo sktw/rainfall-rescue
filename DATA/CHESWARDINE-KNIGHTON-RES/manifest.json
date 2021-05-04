@@ -61,9 +61,54 @@
     "external": {
         "CHESWARDINE-KNIGHTON-RES.csv": [
             {
-                "start_date": "1890/01",
-                "end_date": "1899/13",
-                "comment": "Totals from British Rainfall Reports"
+                "comment": "Data from Symons British Rainfall 1890",
+                "start_date": "1890/13",
+                "end_date": "1890/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1891",
+                "start_date": "1891/13",
+                "end_date": "1891/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1892",
+                "start_date": "1892/13",
+                "end_date": "1892/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1893",
+                "start_date": "1893/13",
+                "end_date": "1893/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1894",
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1895",
+                "start_date": "1895/13",
+                "end_date": "1895/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1896",
+                "start_date": "1896/13",
+                "end_date": "1896/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1897",
+                "start_date": "1897/13",
+                "end_date": "1897/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1898",
+                "start_date": "1898/13",
+                "end_date": "1898/13"
+            },
+            {
+                "comment": "Data from Symons British Rainfall 1899",
+                "start_date": "1899/13",
+                "end_date": "1899/13"
             }
         ]
     }

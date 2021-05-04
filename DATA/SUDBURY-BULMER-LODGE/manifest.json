@@ -1,0 +1,52 @@
+{
+    "name": "SUDBURY-BULMER-LODGE",
+    "data": {
+        "SUDBURY-BULMER-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-313.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SUDBURY-BULMER-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_08_pt1-page-100.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-012.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-166.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-287.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-313.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-313.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SUDBURY-BULMER-LODGE.csv": [
+            {
+                "start_date": "1892/01",
+                "end_date": "1892/01"
+            }
+        ]
+    }
+}

@@ -52,5 +52,15 @@
             "start_date": "1899/01",
             "end_date": "1899/13"
         }
-    ]
+    ],
+    "external": {
+        "UIST-LOCH-MADDY.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-076.jpg",
+                "start_date": "1859/10",
+                "end_date": "1859/12",
+                "comment": "Data from notes at foot of sheet"
+            }
+        ]
+    }
 }

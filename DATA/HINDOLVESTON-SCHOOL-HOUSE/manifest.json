@@ -1,0 +1,87 @@
+{
+    "name": "HINDOLVESTON-SCHOOL-HOUSE",
+    "data": {
+        "HINDOLVESTON-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-172.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-174.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-174.csv",
+                "start_date": "1935/10",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-174.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+                "start_date": "1947/06",
+                "end_date": "1947/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+                "start_date": "1947/10",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_09_pt1-page-016.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "HINDOLVESTON-SCHOOL-HOUSE.csv": [
+            {
+                "start_date": "1951/07",
+                "end_date": "1951/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-174.csv",
+            "start_date": "1935/08",
+            "end_date": "1935/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-174.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+            "start_date": "1947/04",
+            "end_date": "1947/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+            "start_date": "1947/09",
+            "end_date": "1947/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_11_pt1-page-062.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
+}

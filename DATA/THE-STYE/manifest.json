@@ -1,8 +1,6 @@
 {
     "name": "THE-STYE",
     "data": {
-        "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv": [],
-        "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv": [],
         "THE-STYE-2.csv": [
             {
                 "filename": "TYRain_1860-1869_06_pt1-page-011.csv",
@@ -1386,61 +1384,61 @@
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1910/13",
                 "end_date": "1910/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1910"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1911/13",
                 "end_date": "1911/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1911"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1912/13",
                 "end_date": "1912/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1912"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1913/13",
                 "end_date": "1913/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1913"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1914/13",
                 "end_date": "1914/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1914"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1915/13",
                 "end_date": "1915/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1915"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1916/13",
                 "end_date": "1916/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1916"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1917/13",
                 "end_date": "1917/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1917"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1918/13",
                 "end_date": "1918/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1918"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_MAIN_STYE_C-page-0.csv",
                 "start_date": "1919/13",
                 "end_date": "1919/13",
-                "comment": "Data from Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1919"
             }
         ],
         "THE-STYE-8.csv": [
@@ -1448,43 +1446,43 @@
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1913/13",
                 "end_date": "1913/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1913"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1914/13",
                 "end_date": "1914/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1914"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1915/13",
                 "end_date": "1915/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1915"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1916/13",
                 "end_date": "1916/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1916"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1917/13",
                 "end_date": "1917/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1917"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1918/13",
                 "end_date": "1918/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1918"
             },
             {
                 "filename": "MISSING_TYRain_1910-1919_STYE_B_SEATHWAITE-page-0.csv",
                 "start_date": "1919/13",
                 "end_date": "1919/13",
-                "comment": "Symons British Rainfall 1910"
+                "comment": "Data from British Rainfall 1919"
             }
         ]
     }
