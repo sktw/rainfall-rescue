@@ -1,7 +1,7 @@
 {
-    "name": "STANDEDGE-CASTLESHAW-CUDWORTH",
+    "name": "STANDEDGE-CASTLE-SHAW-CUDWORTH",
     "data": {
-        "STANDEDGE-CASTLESHAW-CUDWORTH.csv": [
+        "STANDEDGE-CASTLE-SHAW-CUDWORTH.csv": [
             {
                 "filename": "TYRain_1900-1909_20_pt1-page-180.csv",
                 "start_date": "1900/01",
@@ -20,7 +20,7 @@
         ]
     },
     "idr": {
-        "STANDEDGE-CASTLESHAW-CUDWORTH.csv": [
+        "STANDEDGE-CASTLE-SHAW-CUDWORTH.csv": [
             {
                 "start_date": "1919/06",
                 "end_date": "1919/06"

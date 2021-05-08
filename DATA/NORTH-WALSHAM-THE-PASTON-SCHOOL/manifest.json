@@ -4,7 +4,7 @@
         "NORTH-WALSHAM-THE-PASTON-SCHOOL-2.csv": [
             {
                 "filename": "TYRain_1900-1909_10_pt1-page-047.csv",
-                "start_date": "1908/01",
+                "start_date": "1907/01",
                 "end_date": "1909/13"
             },
             {
@@ -66,11 +66,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "TYRain_1900-1909_10_pt1-page-047.csv",
-            "start_date": "1907/01",
-            "end_date": "1907/13"
-        },
         {
             "filename": "TYRain_1941-1950_11_pt1-page-063.csv",
             "start_date": "1950/06",

@@ -41,7 +41,7 @@
         ],
         "TRESCO-ABBEY.csv": [
             {
-                "filename": "TYRain_1850-1859_G_pt1-page-273.csv",
+                "filename": "TYRain_1850-1859_G_pt1-page-275.csv",
                 "start_date": "1859/01",
                 "end_date": "1859/13"
             },
@@ -106,9 +106,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "TYRain_1850-1859_G_pt1-page-275.csv"
-        },
         {
             "filename": "TYRain_1931-1940_12_pt1-page-080.csv"
         }

@@ -15,6 +15,11 @@
             {
                 "filename": "TYRain_1890-1899_10_pt1-page-027.csv",
                 "start_date": "1896/11",
+                "end_date": "1896/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-027.csv",
+                "start_date": "1897/01",
                 "end_date": "1899/13"
             },
             {
@@ -134,6 +139,11 @@
             "filename": "TYRain_1890-1899_10_pt1-page-027.csv",
             "start_date": "1896/04",
             "end_date": "1896/10"
+        },
+        {
+            "filename": "TYRain_1890-1899_10_pt1-page-027.csv",
+            "start_date": "1896/13",
+            "end_date": "1896/13"
         },
         {
             "filename": "TYRain_1910-1919_11_pt1-page-168.csv",

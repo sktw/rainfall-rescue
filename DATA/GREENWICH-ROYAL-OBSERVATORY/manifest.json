@@ -96,7 +96,7 @@
         "GREENWICH-ROYAL-OBSERVATORY-16.csv": [
             {
                 "filename": "ERROR_TYRain_1820-1829_C_pt1-page-006.csv",
-                "start_date": "1825/07",
+                "start_date": "1825/08",
                 "end_date": "1829/13"
             },
             {
@@ -426,6 +426,10 @@
             {
                 "start_date": "1837/13",
                 "end_date": "1837/13"
+            },
+            {
+                "start_date": "1839/13",
+                "end_date": "1839/13"
             }
         ],
         "GREENWICH-ROYAL-OBSERVATORY-18.csv": [
