@@ -57,8 +57,15 @@
             {
                 "filename": "TYRain_1880-1889_08_pt4-page-066.csv",
                 "start_date": "1880/01",
-                "end_date": "1889/13"
+                "end_date": "1888/02"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_08_pt4-page-066.csv",
+            "start_date": "1888/03",
+            "end_date": "1889/13"
+        }
+    ]
 }

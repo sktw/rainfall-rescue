@@ -1,0 +1,24 @@
+{
+    "name": "LONDONDERRY-MOVILLE",
+    "data": {
+        "LONDONDERRY-MOVILLE-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-155.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-078.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/13"
+            }
+        ],
+        "LONDONDERRY-MOVILLE.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt2-page-145.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

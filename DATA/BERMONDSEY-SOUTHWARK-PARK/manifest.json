@@ -52,16 +52,16 @@
             {
                 "filename": "TYRain_1900-1909_01_pt1-page-001.csv",
                 "start_date": "1900/01",
-                "end_date": "1906/09"
+                "end_date": "1907/09"
             },
             {
                 "filename": "TYRain_1900-1909_01_pt1-page-001.csv",
-                "start_date": "1906/12",
-                "end_date": "1906/12"
+                "start_date": "1907/12",
+                "end_date": "1907/12"
             },
             {
                 "filename": "TYRain_1900-1909_01_pt1-page-001.csv",
-                "start_date": "1907/01",
+                "start_date": "1908/01",
                 "end_date": "1909/13"
             },
             {
@@ -114,13 +114,13 @@
     "unused": [
         {
             "filename": "TYRain_1900-1909_01_pt1-page-001.csv",
-            "start_date": "1906/10",
-            "end_date": "1906/11"
+            "start_date": "1907/10",
+            "end_date": "1907/11"
         },
         {
             "filename": "TYRain_1900-1909_01_pt1-page-001.csv",
-            "start_date": "1906/13",
-            "end_date": "1906/13"
+            "start_date": "1907/13",
+            "end_date": "1907/13"
         },
         {
             "filename": "TYRain_1910-1919_01_pt1-page-002.csv",
