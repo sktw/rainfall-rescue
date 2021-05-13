@@ -4,7 +4,22 @@
         "CARLISLE-SPITAL-CEMETERY.csv": [
             {
                 "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
-                "start_date": "1860/01",
+                "start_date": "1860/04",
+                "end_date": "1860/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+                "start_date": "1861/01",
+                "end_date": "1861/11"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+                "start_date": "1862/05",
+                "end_date": "1862/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+                "start_date": "1863/01",
                 "end_date": "1869/13"
             },
             {
@@ -53,5 +68,27 @@
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+            "start_date": "1860/01",
+            "end_date": "1860/03"
+        },
+        {
+            "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+            "start_date": "1860/13",
+            "end_date": "1860/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+            "start_date": "1861/12",
+            "end_date": "1862/04"
+        },
+        {
+            "filename": "TYRain_1860-1869_06_pt1-page-069.csv",
+            "start_date": "1862/13",
+            "end_date": "1862/13"
+        }
+    ]
 }
