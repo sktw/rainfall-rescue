@@ -26,5 +26,10 @@
                 "end_date": "1895/02"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_09_pt1-page-202.csv"
+        }
+    ]
 }

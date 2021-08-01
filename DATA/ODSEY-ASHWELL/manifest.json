@@ -22,7 +22,12 @@
             {
                 "filename": "TYRain_1941-1950_09_pt1-page-070.csv",
                 "start_date": "1941/01",
-                "end_date": "1948/13"
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-058.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
             }
         ],
         "ODSEY-ASHWELL.csv": [
@@ -74,24 +79,14 @@
             {
                 "filename": "ERROR_TYRain_1941-1950_09_pt1-page-069.csv",
                 "start_date": "1941/01",
-                "end_date": "1948/13"
-            },
-            {
-                "filename": "TYRain_1941-1950_09_pt1-page-070.csv",
-                "start_date": "1949/01",
-                "end_date": "1950/13"
-            },
-            {
-                "filename": "TYRain_1951-1960_07_pt1-page-058.csv",
-                "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1949/01"
             }
         ]
     },
     "unused": [
         {
             "filename": "ERROR_TYRain_1941-1950_09_pt1-page-069.csv",
-            "start_date": "1949/01",
+            "start_date": "1949/02",
             "end_date": "1950/13"
         }
     ]

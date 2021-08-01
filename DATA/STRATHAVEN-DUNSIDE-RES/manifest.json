@@ -1,7 +1,7 @@
 {
-    "name": "STRATHAVEN-DEANSIDE-RES",
+    "name": "STRATHAVEN-DUNSIDE-RES",
     "data": {
-        "STRATHAVEN-DEANSIDE-RES-2.csv": [
+        "STRATHAVEN-DUNSIDE-RES-2.csv": [
             {
                 "filename": "TYRain_1931-1940_24_pt1-page-195.csv",
                 "start_date": "1931/01",
@@ -18,7 +18,7 @@
                 "end_date": "1960/13"
             }
         ],
-        "STRATHAVEN-DEANSIDE-RES.csv": [
+        "STRATHAVEN-DUNSIDE-RES.csv": [
             {
                 "filename": "TYRain_1900-1909_27_pt1-page-250.csv",
                 "start_date": "1900/01",

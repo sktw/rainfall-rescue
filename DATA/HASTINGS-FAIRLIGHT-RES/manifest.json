@@ -41,5 +41,10 @@
                 "end_date": "1940/08"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-246.csv"
+        }
+    ]
 }

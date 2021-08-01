@@ -5,6 +5,11 @@
             {
                 "filename": "ERROR_TYRain_1870-1879_03_pt2-page-012.csv",
                 "start_date": "1870/01",
+                "end_date": "1870/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_03_pt2-page-012.csv",
+                "start_date": "1870/12",
                 "end_date": "1870/12"
             },
             {
@@ -25,6 +30,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_03_pt2-page-012.csv",
+            "start_date": "1870/09",
+            "end_date": "1870/11"
+        },
         {
             "filename": "ERROR_TYRain_1870-1879_03_pt2-page-012.csv",
             "start_date": "1870/13",

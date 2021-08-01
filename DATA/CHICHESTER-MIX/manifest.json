@@ -80,5 +80,10 @@
                 "end_date": "1846/09"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_02_pt1-page-011.csv"
+        }
+    ]
 }

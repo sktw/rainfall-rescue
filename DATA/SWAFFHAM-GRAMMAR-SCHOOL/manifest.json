@@ -1,6 +1,18 @@
 {
     "name": "SWAFFHAM-GRAMMAR-SCHOOL",
     "data": {
+        "SWAFFHAM-GRAMMAR-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
+                "start_date": "1892/10",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            }
+        ],
         "SWAFFHAM-GRAMMAR-SCHOOL.csv": [
             {
                 "filename": "TYRain_1860-1869_02_pt2-page-147.csv",
@@ -20,8 +32,25 @@
             {
                 "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
                 "start_date": "1890/01",
+                "end_date": "1892/08"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
+                "start_date": "1897/05",
                 "end_date": "1899/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
+            "start_date": "1892/09",
+            "end_date": "1892/09"
+        },
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-190.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        }
+    ]
 }

@@ -38,5 +38,10 @@
                 "end_date": "1950/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_06_pt2-page-083.csv"
+        }
+    ]
 }

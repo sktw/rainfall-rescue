@@ -99,5 +99,13 @@
                 "end_date": "1901/09"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_07_pt1-page-022.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_08_pt2-page-028.csv"
+        }
+    ]
 }

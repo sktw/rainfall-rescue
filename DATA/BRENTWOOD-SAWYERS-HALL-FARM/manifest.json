@@ -20,8 +20,30 @@
             {
                 "filename": "TYRain_1890-1899_08_pt1-page-034.csv",
                 "start_date": "1890/01",
+                "end_date": "1891/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-034.csv",
+                "start_date": "1891/08",
+                "end_date": "1891/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-034.csv",
+                "start_date": "1892/01",
                 "end_date": "1899/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-034.csv",
+            "start_date": "1891/05",
+            "end_date": "1891/07"
+        },
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-034.csv",
+            "start_date": "1891/13",
+            "end_date": "1891/13"
+        }
+    ]
 }

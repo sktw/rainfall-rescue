@@ -5,6 +5,16 @@
             {
                 "filename": "TYRain_1931-1940_08_pt1-page-292.csv",
                 "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-292.csv",
+                "start_date": "1935/03",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-292.csv",
+                "start_date": "1936/01",
                 "end_date": "1940/13"
             },
             {
@@ -50,5 +60,17 @@
                 "end_date": "1940/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-292.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-292.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
 }

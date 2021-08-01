@@ -1,10 +1,22 @@
 {
     "name": "YARMOUTH-HALVERGATE-HALL",
     "data": {
+        "YARMOUTH-HALVERGATE-HALL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-155.csv",
+                "start_date": "1897/01",
+                "end_date": "1899/13"
+            }
+        ],
         "YARMOUTH-HALVERGATE-HALL.csv": [
             {
                 "filename": "TYRain_1870-1879_03_pt3-page-038.csv",
                 "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-038.csv",
+                "start_date": "1871/01",
                 "end_date": "1879/13"
             },
             {
@@ -15,8 +27,15 @@
             {
                 "filename": "TYRain_1890-1899_08_pt1-page-155.csv",
                 "start_date": "1890/01",
-                "end_date": "1899/13"
+                "end_date": "1896/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_03_pt3-page-038.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        }
+    ]
 }

@@ -1,6 +1,28 @@
 {
     "name": "SWAFFHAM-DUNHAM",
     "data": {
+        "SWAFFHAM-DUNHAM-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-239.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
+                "start_date": "1932/05",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ],
         "SWAFFHAM-DUNHAM.csv": [
             {
                 "filename": "TYRain_1860-1869_02_pt2-page-148.csv",
@@ -30,18 +52,25 @@
             {
                 "filename": "TYRain_1910-1919_10_pt1-page-143.csv",
                 "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_09_pt1-page-239.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
+                "end_date": "1919/11"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-143.csv",
+            "start_date": "1919/12",
+            "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
+            "start_date": "1932/03",
+            "end_date": "1932/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_09_pt1-page-246.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        }
+    ]
 }

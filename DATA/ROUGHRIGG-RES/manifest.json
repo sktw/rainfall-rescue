@@ -78,10 +78,6 @@
     "idr": {
         "ROUGHRIGG-RES-GAUGE1-POOR.csv": [
             {
-                "start_date": "1881/13",
-                "end_date": "1881/13"
-            },
-            {
                 "start_date": "1890/13",
                 "end_date": "1890/13"
             },

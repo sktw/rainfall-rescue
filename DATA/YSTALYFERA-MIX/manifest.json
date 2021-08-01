@@ -45,6 +45,9 @@
     },
     "unused": [
         {
+            "filename": "TYRain_1860-1869_06_pt3-page-004.csv"
+        },
+        {
             "filename": "TYRain_1880-1889_13_pt1-page-042.csv",
             "start_date": "1881/01",
             "end_date": "1881/13"

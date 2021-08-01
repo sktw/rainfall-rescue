@@ -20,7 +20,7 @@
             {
                 "filename": "TYRain_1880-1889_04_pt6-page-047.csv",
                 "start_date": "1880/01",
-                "end_date": "1889/13"
+                "end_date": "1889/12"
             },
             {
                 "filename": "ERROR_TYRain_1890-1899_08_pt1-page-075.csv",
@@ -46,5 +46,12 @@
                 "end_date": "1898/09"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_04_pt6-page-047.csv",
+            "start_date": "1889/13",
+            "end_date": "1889/13"
+        }
+    ]
 }

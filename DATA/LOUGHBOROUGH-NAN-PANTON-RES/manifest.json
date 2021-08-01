@@ -63,5 +63,10 @@
                 "end_date": "1887/01"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_06_pt2-page-111.csv"
+        }
+    ]
 }

@@ -58,5 +58,13 @@
                 "end_date": "1930/06"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-083.csv"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-085.csv"
+        }
+    ]
 }

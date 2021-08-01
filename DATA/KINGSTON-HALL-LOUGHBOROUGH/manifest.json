@@ -43,5 +43,13 @@
                 "end_date": "1872/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-005.csv"
+        },
+        {
+            "filename": "TYRain_1860-1869_04_pt1-page-088.csv"
+        }
+    ]
 }

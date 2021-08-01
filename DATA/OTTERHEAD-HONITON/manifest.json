@@ -13,5 +13,22 @@
                 "end_date": "1869/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-240.csv"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-122.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-117.csv"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-242.csv"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-151.csv"
+        }
+    ]
 }
