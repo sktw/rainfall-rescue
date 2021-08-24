@@ -1,6 +1,18 @@
 {
     "name": "CLIFTON-SOUTH-PARADE",
     "data": {
+        "CLIFTON-SOUTH-PARADE-2.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-307.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt2-page-034.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
         "CLIFTON-SOUTH-PARADE.csv": [
             {
                 "filename": "ERROR_TYRain_1850-1859_G_pt1-page-306.csv",
@@ -30,19 +42,17 @@
         ]
     },
     "idr": {
+        "CLIFTON-SOUTH-PARADE-2.csv": [
+            {
+                "start_date": "1865/13",
+                "end_date": "1865/13"
+            }
+        ],
         "CLIFTON-SOUTH-PARADE.csv": [
             {
                 "start_date": "1854/12",
                 "end_date": "1854/12"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "ERROR_TYRain_1860-1869_03_pt2-page-034.csv"
-        },
-        {
-            "filename": "TYRain_1850-1859_G_pt1-page-307.csv"
-        }
-    ]
+    }
 }

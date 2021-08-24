@@ -50,5 +50,13 @@
                 "end_date": "1924/13"
             }
         ]
+    },
+    "idr": {
+        "LISKEARD-PENMILDER-2.csv": [
+            {
+                "start_date": "1924/09",
+                "end_date": "1924/12"
+            }
+        ]
     }
 }

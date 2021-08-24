@@ -1,10 +1,37 @@
 {
     "name": "EASTWOOD-COLLIERY",
     "data": {
+        "EASTWOOD-COLLIERY-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv",
+                "start_date": "1877/03",
+                "end_date": "1877/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv",
+                "start_date": "1878/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-009.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "EASTWOOD-COLLIERY.csv": [
             {
                 "filename": "TYRain_1860-1869_04_pt1-page-091.csv",
                 "start_date": "1860/01",
+                "end_date": "1867/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-091.csv",
+                "start_date": "1869/01",
                 "end_date": "1869/13"
             },
             {
@@ -36,7 +63,19 @@
     },
     "unused": [
         {
-            "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv"
+            "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv",
+            "start_date": "1877/02",
+            "end_date": "1877/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt1-page-014.csv",
+            "start_date": "1877/13",
+            "end_date": "1877/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_04_pt1-page-091.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/13"
         },
         {
             "filename": "TYRain_1870-1879_07_pt1-page-013.csv",

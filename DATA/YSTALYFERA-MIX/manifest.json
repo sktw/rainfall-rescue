@@ -3,6 +3,16 @@
     "data": {
         "YSTALYFERA-MIX-2.csv": [
             {
+                "filename": "TYRain_1860-1869_06_pt3-page-004.csv",
+                "start_date": "1868/02",
+                "end_date": "1868/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-004.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
                 "filename": "TYRain_1870-1879_10_pt1-page-029.csv",
                 "start_date": "1870/01",
                 "end_date": "1879/13"
@@ -45,7 +55,14 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1860-1869_06_pt3-page-004.csv"
+            "filename": "TYRain_1860-1869_06_pt3-page-004.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/01"
+        },
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-004.csv",
+            "start_date": "1868/13",
+            "end_date": "1868/13"
         },
         {
             "filename": "TYRain_1880-1889_13_pt1-page-042.csv",

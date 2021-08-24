@@ -1,6 +1,28 @@
 {
     "name": "MELTON-MOWBRAY-ASFORDBY",
     "data": {
+        "MELTON-MOWBRAY-ASFORDBY-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-169.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-169.csv",
+                "start_date": "1920/04",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-169.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-049.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
         "MELTON-MOWBRAY-ASFORDBY.csv": [
             {
                 "filename": "TYRain_1860-1869_04_pt1-page-017.csv",
@@ -14,12 +36,24 @@
             }
         ]
     },
+    "idr": {
+        "MELTON-MOWBRAY-ASFORDBY-2.csv": [
+            {
+                "start_date": "1932/09",
+                "end_date": "1932/09"
+            }
+        ]
+    },
     "unused": [
         {
-            "filename": "ERROR_TYRain_1931-1940_15_pt1-page-049.csv"
+            "filename": "TYRain_1920-1930_16_pt1-page-169.csv",
+            "start_date": "1920/03",
+            "end_date": "1920/03"
         },
         {
-            "filename": "TYRain_1920-1930_16_pt1-page-169.csv"
+            "filename": "TYRain_1920-1930_16_pt1-page-169.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
         }
     ]
 }

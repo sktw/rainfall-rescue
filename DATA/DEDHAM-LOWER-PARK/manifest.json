@@ -11,6 +11,28 @@
                 "filename": "TYRain_1880-1889_04_pt6-page-060.csv",
                 "start_date": "1886/01",
                 "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+                "start_date": "1890/01",
+                "end_date": "1893/06"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "DEDHAM-LOWER-PARK-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+                "start_date": "1893/08",
+                "end_date": "1893/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
             }
         ],
         "DEDHAM-LOWER-PARK.csv": [
@@ -53,7 +75,14 @@
             "end_date": "1885/13"
         },
         {
-            "filename": "TYRain_1890-1899_08_pt1-page-097.csv"
+            "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+            "start_date": "1893/07",
+            "end_date": "1893/07"
+        },
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-097.csv",
+            "start_date": "1893/13",
+            "end_date": "1893/13"
         }
     ]
 }

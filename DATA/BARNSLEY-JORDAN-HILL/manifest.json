@@ -27,6 +27,11 @@
             {
                 "filename": "TYRain_1920-1930_22_pt1-page-019.csv",
                 "start_date": "1920/01",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-019.csv",
+                "start_date": "1923/01",
                 "end_date": "1930/13"
             },
             {
@@ -66,6 +71,11 @@
             "filename": "TYRain_1900-1909_20_pt1-page-103.csv",
             "start_date": "1903/13",
             "end_date": "1903/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_22_pt1-page-019.csv",
+            "start_date": "1922/01",
+            "end_date": "1922/13"
         }
     ]
 }

@@ -15,6 +15,11 @@
         ],
         "LOUGHBOROUGH-NAN-PANTON-RES.csv": [
             {
+                "filename": "TYRain_1870-1879_06_pt2-page-111.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
                 "filename": "ERROR_TYRain_1880-1889_07_pt5-page-036.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"
@@ -63,10 +68,5 @@
                 "end_date": "1887/01"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1870-1879_06_pt2-page-111.csv"
-        }
-    ]
+    }
 }

@@ -1,63 +1,6 @@
 {
     "name": "BUCHANNESS-LIGHTHOUSE",
     "data": {
-        "BUCHANNESS-LIGHTHOUSE-ALLDATA.csv": [
-            {
-                "filename": "TYRain_1820-1829_C_pt2-page-028.csv",
-                "start_date": "1820/01",
-                "end_date": "1829/13"
-            },
-            {
-                "filename": "TYRain_1830-1839_D_pt1-page-088.csv",
-                "start_date": "1830/01",
-                "end_date": "1839/13"
-            },
-            {
-                "filename": "TYRain_1840-1849_E_pt3-page-068.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            },
-            {
-                "filename": "TYRain_1850-1859_H_pt1-page-246.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            },
-            {
-                "filename": "TYRain_1860-1869_08_pt1-page-033.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
-            {
-                "filename": "TYRain_1870-1879_12_pt2-page-063.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/12"
-            },
-            {
-                "filename": "TYRain_1880-1889_15_pt1-page-240.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            },
-            {
-                "filename": "TYRain_1890-1899_25_pt1-page-167.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_29_pt1-page-204.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
-            },
-            {
-                "filename": "TYRain_1910-1919_28_pt1-page-070.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            }
-        ],
         "BUCHANNESS-LIGHTHOUSE.csv": [
             {
                 "filename": "TYRain_1820-1829_C_pt2-page-028.csv",
@@ -173,9 +116,82 @@
     },
     "unused": [
         {
+            "filename": "TYRain_1860-1869_08_pt1-page-033.csv",
+            "start_date": "1863/01",
+            "end_date": "1863/13"
+        },
+        {
+            "filename": "TYRain_1860-1869_08_pt1-page-033.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/13"
+        },
+        {
             "filename": "TYRain_1870-1879_12_pt2-page-063.csv",
-            "start_date": "1879/13",
+            "start_date": "1879/01",
+            "end_date": "1879/01"
+        },
+        {
+            "filename": "TYRain_1870-1879_12_pt2-page-063.csv",
+            "start_date": "1879/03",
             "end_date": "1879/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_15_pt1-page-240.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-204.csv",
+            "start_date": "1904/07",
+            "end_date": "1904/07"
+        },
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-204.csv",
+            "start_date": "1904/13",
+            "end_date": "1904/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-204.csv",
+            "start_date": "1906/01",
+            "end_date": "1906/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-204.csv",
+            "start_date": "1908/01",
+            "end_date": "1908/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-070.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1925/08",
+            "end_date": "1925/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1925/11",
+            "end_date": "1925/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1926/06",
+            "end_date": "1926/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_33_pt1-page-060.csv",
+            "start_date": "1929/01",
+            "end_date": "1930/13"
         }
     ]
 }

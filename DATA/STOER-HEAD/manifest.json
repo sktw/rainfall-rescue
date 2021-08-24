@@ -1,43 +1,6 @@
 {
     "name": "STOER-HEAD",
     "data": {
-        "STOER-HEAD-ALLDATA.csv": [
-            {
-                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-092.csv",
-                "start_date": "1870/01",
-                "end_date": "1870/12"
-            },
-            {
-                "filename": "ERROR_TYRain_1870-1879_12_pt3-page-092.csv",
-                "start_date": "1871/01",
-                "end_date": "1879/13"
-            },
-            {
-                "filename": "TYRain_1880-1889_16_pt1-page-091.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            },
-            {
-                "filename": "TYRain_1890-1899_26_pt1-page-092.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_30_pt1-page-121.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1910-1919_28_pt1-page-190.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_34_pt1-page-064.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            }
-        ],
         "STOER-HEAD.csv": [
             {
                 "filename": "ERROR_TYRain_1870-1879_12_pt3-page-092.csv",
@@ -71,19 +34,24 @@
             }
         ]
     },
-    "idr": {
-        "STOER-HEAD-ALLDATA.csv": [
-            {
-                "start_date": "1919/06",
-                "end_date": "1919/06"
-            }
-        ]
-    },
     "unused": [
         {
             "filename": "ERROR_TYRain_1870-1879_12_pt3-page-092.csv",
             "start_date": "1870/13",
             "end_date": "1870/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_28_pt1-page-190.csv"
+        },
+        {
+            "filename": "TYRain_1900-1909_30_pt1-page-121.csv",
+            "start_date": "1906/01",
+            "end_date": "1909/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_34_pt1-page-064.csv",
+            "start_date": "1929/01",
+            "end_date": "1930/13"
         },
         {
             "filename": "TYRain_1931-1940_27_pt1-page-186.csv"

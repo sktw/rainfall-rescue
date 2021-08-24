@@ -1,6 +1,18 @@
 {
     "name": "EAST-HAM-SEWAGE-WORKS",
     "data": {
+        "EAST-HAM-SEWAGE-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-154.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-154.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
         "EAST-HAM-SEWAGE-WORKS.csv": [
             {
                 "filename": "TYRain_1900-1909_09_pt1-page-120.csv",
@@ -25,11 +37,26 @@
             {
                 "filename": "TYRain_1941-1950_10_pt1-page-038.csv",
                 "start_date": "1941/01",
+                "end_date": "1948/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-038.csv",
+                "start_date": "1948/03",
+                "end_date": "1948/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-038.csv",
+                "start_date": "1949/01",
                 "end_date": "1950/13"
             },
             {
                 "filename": "TYRain_1951-1960_07_pt1-page-154.csv",
                 "start_date": "1951/01",
+                "end_date": "1955/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-154.csv",
+                "start_date": "1958/06",
                 "end_date": "1960/13"
             }
         ]
@@ -41,5 +68,22 @@
                 "end_date": "1939/06"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-038.csv",
+            "start_date": "1948/02",
+            "end_date": "1948/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-038.csv",
+            "start_date": "1948/13",
+            "end_date": "1948/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-154.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
 }

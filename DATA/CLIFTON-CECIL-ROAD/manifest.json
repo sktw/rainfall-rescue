@@ -6,6 +6,16 @@
                 "filename": "TYRain_1900-1909_14_pt1-page-232.csv",
                 "start_date": "1902/08",
                 "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-096.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-223.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
             }
         ],
         "CLIFTON-CECIL-ROAD.csv": [
@@ -35,13 +45,5 @@
                 "end_date": "1902/13"
             }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1910-1919_14_pt1-page-096.csv"
-        },
-        {
-            "filename": "TYRain_1920-1930_13_pt1-page-223.csv"
-        }
-    ]
+    }
 }

@@ -52,6 +52,11 @@
             {
                 "filename": "TYRain_1890-1899_01_pt1-page-056.csv",
                 "start_date": "1890/01",
+                "end_date": "1895/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-056.csv",
+                "start_date": "1896/01",
                 "end_date": "1899/13"
             },
             {
@@ -80,6 +85,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1890-1899_01_pt1-page-056.csv",
+            "start_date": "1895/13",
+            "end_date": "1895/13"
+        },
         {
             "filename": "TYRain_1900-1909_01_pt1-page-087.csv",
             "start_date": "1909/07",
