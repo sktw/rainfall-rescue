@@ -1,5 +1,5 @@
 GRANTOWN-ON-SPEY 3,,,,,,,,,,
-Grid ref,NJ027273,Long,-3.617536,Lat,57.325828,Elevation,,ft,,
+Grid ref,NJ027273,Long,-3.617536,Lat,57.325828,Elevation,680,ft,,
 Station no,5674/4,,,,,,,,,
 ,,,,,,,,,,
 ,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960
@@ -17,4 +17,7 @@ November,,,,,,,2.82,0.94,3.35,1.89
 December,,,,,,,2.68,2.16,2.29,1.66
 Total,,,,,,,,28.7,24.82,29.65
 ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
 Location uncertain,,,,,,,,,,
+NGR elevation from OS Map approx 680ft,,,,,,,,,,
