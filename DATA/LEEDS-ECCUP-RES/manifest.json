@@ -45,6 +45,21 @@
         ],
         "LEEDS-ECCUP-RES-3.csv": [
             {
+                "filename": "TYRain_1890-1899_16_pt1-page-087.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/02"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-087.csv",
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-087.csv",
+                "start_date": "1896/04",
+                "end_date": "1899/13"
+            },
+            {
                 "filename": "TYRain_1900-1909_21_pt1-page-260.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
@@ -147,6 +162,16 @@
             "filename": "ERROR_TYRain_1840-1849_E_pt1-page-101.csv",
             "start_date": "1844/13",
             "end_date": "1844/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-087.csv",
+            "start_date": "1894/03",
+            "end_date": "1894/12"
+        },
+        {
+            "filename": "TYRain_1890-1899_16_pt1-page-087.csv",
+            "start_date": "1895/01",
+            "end_date": "1896/03"
         }
     ]
 }

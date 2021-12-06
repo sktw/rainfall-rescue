@@ -45,6 +45,46 @@
         ],
         "STANDEDGE-REDBROOK.csv": [
             {
+                "filename": "TYRain_1850-1859_F_pt1-page-170.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-043.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_08_pt1-page-062.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/01"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+                "start_date": "1881/03",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+                "start_date": "1882/01",
+                "end_date": "1887/03"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+                "start_date": "1887/05",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
                 "filename": "TYRain_1890-1899_17_pt1-page-052.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
@@ -55,5 +95,35 @@
                 "end_date": "1909/13"
             }
         ]
-    }
+    },
+    "idr": {
+        "STANDEDGE-REDBROOK.csv": [
+            {
+                "start_date": "1870/07",
+                "end_date": "1870/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+            "start_date": "1881/02",
+            "end_date": "1881/02"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+            "start_date": "1887/04",
+            "end_date": "1887/04"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-036.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        }
+    ]
 }

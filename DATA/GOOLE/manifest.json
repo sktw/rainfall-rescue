@@ -1,7 +1,7 @@
 {
     "name": "GOOLE",
     "data": {
-        "GOOLE.csv": [
+        "GOOLE-2.csv": [
             {
                 "filename": "TYRain_1860-1869_05_pt1-page-048.csv",
                 "start_date": "1860/01",
@@ -25,6 +25,18 @@
             {
                 "filename": "TYRain_1900-1909_20_pt1-page-091.csv",
                 "start_date": "1900/01",
+                "end_date": "1907/04"
+            }
+        ],
+        "GOOLE.csv": [
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-091.csv",
+                "start_date": "1907/06",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-091.csv",
+                "start_date": "1908/01",
                 "end_date": "1909/13"
             },
             {
@@ -77,5 +89,17 @@
                 "end_date": "1933/01"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_20_pt1-page-091.csv",
+            "start_date": "1907/05",
+            "end_date": "1907/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_20_pt1-page-091.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
 }

@@ -1,12 +1,7 @@
 {
     "name": "LEEDS-HORSFORTH",
     "data": {
-        "LEEDS-HORSFORTH.csv": [
-            {
-                "filename": "TYRain_1860-1869_05_pt1-page-105.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
+        "LEEDS-HORSFORTH-2.csv": [
             {
                 "filename": "TYRain_1870-1879_08_pt1-page-150.csv",
                 "start_date": "1870/01",
@@ -26,6 +21,23 @@
                 "filename": "TYRain_1900-1909_21_pt1-page-026.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
+            }
+        ],
+        "LEEDS-HORSFORTH.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-105.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-151.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-041.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
             }
         ]
     }

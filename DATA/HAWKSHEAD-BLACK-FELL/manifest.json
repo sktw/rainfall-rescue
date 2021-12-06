@@ -1,6 +1,23 @@
 {
     "name": "HAWKSHEAD-BLACK-FELL",
     "data": {
+        "HAWKSHEAD-BLACK-FELL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-032.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-032.csv",
+                "start_date": "1935/09",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-032.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ],
         "HAWKSHEAD-BLACK-FELL.csv": [
             {
                 "filename": "ERROR_TYRain_1890-1899_15_pt1-page-111.csv",
@@ -40,5 +57,17 @@
                 "end_date": "1923/08"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_18A_pt1-page-032.csv",
+            "start_date": "1935/08",
+            "end_date": "1935/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_18A_pt1-page-032.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
 }

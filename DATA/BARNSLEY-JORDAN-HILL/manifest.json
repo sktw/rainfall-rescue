@@ -50,7 +50,34 @@
                 "end_date": "1960/13"
             }
         ],
+        "BARNSLEY-JORDAN-HILL-4.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-088.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-024.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/03"
+            }
+        ],
         "BARNSLEY-JORDAN-HILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-024.csv",
+                "start_date": "1894/04",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-024.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
             {
                 "filename": "TYRain_1900-1909_20_pt1-page-103.csv",
                 "start_date": "1900/01",
@@ -67,6 +94,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1890-1899_17_pt1-page-024.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        },
         {
             "filename": "TYRain_1900-1909_20_pt1-page-103.csv",
             "start_date": "1903/13",

@@ -1,13 +1,6 @@
 {
     "name": "WYTHBURN",
     "data": {
-        "WYTHBURN-2.csv": [
-            {
-                "filename": "TYRain_1870-1879_09_pt3-page-023.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/13"
-            }
-        ],
         "WYTHBURN.csv": [
             {
                 "filename": "ERROR_TYRain_1870-1879_09_pt3-page-028.csv",

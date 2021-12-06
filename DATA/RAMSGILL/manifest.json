@@ -15,6 +15,13 @@
             {
                 "filename": "ERROR_TYRain_1880-1889_10_pt2-page-136.csv",
                 "start_date": "1880/01",
+                "end_date": "1885/13"
+            }
+        ],
+        "RAMSGILL-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-136.csv",
+                "start_date": "1886/01",
                 "end_date": "1889/13"
             },
             {

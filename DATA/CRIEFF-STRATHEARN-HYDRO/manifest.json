@@ -3,6 +3,21 @@
     "data": {
         "CRIEFF-STRATHEARN-HYDRO.csv": [
             {
+                "filename": "TYRain_1900-1909_29_pt1-page-071.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-071.csv",
+                "start_date": "1907/05",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-071.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
                 "filename": "TYRain_1910-1919_27_pt1-page-207.csv",
                 "start_date": "1910/01",
                 "end_date": "1919/13"
@@ -36,5 +51,17 @@
                 "end_date": "1959/01"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-071.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/04"
+        },
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-071.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
 }

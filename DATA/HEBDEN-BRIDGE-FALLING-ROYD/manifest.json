@@ -1,9 +1,21 @@
 {
     "name": "HEBDEN-BRIDGE-FALLING-ROYD",
     "data": {
-        "HEBDEN-BRIDGE-FALLING-ROYD.csv": [
+        "HEBDEN-BRIDGE-FALLING-ROYD-2.csv": [
             {
                 "filename": "TYRain_1890-1899_17_pt1-page-102.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "HEBDEN-BRIDGE-FALLING-ROYD.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-151.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_17_pt1-page-101.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
             },

@@ -1,12 +1,7 @@
 {
     "name": "CHARD-CRICKET-ST-THOMAS",
     "data": {
-        "CHARD-CRICKET-ST-THOMAS.csv": [
-            {
-                "filename": "TYRain_1850-1859_G_pt1-page-295.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            },
+        "CHARD-CRICKET-ST-THOMAS-2.csv": [
             {
                 "filename": "TYRain_1860-1869_03_pt1-page-104.csv",
                 "start_date": "1860/01",
@@ -107,10 +102,27 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "CHARD-CRICKET-ST-THOMAS.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-295.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt1-page-103.csv",
+                "start_date": "1860/01",
+                "end_date": "1866/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_03_pt1-page-103.csv",
+                "start_date": "1868/01",
+                "end_date": "1869/13"
+            }
         ]
     },
     "idr": {
-        "CHARD-CRICKET-ST-THOMAS.csv": [
+        "CHARD-CRICKET-ST-THOMAS-2.csv": [
             {
                 "start_date": "1871/09",
                 "end_date": "1871/09"
@@ -119,9 +131,24 @@
                 "start_date": "1899/13",
                 "end_date": "1899/13"
             }
+        ],
+        "CHARD-CRICKET-ST-THOMAS.csv": [
+            {
+                "start_date": "1862/11",
+                "end_date": "1862/11"
+            },
+            {
+                "start_date": "1863/08",
+                "end_date": "1863/08"
+            }
         ]
     },
     "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_03_pt1-page-103.csv",
+            "start_date": "1867/01",
+            "end_date": "1867/13"
+        },
         {
             "filename": "ERROR_TYRain_1941-1950_14_pt1-page-150.csv",
             "start_date": "1948/01",

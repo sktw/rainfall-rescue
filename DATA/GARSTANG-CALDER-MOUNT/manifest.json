@@ -1,13 +1,6 @@
 {
     "name": "GARSTANG-CALDER-MOUNT",
     "data": {
-        "GARSTANG-CALDER-MOUNT-2.csv": [
-            {
-                "filename": "TYRain_1880-1889_09_pt1-page-145.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            }
-        ],
         "GARSTANG-CALDER-MOUNT.csv": [
             {
                 "filename": "TYRain_1870-1879_07_pt4-page-157.csv",

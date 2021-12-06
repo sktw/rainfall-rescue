@@ -14,7 +14,17 @@
             },
             {
                 "filename": "ERROR_TYRain_1880-1889_10_pt2-page-117.csv",
-                "start_date": "1880/01",
+                "start_date": "1881/01",
+                "end_date": "1881/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-117.csv",
+                "start_date": "1881/13",
+                "end_date": "1881/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-117.csv",
+                "start_date": "1883/01",
                 "end_date": "1889/13"
             },
             {
@@ -45,12 +55,36 @@
             {
                 "filename": "TYRain_1941-1950_22_pt1-page-051.csv",
                 "start_date": "1941/01",
+                "end_date": "1947/03"
+            }
+        ],
+        "WHARFEDALE-OUGHTERSHAW-HALL-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-051.csv",
+                "start_date": "1947/04",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_22_pt1-page-051.csv",
+                "start_date": "1948/01",
                 "end_date": "1950/13"
             },
             {
                 "filename": "TYRain_1951-1960_20_pt1-page-127.csv",
                 "start_date": "1951/01",
                 "end_date": "1960/13"
+            }
+        ],
+        "WHARFEDALE-OUGHTERSHAW-HALL-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_08_pt1-page-234.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_10_pt2-page-117.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
             }
         ],
         "WHARFEDALE-OUGHTERSHAW-HALL.csv": [
@@ -63,6 +97,16 @@
                 "filename": "TYRain_1860-1869_05_pt1-page-144.csv",
                 "start_date": "1860/01",
                 "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-232.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-119.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
             }
         ]
     },
@@ -73,5 +117,12 @@
                 "end_date": "1887/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_22_pt1-page-051.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        }
+    ]
 }

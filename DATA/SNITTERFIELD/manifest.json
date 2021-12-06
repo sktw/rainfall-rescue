@@ -23,20 +23,10 @@
                 "end_date": "1960/13"
             }
         ],
-        "SNITTERFIELD.csv": [
-            {
-                "filename": "TYRain_1880-1889_07_pt4-page-005.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            },
-            {
-                "filename": "TYRain_1890-1899_13_pt1-page-008.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
+        "SNITTERFIELD-3.csv": [
             {
                 "filename": "TYRain_1900-1909_16_pt1-page-205.csv",
-                "start_date": "1900/01",
+                "start_date": "1904/05",
                 "end_date": "1909/13"
             },
             {
@@ -53,6 +43,28 @@
                 "filename": "TYRain_1920-1930_16_pt1-page-053.csv",
                 "start_date": "1924/01",
                 "end_date": "1930/13"
+            }
+        ],
+        "SNITTERFIELD.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-205.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/05"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-205.csv",
+                "start_date": "1904/13",
+                "end_date": "1904/13"
             }
         ]
     },

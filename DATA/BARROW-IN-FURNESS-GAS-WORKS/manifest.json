@@ -1,6 +1,33 @@
 {
     "name": "BARROW-IN-FURNESS-GAS-WORKS",
     "data": {
+        "BARROW-IN-FURNESS-GAS-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-194.csv",
+                "start_date": "1921/02",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-194.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-003.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-118.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-107.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "BARROW-IN-FURNESS-GAS-WORKS.csv": [
             {
                 "filename": "ERROR_TYRain_1870-1879_07_pt4-page-170.csv",
@@ -50,22 +77,7 @@
             {
                 "filename": "TYRain_1920-1930_20_pt1-page-194.csv",
                 "start_date": "1920/01",
-                "end_date": "1930/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_18A_pt1-page-003.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
-            },
-            {
-                "filename": "TYRain_1941-1950_20_pt1-page-118.csv",
-                "start_date": "1941/01",
-                "end_date": "1950/13"
-            },
-            {
-                "filename": "TYRain_1951-1960_18_pt1-page-107.csv",
-                "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1921/01"
             }
         ]
     },
@@ -92,6 +104,11 @@
         },
         {
             "filename": "TYRain_1880-1889_09_pt1-page-096.csv"
+        },
+        {
+            "filename": "TYRain_1920-1930_20_pt1-page-194.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
         }
     ]
 }

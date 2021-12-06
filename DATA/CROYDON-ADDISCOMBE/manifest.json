@@ -8,7 +8,7 @@
                 "end_date": "1879/13"
             },
             {
-                "filename": "TYRain_1880-1889_01_pt3-page-037.csv",
+                "filename": "TYRain_1880-1889_01_pt3-page-036.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"
             },
@@ -18,11 +18,23 @@
                 "end_date": "1899/13"
             }
         ],
+        "CROYDON-ADDISCOMBE-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "CROYDON-ADDISCOMBE.csv": [
             {
                 "filename": "TYRain_1870-1879_01_pt2-page-037.csv",
                 "start_date": "1870/01",
                 "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-035.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
             }
         ]
     }

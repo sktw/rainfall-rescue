@@ -39,6 +39,18 @@
             }
         ]
     },
+    "idr": {
+        "GOLDSBOROUGH-HALL.csv": [
+            {
+                "start_date": "1894/03",
+                "end_date": "1894/12"
+            },
+            {
+                "start_date": "1895/01",
+                "end_date": "1896/03"
+            }
+        ]
+    },
     "unused": [
         {
             "filename": "TYRain_1931-1940_19_pt1-page-205.csv",

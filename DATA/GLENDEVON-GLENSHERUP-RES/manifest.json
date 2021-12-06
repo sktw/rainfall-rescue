@@ -38,6 +38,30 @@
                 "end_date": "1960/13"
             }
         ],
+        "GLENDEVON-GLENSHERUP-RES-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-083.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLENDEVON-GLENSHERUP-RES-4.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-085.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-085.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-085.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ],
         "GLENDEVON-GLENSHERUP-RES.csv": [
             {
                 "filename": "TYRain_1870-1879_12_pt1-page-047.csv",
@@ -61,10 +85,14 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1951-1960_28_pt1-page-083.csv"
+            "filename": "TYRain_1951-1960_28_pt1-page-085.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
         },
         {
-            "filename": "TYRain_1951-1960_28_pt1-page-085.csv"
+            "filename": "TYRain_1951-1960_28_pt1-page-085.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
         }
     ]
 }

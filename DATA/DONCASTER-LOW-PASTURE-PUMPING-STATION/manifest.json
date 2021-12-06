@@ -3,8 +3,33 @@
     "data": {
         "DONCASTER-LOW-PASTURE-PUMPING-STATION.csv": [
             {
-                "filename": "TYRain_1931-1940_18B_pt1-page-081.csv",
+                "filename": "TYRain_1931-1940_18B_pt1-page-163.csv",
                 "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-081.csv",
+                "start_date": "1933/01",
+                "end_date": "1933/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-163.csv",
+                "start_date": "1933/02",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-081.csv",
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-163.csv",
+                "start_date": "1934/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-081.csv",
+                "start_date": "1938/01",
                 "end_date": "1940/13"
             },
             {
@@ -18,5 +43,17 @@
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-163.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-163.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
 }

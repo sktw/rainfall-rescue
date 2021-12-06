@@ -3,6 +3,11 @@
     "data": {
         "BOSTON-SPA-2.csv": [
             {
+                "filename": "TYRain_1880-1889_10_pt2-page-078.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
                 "filename": "TYRain_1890-1899_16_pt1-page-089.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"

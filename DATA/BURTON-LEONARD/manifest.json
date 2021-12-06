@@ -1,6 +1,18 @@
 {
     "name": "BURTON-LEONARD",
     "data": {
+        "BURTON-LEONARD-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-160.csv",
+                "start_date": "1954/07",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-160.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
         "BURTON-LEONARD.csv": [
             {
                 "filename": "TYRain_1931-1940_19_pt1-page-221.csv",
@@ -15,8 +27,20 @@
             {
                 "filename": "TYRain_1951-1960_20_pt1-page-160.csv",
                 "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1954/05"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-160.csv",
+            "start_date": "1954/06",
+            "end_date": "1954/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_20_pt1-page-160.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
 }

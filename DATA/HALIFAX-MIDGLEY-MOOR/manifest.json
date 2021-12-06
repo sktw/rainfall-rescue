@@ -15,6 +15,16 @@
             {
                 "filename": "TYRain_1941-1950_21_pt1-page-220.csv",
                 "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-220.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-220.csv",
+                "start_date": "1943/01",
                 "end_date": "1950/13"
             },
             {
@@ -79,7 +89,23 @@
             {
                 "start_date": "1879/02",
                 "end_date": "1879/02"
+            },
+            {
+                "start_date": "1886/01",
+                "end_date": "1886/03"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-220.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-220.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
 }

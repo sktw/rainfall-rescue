@@ -11,7 +11,7 @@
         "CIRENCESTER-MIX-3.csv": [
             {
                 "filename": "TYRain_1920-1930_14_pt1-page-024.csv",
-                "start_date": "1920/01",
+                "start_date": "1923/01",
                 "end_date": "1930/13"
             },
             {
@@ -75,5 +75,12 @@
                 "end_date": "1956/11"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_14_pt1-page-024.csv",
+            "start_date": "1920/01",
+            "end_date": "1922/13"
+        }
+    ]
 }

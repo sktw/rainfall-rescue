@@ -1,10 +1,32 @@
 {
     "name": "WATH-UPON-DEARNE-WEST-MELTON",
     "data": {
-        "WATH-UPON-DEARNE-WEST-MELTON.csv": [
+        "WATH-UPON-DEARNE-WEST-MELTON-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_05_pt1-page-015.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-031.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
             {
                 "filename": "TYRain_1880-1889_10_pt1-page-073.csv",
                 "start_date": "1880/01",
+                "end_date": "1881/05"
+            }
+        ],
+        "WATH-UPON-DEARNE-WEST-MELTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-073.csv",
+                "start_date": "1881/07",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt1-page-073.csv",
+                "start_date": "1882/01",
                 "end_date": "1889/13"
             },
             {
@@ -13,5 +35,17 @@
                 "end_date": "1899/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-073.csv",
+            "start_date": "1881/06",
+            "end_date": "1881/06"
+        },
+        {
+            "filename": "TYRain_1880-1889_10_pt1-page-073.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        }
+    ]
 }
