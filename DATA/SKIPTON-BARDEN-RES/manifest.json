@@ -23,11 +23,6 @@
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_20_pt1-page-139.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
                 "filename": "TYRain_1920-1930_23_pt1-page-041.csv",
                 "start_date": "1920/01",
                 "end_date": "1930/13"
@@ -73,12 +68,71 @@
                 "filename": "TYRain_1900-1909_21_pt1-page-208.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-139.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-040.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "TYRain_1920-1930_23_pt1-page-040.csv"
-        }
-    ]
+    "external": {
+        "SKIPTON-BARDEN-RES-2.csv": [
+            {
+                "comment": "Data from British Rainfall 1910",
+                "start_date": "1910/13",
+                "end_date": "1910/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1911",
+                "start_date": "1911/13",
+                "end_date": "1911/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1912",
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1913",
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1914",
+                "start_date": "1914/13",
+                "end_date": "1914/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1915",
+                "start_date": "1915/13",
+                "end_date": "1915/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1916",
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1917",
+                "start_date": "1917/13",
+                "end_date": "1917/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1918",
+                "start_date": "1918/13",
+                "end_date": "1918/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1919",
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    }
 }
