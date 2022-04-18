@@ -1,14 +1,21 @@
 {
-    "name": "PATTERSIDE-GREENSIDE-MINES",
+    "name": "PATTERDALE-GREENSIDE-MINES",
     "data": {
-        "PATTERSIDE-GREENSIDE-MINES-HIGH.csv": [
+        "PATTERDALE-GREENSIDE-MINES-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-113.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "PATTERDALE-GREENSIDE-MINES-HIGH.csv": [
             {
                 "filename": "TYRain_1860-1869_06_pt1-page-114.csv",
                 "start_date": "1860/01",
                 "end_date": "1869/13"
             }
         ],
-        "PATTERSIDE-GREENSIDE-MINES.csv": [
+        "PATTERDALE-GREENSIDE-MINES.csv": [
             {
                 "filename": "TYRain_1870-1879_09_pt4-page-035.csv",
                 "start_date": "1870/01",
@@ -57,7 +64,7 @@
         ]
     },
     "idr": {
-        "PATTERSIDE-GREENSIDE-MINES.csv": [
+        "PATTERDALE-GREENSIDE-MINES.csv": [
             {
                 "start_date": "1939/13",
                 "end_date": "1939/13"

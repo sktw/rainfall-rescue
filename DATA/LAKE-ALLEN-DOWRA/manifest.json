@@ -5,6 +5,11 @@
             {
                 "filename": "TYRain_1870-1879_13_pt2-page-073.csv",
                 "start_date": "1870/01",
+                "end_date": "1876/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt2-page-074.csv",
+                "start_date": "1877/01",
                 "end_date": "1879/13"
             },
             {
