@@ -4,7 +4,7 @@
         "STRATFORD-ON-AVON-GUILD-STREET.csv": [
             {
                 "filename": "TYRain_1880-1889_07_pt4-page-004.csv",
-                "start_date": "1880/01",
+                "start_date": "1885/07",
                 "end_date": "1889/13"
             },
             {
@@ -25,6 +25,11 @@
         ]
     },
     "unused": [
+        {
+            "filename": "TYRain_1880-1889_07_pt4-page-004.csv",
+            "start_date": "1880/01",
+            "end_date": "1885/06"
+        },
         {
             "filename": "TYRain_1900-1909_16_pt1-page-208.csv",
             "start_date": "1900/12",
