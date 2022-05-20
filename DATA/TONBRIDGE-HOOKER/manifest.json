@@ -3,13 +3,8 @@
     "data": {
         "TONBRIDGE-HOOKER.csv": [
             {
-                "filename": "TYRain_1677-1886_A_pt1-page-049.csv",
-                "start_date": "1720/01",
-                "end_date": "1729/13"
-            },
-            {
                 "filename": "ERROR_TYRain_1677-1886_A_pt1-page-050.csv",
-                "start_date": "1730/01",
+                "start_date": "1734/01",
                 "end_date": "1739/13"
             },
             {
@@ -36,5 +31,15 @@
                 "end_date": "1737/05"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-050.csv",
+            "start_date": "1730/01",
+            "end_date": "1733/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-049.csv"
+        }
+    ]
 }

@@ -3,6 +3,11 @@
     "data": {
         "BLACKBURN-GUIDE-RES.csv": [
             {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-065.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
                 "filename": "TYRain_1870-1879_07_pt4-page-097.csv",
                 "start_date": "1870/01",
                 "end_date": "1879/13"
@@ -46,6 +51,14 @@
                 "filename": "TYRain_1951-1960_18_pt1-page-014.csv",
                 "start_date": "1951/01",
                 "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BLACKBURN-GUIDE-RES.csv": [
+            {
+                "start_date": "1868/08",
+                "end_date": "1868/08"
             }
         ]
     }

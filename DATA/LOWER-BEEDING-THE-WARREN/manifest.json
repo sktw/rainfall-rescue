@@ -1,13 +1,6 @@
 {
     "name": "LOWER-BEEDING-THE-WARREN",
     "data": {
-        "LOWER-BEEDING-THE-WARREN-2.csv": [
-            {
-                "filename": "TYRain_1900-1909_04_pt1-page-065.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
-            }
-        ],
         "LOWER-BEEDING-THE-WARREN.csv": [
             {
                 "filename": "TYRain_1900-1909_04_pt1-page-033.csv",
