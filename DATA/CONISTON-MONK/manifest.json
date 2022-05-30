@@ -123,6 +123,12 @@
                 "start_date": "1931/13",
                 "end_date": "1931/13"
             }
+        ],
+        "CONISTON-MONK.csv": [
+            {
+                "start_date": "1870/07",
+                "end_date": "1870/07"
+            }
         ]
     }
 }

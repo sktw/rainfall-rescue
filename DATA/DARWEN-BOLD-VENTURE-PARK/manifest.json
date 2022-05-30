@@ -1,10 +1,42 @@
 {
     "name": "DARWEN-BOLD-VENTURE-PARK",
     "data": {
+        "DARWEN-BOLD-VENTURE-PARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-006.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-006.csv",
+                "start_date": "1898/02",
+                "end_date": "1898/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_15_pt1-page-006.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-236.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            }
+        ],
         "DARWEN-BOLD-VENTURE-PARK.csv": [
             {
                 "filename": "TYRain_1900-1909_19_pt1-page-225.csv",
                 "start_date": "1900/01",
+                "end_date": "1900/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-236.csv",
+                "start_date": "1901/01",
+                "end_date": "1907/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-225.csv",
+                "start_date": "1908/01",
                 "end_date": "1909/13"
             },
             {
@@ -33,5 +65,25 @@
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_18_pt1-page-082.csv"
+        },
+        {
+            "filename": "TYRain_1890-1899_15_pt1-page-006.csv",
+            "start_date": "1898/01",
+            "end_date": "1898/01"
+        },
+        {
+            "filename": "TYRain_1890-1899_15_pt1-page-006.csv",
+            "start_date": "1898/13",
+            "end_date": "1898/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_19_pt1-page-236.csv",
+            "start_date": "1908/01",
+            "end_date": "1909/13"
+        }
+    ]
 }

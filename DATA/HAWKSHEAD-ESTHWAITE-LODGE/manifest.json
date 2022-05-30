@@ -1,13 +1,6 @@
 {
     "name": "HAWKSHEAD-ESTHWAITE-LODGE",
     "data": {
-        "HAWKSHEAD-ESTHWAITE-LODGE-2.csv": [
-            {
-                "filename": "TYRain_1880-1889_09_pt1-page-117.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            }
-        ],
         "HAWKSHEAD-ESTHWAITE-LODGE.csv": [
             {
                 "filename": "TYRain_1820-1829_C_pt2-page-055.csv",
