@@ -1,10 +1,27 @@
 {
     "name": "RAVENSTONEDALE",
     "data": {
+        "RAVENSTONEDALE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-065.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
         "RAVENSTONEDALE.csv": [
             {
                 "filename": "TYRain_1870-1879_09_pt4-page-039.csv",
                 "start_date": "1870/01",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt4-page-039.csv",
+                "start_date": "1871/01",
+                "end_date": "1871/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt4-page-039.csv",
+                "start_date": "1871/13",
                 "end_date": "1879/13"
             },
             {
@@ -20,18 +37,28 @@
             {
                 "filename": "TYRain_1900-1909_24_pt1-page-007.csv",
                 "start_date": "1900/01",
-                "end_date": "1900/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_24_pt1-page-065.csv",
-                "start_date": "1901/01",
-                "end_date": "1907/13"
-            },
-            {
-                "filename": "TYRain_1900-1909_24_pt1-page-007.csv",
-                "start_date": "1908/01",
                 "end_date": "1909/13"
             }
         ]
-    }
+    },
+    "idr": {
+        "RAVENSTONEDALE.csv": [
+            {
+                "start_date": "1873/02",
+                "end_date": "1873/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_09_pt4-page-039.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        },
+        {
+            "filename": "TYRain_1870-1879_09_pt4-page-039.csv",
+            "start_date": "1871/09",
+            "end_date": "1871/12"
+        }
+    ]
 }

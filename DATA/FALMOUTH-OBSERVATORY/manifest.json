@@ -3,6 +3,16 @@
     "data": {
         "FALMOUTH-OBSERVATORY-2.csv": [
             {
+                "filename": "TYRain_1880-1889_06_pt1-page-031.csv",
+                "start_date": "1885/06",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-031.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            },
+            {
                 "filename": "TYRain_1890-1899_09_pt1-page-192.csv",
                 "start_date": "1890/01",
                 "end_date": "1899/13"
@@ -40,6 +50,20 @@
                 "end_date": "1960/13"
             }
         ],
+        "FALMOUTH-OBSERVATORY-4.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-031.csv",
+                "start_date": "1880/01",
+                "end_date": "1885/04"
+            }
+        ],
+        "FALMOUTH-OBSERVATORY-5.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-032.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "FALMOUTH-OBSERVATORY.csv": [
             {
                 "filename": "TYRain_1870-1879_05_pt1-page-037.csv",
@@ -48,7 +72,12 @@
             },
             {
                 "filename": "TYRain_1880-1889_06_pt1-page-033.csv",
-                "start_date": "1880/01",
+                "start_date": "1885/05",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-033.csv",
+                "start_date": "1886/01",
                 "end_date": "1889/13"
             },
             {
@@ -103,6 +132,26 @@
             "filename": "ERROR_TYRain_1910-1919_12_pt1-page-234.csv",
             "start_date": "1919/01",
             "end_date": "1919/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt1-page-031.csv",
+            "start_date": "1885/05",
+            "end_date": "1885/05"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt1-page-031.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt1-page-033.csv",
+            "start_date": "1880/01",
+            "end_date": "1885/04"
+        },
+        {
+            "filename": "TYRain_1880-1889_06_pt1-page-033.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
         }
     ]
 }

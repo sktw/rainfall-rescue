@@ -1,6 +1,23 @@
 {
     "name": "DOVER-MARTIN-MILL",
     "data": {
+        "DOVER-MARTIN-MILL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-049.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-049.csv",
+                "start_date": "1925/05",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-049.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ],
         "DOVER-MARTIN-MILL.csv": [
             {
                 "filename": "TYRain_1900-1909_03_pt1-page-129.csv",
@@ -20,7 +37,7 @@
             {
                 "filename": "TYRain_1931-1940_03_pt1-page-145.csv",
                 "start_date": "1931/01",
-                "end_date": "1940/13"
+                "end_date": "1940/11"
             },
             {
                 "filename": "TYRain_1941-1950_03_pt1-page-039.csv",
@@ -36,7 +53,19 @@
     },
     "unused": [
         {
-            "filename": "TYRain_1920-1930_03_pt1-page-049.csv"
+            "filename": "TYRain_1920-1930_03_pt1-page-049.csv",
+            "start_date": "1925/01",
+            "end_date": "1925/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-049.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-145.csv",
+            "start_date": "1940/12",
+            "end_date": "1940/13"
         }
     ]
 }
