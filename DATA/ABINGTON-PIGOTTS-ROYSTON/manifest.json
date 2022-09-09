@@ -1,6 +1,13 @@
 {
     "name": "ABINGTON-PIGOTTS-ROYSTON",
     "data": {
+        "ABINGTON-PIGOTTS-ROYSTON-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-072.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
         "ABINGTON-PIGOTTS-ROYSTON.csv": [
             {
                 "filename": "TYRain_1860-1869_02_pt2-page-025.csv",

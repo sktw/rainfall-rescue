@@ -1,6 +1,18 @@
 {
     "name": "HAWESWATER-MEASAND",
     "data": {
+        "HAWESWATER-MEASAND-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_24_pt1-page-022.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_21_pt1-page-104.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "HAWESWATER-MEASAND.csv": [
             {
                 "filename": "TYRain_1910-1919_22_pt1-page-204.csv",

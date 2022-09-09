@@ -3,6 +3,18 @@
     "data": {
         "HASTINGS-NEWGATE-RES-2.csv": [
             {
+                "filename": "TYRain_1890-1899_04_pt1-page-146.csv",
+                "start_date": "1891/04",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-168.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "HASTINGS-NEWGATE-RES-3.csv": [
+            {
                 "filename": "TYRain_1900-1909_04_pt1-page-169.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
@@ -35,19 +47,19 @@
         ],
         "HASTINGS-NEWGATE-RES.csv": [
             {
-                "filename": "TYRain_1890-1899_04_pt1-page-146.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
+                "filename": "TYRain_1880-1889_02_pt2-page-104.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
             },
             {
-                "filename": "TYRain_1900-1909_04_pt1-page-168.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
+                "filename": "TYRain_1890-1899_04_pt1-page-146.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/03"
             }
         ]
     },
     "idr": {
-        "HASTINGS-NEWGATE-RES-2.csv": [
+        "HASTINGS-NEWGATE-RES-3.csv": [
             {
                 "start_date": "1940/08",
                 "end_date": "1940/08"

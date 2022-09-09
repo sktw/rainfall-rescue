@@ -1,6 +1,43 @@
 {
     "name": "LIVERPOOL-BRADSTONES",
     "data": {
+        "LIVERPOOL-BRADSTONES-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1860/01",
+                "end_date": "1860/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1861/01",
+                "end_date": "1861/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1862/01",
+                "end_date": "1862/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1863/01",
+                "end_date": "1863/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1864/01",
+                "end_date": "1864/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
+                "start_date": "1865/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-003.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
         "LIVERPOOL-BRADSTONES.csv": [
             {
                 "filename": "TYRain_1850-1859_F_pt1-page-115.csv",
@@ -10,11 +47,6 @@
             {
                 "filename": "TYRain_1860-1869_04_pt3-page-006.csv",
                 "start_date": "1860/01",
-                "end_date": "1864/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-009.csv",
-                "start_date": "1865/01",
                 "end_date": "1869/13"
             }
         ]

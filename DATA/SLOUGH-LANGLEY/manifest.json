@@ -1,6 +1,23 @@
 {
     "name": "SLOUGH-LANGLEY",
     "data": {
+        "SLOUGH-LANGLEY-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-018.csv",
+                "start_date": "1880/01",
+                "end_date": "1881/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-017.csv",
+                "start_date": "1882/01",
+                "end_date": "1887/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_03_pt4-page-018.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            }
+        ],
         "SLOUGH-LANGLEY.csv": [
             {
                 "filename": "TYRain_1870-1879_02_pt2-page-059.csv",
@@ -8,7 +25,7 @@
                 "end_date": "1879/13"
             },
             {
-                "filename": "TYRain_1880-1889_03_pt4-page-018.csv",
+                "filename": "TYRain_1880-1889_03_pt4-page-016.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"
             },

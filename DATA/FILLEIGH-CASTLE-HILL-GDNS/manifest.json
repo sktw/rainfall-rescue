@@ -3,6 +3,18 @@
     "data": {
         "FILLEIGH-CASTLE-HILL-GDNS-2.csv": [
             {
+                "filename": "TYRain_1920-1930_11_pt1-page-181.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-223.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "FILLEIGH-CASTLE-HILL-GDNS.csv": [
+            {
                 "filename": "TYRain_1850-1859_G_pt1-page-248.csv",
                 "start_date": "1850/01",
                 "end_date": "1859/13"
@@ -25,6 +37,11 @@
             {
                 "filename": "ERROR_TYRain_1890-1899_10_pt1-page-147.csv",
                 "start_date": "1890/01",
+                "end_date": "1896/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_10_pt1-page-147.csv",
+                "start_date": "1897/01",
                 "end_date": "1899/13"
             },
             {
@@ -42,43 +59,30 @@
                 "start_date": "1920/01",
                 "end_date": "1930/13"
             }
-        ],
-        "FILLEIGH-CASTLE-HILL-GDNS-3.csv": [
-            {
-                "filename": "TYRain_1920-1930_11_pt1-page-181.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_11_pt1-page-223.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
-            }
-        ],
-        "FILLEIGH-CASTLE-HILL-GDNS.csv": [
-            {
-                "filename": "TYRain_1850-1859_G_pt1-page-247.csv",
-                "start_date": "1850/01",
-                "end_date": "1859/13"
-            },
-            {
-                "filename": "TYRain_1860-1869_02_pt3-page-146.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
-            {
-                "filename": "TYRain_1870-1879_03_pt4-page-010.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/13"
-            }
         ]
     },
     "idr": {
-        "FILLEIGH-CASTLE-HILL-GDNS-2.csv": [
+        "FILLEIGH-CASTLE-HILL-GDNS.csv": [
             {
                 "start_date": "1898/07",
                 "end_date": "1898/07"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_10_pt1-page-147.csv",
+            "start_date": "1896/13",
+            "end_date": "1896/13"
+        },
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-247.csv"
+        },
+        {
+            "filename": "TYRain_1860-1869_02_pt3-page-146.csv"
+        },
+        {
+            "filename": "TYRain_1870-1879_03_pt4-page-010.csv"
+        }
+    ]
 }
