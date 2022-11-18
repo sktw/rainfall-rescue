@@ -39,7 +39,7 @@
             {
                 "filename": "TYRain_1870-1879_09_pt4-page-003.csv",
                 "start_date": "1870/01",
-                "end_date": "1870/13"
+                "end_date": "1879/13"
             }
         ],
         "KIRKBY-LONSDALE-CASTERTON.csv": [
@@ -80,7 +80,7 @@
         "KIRKBY-LONSDALE-CASTERTON-4.csv": [
             {
                 "start_date": "1869/08",
-                "end_date": "1869/09"
+                "end_date": "1869/08"
             }
         ]
     }

@@ -1,12 +1,7 @@
 {
     "name": "DARTMOOR-LOWERY",
     "data": {
-        "DARTMOOR-LOWERY.csv": [
-            {
-                "filename": "TYRain_1870-1879_05_pt2-page-016.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/13"
-            },
+        "DARTMOOR-LOWERY-2.csv": [
             {
                 "filename": "TYRain_1880-1889_05_pt4-page-012.csv",
                 "start_date": "1880/01",
@@ -67,6 +62,18 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "DARTMOOR-LOWERY.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-016.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
         ]
     },
     "unused": [
@@ -89,9 +96,6 @@
             "filename": "ERROR_TYRain_1910-1919_11_pt1-page-158.csv",
             "start_date": "1915/13",
             "end_date": "1915/13"
-        },
-        {
-            "filename": "TYRain_1880-1889_05_pt4-page-013.csv"
         }
     ]
 }

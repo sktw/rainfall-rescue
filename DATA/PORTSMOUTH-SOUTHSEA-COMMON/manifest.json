@@ -3,30 +3,8 @@
     "data": {
         "PORTSMOUTH-SOUTHSEA-COMMON-2.csv": [
             {
-                "filename": "TYRain_1941-1950_05_pt1-page-100.csv",
-                "start_date": "1946/07",
-                "end_date": "1946/12"
-            },
-            {
-                "filename": "TYRain_1941-1950_05_pt1-page-100.csv",
-                "start_date": "1947/01",
-                "end_date": "1950/13"
-            },
-            {
-                "filename": "TYRain_1951-1960_04_pt1-page-039.csv",
-                "start_date": "1951/01",
-                "end_date": "1960/13"
-            }
-        ],
-        "PORTSMOUTH-SOUTHSEA-COMMON.csv": [
-            {
-                "filename": "TYRain_1890-1899_05_pt1-page-041.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
                 "filename": "ERROR_TYRain_1900-1909_05_pt1-page-085.csv",
-                "start_date": "1900/01",
+                "start_date": "1903/01",
                 "end_date": "1909/13"
             },
             {
@@ -49,10 +27,44 @@
                 "start_date": "1941/01",
                 "end_date": "1946/06"
             }
+        ],
+        "PORTSMOUTH-SOUTHSEA-COMMON-3.csv": [
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-100.csv",
+                "start_date": "1946/07",
+                "end_date": "1946/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-100.csv",
+                "start_date": "1947/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_04_pt1-page-039.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "PORTSMOUTH-SOUTHSEA-COMMON.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-032.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_05_pt1-page-085.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/13"
+            }
         ]
     },
     "idr": {
-        "PORTSMOUTH-SOUTHSEA-COMMON.csv": [
+        "PORTSMOUTH-SOUTHSEA-COMMON-2.csv": [
             {
                 "start_date": "1909/03",
                 "end_date": "1909/03"
@@ -60,9 +72,6 @@
         ]
     },
     "unused": [
-        {
-            "filename": "TYRain_1880-1889_03_pt1-page-032.csv"
-        },
         {
             "filename": "TYRain_1941-1950_05_pt1-page-100.csv",
             "start_date": "1946/13",

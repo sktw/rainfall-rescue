@@ -67,9 +67,39 @@
                 "end_date": "1909/13"
             },
             {
-                "filename": "TYRain_1910-1919_07_pt1-page-255.csv",
+                "filename": "TYRain_1910-1919_07_pt1-page-257.csv",
                 "start_date": "1910/01",
-                "end_date": "1919/13"
+                "end_date": "1910/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-260.csv",
+                "start_date": "1911/03",
+                "end_date": "1912/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_07_pt1-page-257.csv",
+                "start_date": "1912/04",
+                "end_date": "1914/02"
+            }
+        ]
+    },
+    "idr": {
+        "WATLINGTON-PYRTON-MANOR.csv": [
+            {
+                "start_date": "1910/01",
+                "end_date": "1910/10"
+            },
+            {
+                "start_date": "1911/04",
+                "end_date": "1912/02"
+            },
+            {
+                "start_date": "1912/05",
+                "end_date": "1913/11"
+            },
+            {
+                "start_date": "1913/13",
+                "end_date": "1914/02"
             }
         ]
     }
