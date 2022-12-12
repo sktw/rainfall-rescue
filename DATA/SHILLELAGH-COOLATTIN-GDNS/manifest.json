@@ -3,6 +3,16 @@
     "data": {
         "SHILLELAGH-COOLATTIN-GDNS.csv": [
             {
+                "filename": "TYRain_1860-1869_08_pt2-page-047.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_13_pt1-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
                 "filename": "TYRain_1900-1909_31_pt1-page-140.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"

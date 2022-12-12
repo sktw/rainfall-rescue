@@ -1,7 +1,24 @@
 {
     "name": "WARE-RED-HOUSE",
     "data": {
+        "WARE-RED-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-178.csv",
+                "start_date": "1954/02",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-178.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
         "WARE-RED-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt2-page-036.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
             {
                 "filename": "TYRain_1880-1889_03_pt3-page-036.csv",
                 "start_date": "1880/01",
@@ -40,8 +57,20 @@
             {
                 "filename": "TYRain_1951-1960_05_pt1-page-178.csv",
                 "start_date": "1951/01",
-                "end_date": "1960/13"
+                "end_date": "1953/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-178.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-178.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
 }

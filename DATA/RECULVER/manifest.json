@@ -1,20 +1,15 @@
 {
     "name": "RECULVER",
     "data": {
-        "RECULVER.csv": [
+        "RECULVER-2.csv": [
             {
-                "filename": "TYRain_1880-1889_02_pt1-page-049.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
-            },
-            {
-                "filename": "TYRain_1890-1899_03_pt1-page-061.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
+                "filename": "TYRain_1900-1909_03_pt1-page-249.csv",
+                "start_date": "1901/06",
+                "end_date": "1901/12"
             },
             {
                 "filename": "TYRain_1900-1909_03_pt1-page-249.csv",
-                "start_date": "1900/01",
+                "start_date": "1902/01",
                 "end_date": "1909/13"
             },
             {
@@ -31,7 +26,36 @@
                 "filename": "TYRain_1931-1940_03_pt1-page-179.csv",
                 "start_date": "1931/01",
                 "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-071.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "RECULVER.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-061.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-249.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/05"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_03_pt1-page-249.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
 }

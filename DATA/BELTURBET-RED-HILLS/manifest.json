@@ -3,6 +3,11 @@
     "data": {
         "BELTURBET-RED-HILLS.csv": [
             {
+                "filename": "TYRain_1860-1869_08_pt2-page-109.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
                 "filename": "TYRain_1870-1879_13_pt2-page-071.csv",
                 "start_date": "1870/01",
                 "end_date": "1879/13"

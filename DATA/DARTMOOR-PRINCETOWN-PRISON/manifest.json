@@ -44,6 +44,13 @@
                 "end_date": "1879/13"
             }
         ],
+        "DARTMOOR-PRINCETOWN-PRISON-6.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/04"
+            }
+        ],
         "DARTMOOR-PRINCETOWN-PRISON.csv": [
             {
                 "filename": "MISFILED_TYRain_1870-1879_05_pt2-page-045.csv",
@@ -94,5 +101,12 @@
                 "end_date": "1919/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_05_pt2-page-049.csv",
+            "start_date": "1879/05",
+            "end_date": "1879/13"
+        }
+    ]
 }

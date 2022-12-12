@@ -8,7 +8,7 @@
                 "end_date": "1879/13"
             },
             {
-                "filename": "TYRain_1880-1889_17_pt1-page-183.csv",
+                "filename": "ERROR_TYRain_1880-1889_17_pt1-page-182.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"
             },
@@ -33,5 +33,18 @@
                 "end_date": "1930/13"
             }
         ]
-    }
+    },
+    "idr": {
+        "BALLINROBE-CRANMORE.csv": [
+            {
+                "start_date": "1881/12",
+                "end_date": "1881/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_17_pt1-page-183.csv"
+        }
+    ]
 }

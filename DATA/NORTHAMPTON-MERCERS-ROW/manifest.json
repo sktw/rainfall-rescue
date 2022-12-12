@@ -1,10 +1,32 @@
 {
     "name": "NORTHAMPTON-MERCERS-ROW",
     "data": {
-        "NORTHAMPTON-MERCERS-ROW.csv": [
+        "NORTHAMPTON-MERCERS-ROW-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-038.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-038.csv",
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-038.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
             {
                 "filename": "TYRain_1920-1930_07_pt1-page-266.csv",
                 "start_date": "1920/01",
+                "end_date": "1927/13"
+            }
+        ],
+        "NORTHAMPTON-MERCERS-ROW-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-266.csv",
+                "start_date": "1928/01",
                 "end_date": "1930/13"
             },
             {
@@ -22,11 +44,13 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "NORTHAMPTON-MERCERS-ROW.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-038.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
         ]
-    },
-    "unused": [
-        {
-            "filename": "TYRain_1910-1919_08_pt1-page-038.csv"
-        }
-    ]
+    }
 }

@@ -1,6 +1,13 @@
 {
     "name": "STEYNING",
     "data": {
+        "STEYNING-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-067.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "STEYNING.csv": [
             {
                 "filename": "ERROR_TYRain_1860-1869_01_pt2-page-091.csv",

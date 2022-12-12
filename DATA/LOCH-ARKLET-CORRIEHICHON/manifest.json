@@ -1,6 +1,13 @@
 {
     "name": "LOCH-ARKLET-CORRIEHICHON",
     "data": {
+        "LOCH-ARKLET-CORRIEHICHON-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-150.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "LOCH-ARKLET-CORRIEHICHON.csv": [
             {
                 "filename": "TYRain_1900-1909_28_pt1-page-134.csv",

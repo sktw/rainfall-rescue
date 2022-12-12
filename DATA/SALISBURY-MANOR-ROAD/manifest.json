@@ -30,6 +30,16 @@
         ],
         "SALISBURY-MANOR-ROAD.csv": [
             {
+                "filename": "TYRain_1900-1909_10_pt1-page-148.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-204.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
                 "filename": "TYRain_1920-1930_09_pt1-page-307.csv",
                 "start_date": "1920/01",
                 "end_date": "1925/03"
