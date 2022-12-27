@@ -1,6 +1,13 @@
 {
     "name": "SOUTHAMPTON-CADLAND",
     "data": {
+        "SOUTHAMPTON-CADLAND-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ],
         "SOUTHAMPTON-CADLAND.csv": [
             {
                 "filename": "TYRain_1860-1869_01_pt3-page-020.csv",
@@ -35,21 +42,83 @@
             {
                 "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
                 "start_date": "1920/01",
+                "end_date": "1927/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+                "start_date": "1927/04",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+                "start_date": "1928/01",
+                "end_date": "1929/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+                "start_date": "1929/10",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+                "start_date": "1930/01",
                 "end_date": "1930/13"
             },
             {
                 "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
                 "start_date": "1931/01",
-                "end_date": "1940/13"
+                "end_date": "1931/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
+                "start_date": "1931/12",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
+                "start_date": "1932/01",
+                "end_date": "1936/13"
             }
         ]
     },
     "idr": {
-        "SOUTHAMPTON-CADLAND.csv": [
+        "SOUTHAMPTON-CADLAND-2.csv": [
             {
                 "start_date": "1940/08",
                 "end_date": "1940/08"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+            "start_date": "1927/03",
+            "end_date": "1927/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+            "start_date": "1929/07",
+            "end_date": "1929/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-093.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
+            "start_date": "1931/11",
+            "end_date": "1931/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-079.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        }
+    ]
 }

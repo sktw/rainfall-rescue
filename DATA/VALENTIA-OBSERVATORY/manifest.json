@@ -3,6 +3,40 @@
     "data": {
         "VALENTIA-OBSERVATORY-2.csv": [
             {
+                "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
+                "start_date": "1892/04",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "VALENTIA-OBSERVATORY-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/02"
+            }
+        ],
+        "VALENTIA-OBSERVATORY-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+                "start_date": "1892/04",
+                "end_date": "1892/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+                "start_date": "1893/01",
+                "end_date": "1899/13"
+            },
+            {
                 "filename": "TYRain_1900-1909_31_pt1-page-036.csv",
                 "start_date": "1900/01",
                 "end_date": "1909/13"
@@ -11,19 +45,9 @@
                 "filename": "TYRain_1910-1919_29_pt1-page-046.csv",
                 "start_date": "1910/01",
                 "end_date": "1918/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_35_pt1-page-049.csv",
-                "start_date": "1920/01",
-                "end_date": "1930/13"
-            },
-            {
-                "filename": "TYRain_1931-1940_27_pt1-page-256.csv",
-                "start_date": "1931/01",
-                "end_date": "1940/13"
             }
         ],
-        "VALENTIA-OBSERVATORY-3.csv": [
+        "VALENTIA-OBSERVATORY-5.csv": [
             {
                 "filename": "TYRain_1910-1919_29_pt1-page-047.csv",
                 "start_date": "1910/01",
@@ -32,6 +56,40 @@
             {
                 "filename": "TYRain_1920-1930_35_pt1-page-050.csv",
                 "start_date": "1920/01",
+                "end_date": "1920/13"
+            }
+        ],
+        "VALENTIA-OBSERVATORY-6.csv": [
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-050.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-256.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "VALENTIA-OBSERVATORY-7.csv": [
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-049.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-051.csv",
+                "start_date": "1922/02",
+                "end_date": "1922/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-049.csv",
+                "start_date": "1922/03",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_35_pt1-page-051.csv",
+                "start_date": "1929/01",
                 "end_date": "1930/13"
             }
         ],
@@ -44,13 +102,35 @@
             {
                 "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
                 "start_date": "1890/01",
+                "end_date": "1892/02"
+            },
+            {
+                "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
+                "start_date": "1893/01",
                 "end_date": "1899/13"
             }
         ]
     },
     "unused": [
         {
-            "filename": "TYRain_1890-1899_27_pt1-page-026.csv"
+            "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+            "start_date": "1892/03",
+            "end_date": "1892/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_27_pt1-page-026.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
+        },
+        {
+            "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
+            "start_date": "1892/03",
+            "end_date": "1892/03"
+        },
+        {
+            "filename": "TYRain_1890-1899_27_pt1-page-037.csv",
+            "start_date": "1892/13",
+            "end_date": "1892/13"
         },
         {
             "filename": "TYRain_1910-1919_29_pt1-page-046.csv",
@@ -58,7 +138,9 @@
             "end_date": "1919/13"
         },
         {
-            "filename": "TYRain_1920-1930_35_pt1-page-051.csv"
+            "filename": "TYRain_1920-1930_35_pt1-page-049.csv",
+            "start_date": "1922/02",
+            "end_date": "1922/02"
         }
     ]
 }

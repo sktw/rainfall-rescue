@@ -1,6 +1,18 @@
 {
     "name": "WYMONDHAM-HETHERSETT",
     "data": {
+        "WYMONDHAM-HETHERSETT-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-090.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-030.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
         "WYMONDHAM-HETHERSETT.csv": [
             {
                 "filename": "TYRain_1880-1889_04_pt5-page-017.csv",

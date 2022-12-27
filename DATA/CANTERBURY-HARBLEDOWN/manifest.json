@@ -13,6 +13,13 @@
                 "end_date": "1960/13"
             }
         ],
+        "CANTERBURY-HARBLEDOWN-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-042.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
         "CANTERBURY-HARBLEDOWN.csv": [
             {
                 "filename": "TYRain_1870-1879_01_pt3-page-041.csv",

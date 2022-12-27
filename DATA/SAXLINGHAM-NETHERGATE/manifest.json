@@ -3,6 +3,11 @@
     "data": {
         "SAXLINGHAM-NETHERGATE.csv": [
             {
+                "filename": "TYRain_1860-1869_02_pt2-page-103.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
                 "filename": "TYRain_1880-1889_04_pt5-page-011.csv",
                 "start_date": "1880/01",
                 "end_date": "1889/13"

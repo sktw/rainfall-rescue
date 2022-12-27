@@ -1,7 +1,7 @@
 {
     "name": "MANCHESTER-CHARLTON",
     "data": {
-        "MANCHESTER-CHARLTON-2.csv": [
+        "MANCHESTER-CHARLTON.csv": [
             {
                 "filename": "ERROR_TYRain_1677-1886_A_pt1-page-186.csv",
                 "start_date": "1790/01",
@@ -20,35 +20,11 @@
             {
                 "filename": "ERROR_TYRain_1677-1886_A_pt1-page-189.csv",
                 "start_date": "1810/01",
-                "end_date": "1819/13"
-            }
-        ],
-        "MANCHESTER-CHARLTON-3.csv": [
+                "end_date": "1818/13"
+            },
             {
                 "filename": "TYRain_1677-1886_A_pt1-page-190.csv",
-                "start_date": "1810/01",
-                "end_date": "1819/13"
-            },
-            {
-                "filename": "TYRain_1677-1886_A_pt1-page-191.csv",
-                "start_date": "1820/01",
-                "end_date": "1829/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1677-1886_A_pt1-page-192.csv",
-                "start_date": "1830/01",
-                "end_date": "1839/13"
-            },
-            {
-                "filename": "TYRain_1677-1886_A_pt1-page-193.csv",
-                "start_date": "1840/01",
-                "end_date": "1849/13"
-            }
-        ],
-        "MANCHESTER-CHARLTON.csv": [
-            {
-                "filename": "ERROR_TYRain_1677-1886_B_pt2-page-031.csv",
-                "start_date": "1810/01",
+                "start_date": "1819/01",
                 "end_date": "1819/13"
             },
             {
@@ -64,12 +40,12 @@
             {
                 "filename": "TYRain_1840-1849_E_pt1-page-040.csv",
                 "start_date": "1840/01",
-                "end_date": "1849/13"
+                "end_date": "1841/13"
             }
         ]
     },
     "idr": {
-        "MANCHESTER-CHARLTON-2.csv": [
+        "MANCHESTER-CHARLTON.csv": [
             {
                 "start_date": "1799/08",
                 "end_date": "1799/08"
@@ -171,38 +147,35 @@
                 "end_date": "1817/13"
             },
             {
-                "start_date": "1819/01",
-                "end_date": "1819/10"
+                "start_date": "1819/11",
+                "end_date": "1819/11"
             },
             {
-                "start_date": "1819/12",
+                "start_date": "1819/13",
                 "end_date": "1819/13"
-            }
-        ],
-        "MANCHESTER-CHARLTON-3.csv": [
-            {
-                "start_date": "1836/07",
-                "end_date": "1836/07"
-            },
-            {
-                "start_date": "1839/12",
-                "end_date": "1839/12"
-            }
-        ],
-        "MANCHESTER-CHARLTON.csv": [
-            {
-                "start_date": "1810/13",
-                "end_date": "1810/13"
-            },
-            {
-                "start_date": "1816/02",
-                "end_date": "1816/02"
             }
         ]
     },
     "unused": [
         {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-189.csv",
+            "start_date": "1819/01",
+            "end_date": "1819/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_A_pt1-page-192.csv"
+        },
+        {
+            "filename": "ERROR_TYRain_1677-1886_B_pt2-page-031.csv"
+        },
+        {
             "filename": "ERROR_TYRain_1677-1886_B_pt2-page-124.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-191.csv"
+        },
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-193.csv"
         }
     ]
 }

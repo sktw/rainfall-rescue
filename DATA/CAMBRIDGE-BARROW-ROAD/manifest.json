@@ -23,6 +23,23 @@
                 "end_date": "1960/13"
             }
         ],
+        "CAMBRIDGE-BARROW-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-089.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_09_pt1-page-087.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-069.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
         "CAMBRIDGE-BARROW-ROAD.csv": [
             {
                 "filename": "TYRain_1910-1919_08_pt1-page-215.csv",
@@ -41,17 +58,12 @@
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "ERROR_TYRain_1941-1950_09_pt1-page-087.csv"
-        },
-        {
-            "filename": "TYRain_1931-1940_08_pt1-page-089.csv",
-            "start_date": "1938/01",
-            "end_date": "1940/13"
-        },
-        {
-            "filename": "TYRain_1951-1960_07_pt1-page-069.csv"
-        }
-    ]
+    "idr": {
+        "CAMBRIDGE-BARROW-ROAD-3.csv": [
+            {
+                "start_date": "1945/08",
+                "end_date": "1945/08"
+            }
+        ]
+    }
 }

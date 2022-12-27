@@ -1,7 +1,24 @@
 {
     "name": "LODDON-BERGH-APTON",
     "data": {
+        "LODDON-BERGH-APTON-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
+                "start_date": "1893/11",
+                "end_date": "1893/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            }
+        ],
         "LODDON-BERGH-APTON.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-104.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
             {
                 "filename": "TYRain_1870-1879_03_pt3-page-009.csv",
                 "start_date": "1870/01",
@@ -20,8 +37,25 @@
             {
                 "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
                 "start_date": "1890/01",
+                "end_date": "1893/09"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
+                "start_date": "1897/01",
                 "end_date": "1899/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
+            "start_date": "1893/10",
+            "end_date": "1893/10"
+        },
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-119.csv",
+            "start_date": "1893/13",
+            "end_date": "1893/13"
+        }
+    ]
 }

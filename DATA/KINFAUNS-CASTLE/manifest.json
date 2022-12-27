@@ -58,6 +58,10 @@
     "idr": {
         "KINFAUNS-CASTLE-2.csv": [
             {
+                "start_date": "1816/01",
+                "end_date": "1816/12"
+            },
+            {
                 "start_date": "1820/07",
                 "end_date": "1820/07"
             },

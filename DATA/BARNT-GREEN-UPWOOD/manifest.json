@@ -1,6 +1,13 @@
 {
     "name": "BARNT-GREEN-UPWOOD",
     "data": {
+        "BARNT-GREEN-UPWOOD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-252.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
         "BARNT-GREEN-UPWOOD.csv": [
             {
                 "filename": "TYRain_1900-1909_16_pt1-page-225.csv",
