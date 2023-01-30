@@ -14,20 +14,8 @@
             },
             {
                 "filename": "TYRain_1677-1886_B_pt2-page-113.csv",
-                "start_date": "1810/01",
+                "start_date": "1811/01",
                 "end_date": "1819/13"
-            }
-        ]
-    },
-    "idr": {
-        "BRISTOL-ST-JAMES-SQUARE.csv": [
-            {
-                "start_date": "1810/01",
-                "end_date": "1810/08"
-            },
-            {
-                "start_date": "1810/10",
-                "end_date": "1810/13"
             }
         ]
     },
@@ -39,6 +27,21 @@
             "filename": "TYRain_1677-1886_B_pt2-page-015.csv",
             "start_date": "1804/01",
             "end_date": "1808/13"
+        },
+        {
+            "filename": "TYRain_1677-1886_B_pt2-page-113.csv",
+            "start_date": "1810/02",
+            "end_date": "1810/12"
         }
-    ]
+    ],
+    "external": {
+        "BRISTOL-ST-JAMES-SQUARE.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt2-page-113.jpg",
+                "comment": "Data transcribed from additional column - see note at foot of sheet",
+                "start_date": "1810/01",
+                "end_date": "1810/13"
+            }
+        ]
+    }
 }

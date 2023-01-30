@@ -4,6 +4,11 @@
         "LAKE-COWLYD-CAPEL-CURIG-2.csv": [
             {
                 "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-059.csv",
                 "start_date": "1938/02",
                 "end_date": "1938/09"
             },

@@ -1,27 +1,7 @@
 {
     "name": "TILBURY-GRAYS-SEWAGE-WORKS",
     "data": {
-        "TILBURY-GRAYS-SEWAGE-WORKS.csv": [
-            {
-                "filename": "TYRain_1890-1899_08_pt1-page-019.csv",
-                "start_date": "1890/01",
-                "end_date": "1899/13"
-            },
-            {
-                "filename": "ERROR_TYRain_1900-1909_09_pt1-page-121.csv",
-                "start_date": "1900/01",
-                "end_date": "1909/13"
-            },
-            {
-                "filename": "TYRain_1910-1919_09_pt1-page-026.csv",
-                "start_date": "1910/01",
-                "end_date": "1919/13"
-            },
-            {
-                "filename": "TYRain_1920-1930_08_pt1-page-152.csv",
-                "start_date": "1920/01",
-                "end_date": "1929/13"
-            },
+        "TILBURY-GRAYS-SEWAGE-WORKS-2.csv": [
             {
                 "filename": "TYRain_1920-1930_08_pt1-page-152.csv",
                 "start_date": "1930/07",
@@ -42,17 +22,41 @@
                 "start_date": "1951/01",
                 "end_date": "1960/13"
             }
+        ],
+        "TILBURY-GRAYS-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-019.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_09_pt1-page-121.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-026.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-152.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
         ]
     },
     "idr": {
+        "TILBURY-GRAYS-SEWAGE-WORKS-2.csv": [
+            {
+                "start_date": "1932/11",
+                "end_date": "1932/11"
+            }
+        ],
         "TILBURY-GRAYS-SEWAGE-WORKS.csv": [
             {
                 "start_date": "1907/03",
                 "end_date": "1907/03"
-            },
-            {
-                "start_date": "1932/11",
-                "end_date": "1932/11"
             }
         ]
     },
